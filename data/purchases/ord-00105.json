@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00105",
+  "customer": {
+    "customer_id": "cus-1000",
+    "first_name": "Владимир",
+    "last_name": "Ширяева"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на ул. Тепличная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Томари",
+      "street": "пр. Декабристов",
+      "house": "60",
+      "postal_code": "643000",
+      "coordinates": {
+        "latitude": -71.2513415,
+        "longitude": -107.894506
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Коллектив Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 159.89,
+      "total_price": 479.67,
+      "kbju": {
+        "calories": 255.8,
+        "protein": 5.3,
+        "fat": 5.4,
+        "carbohydrates": 13.2
+      },
+      "manufacturer": {
+        "name": "НПО «Осипов»",
+        "country": "Россия",
+        "website": "https://zao.info",
+        "inn": "3832684930"
+      }
+    }
+  ],
+  "total_amount": 479.67,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Старый Оскол",
+    "street": "пр. Индустриальный",
+    "house": "4",
+    "apartment": "9",
+    "postal_code": "503742"
+  },
+  "purchase_datetime": "2026-01-16T15:28:45.933983"
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00096",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Фадей",
+    "last_name": "Щукина"
+  },
+  "store": {
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на пр. Шоссейный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кропоткин (Краснод.)",
+      "street": "бул. Достоевского",
+      "house": "18",
+      "postal_code": "528605",
+      "coordinates": {
+        "latitude": -46.2654115,
+        "longitude": 178.29684
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1064",
+      "name": "Табак Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 134.89,
+      "total_price": 404.67,
+      "kbju": {
+        "calories": 58.2,
+        "protein": 11.9,
+        "fat": 2.5,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ОАО «Гордеева Матвеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2108038479"
+      }
+    }
+  ],
+  "total_amount": 404.67,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Новомосковск",
+    "street": "пер. Чехова",
+    "house": "88",
+    "apartment": "2",
+    "postal_code": "157594"
+  },
+  "purchase_datetime": "2026-01-03T15:28:45.932663"
+}

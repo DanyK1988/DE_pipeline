@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1042",
+  "first_name": "Радим",
+  "last_name": "Горбунов",
+  "email": "emeljan_11@example.org",
+  "phone": "+7 (102) 876-2437",
+  "birth_date": "1984-01-29",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.917561",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-0A02B35BCE",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Киренск",
+    "street": "ш. 60 лет Октября",
+    "house": "2",
+    "postal_code": "007394",
+    "coordinates": {
+      "latitude": 9.1706655,
+      "longitude": -13.705384
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Киренск",
+    "street": "пер. Полевой",
+    "house": "828",
+    "apartment": "75",
+    "postal_code": "592103"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

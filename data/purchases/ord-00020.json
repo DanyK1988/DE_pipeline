@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00020",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Пимен",
+    "last_name": "Максимова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Свободы",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Тутончаны",
+      "street": "пер. Алтайский",
+      "house": "11",
+      "postal_code": "599346",
+      "coordinates": {
+        "latitude": 32.173978,
+        "longitude": 1.69222
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1059",
+      "name": "Соответствие Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 136.77,
+      "total_price": 547.08,
+      "kbju": {
+        "calories": 109.6,
+        "protein": 7.2,
+        "fat": 9.9,
+        "carbohydrates": 3.6
+      },
+      "manufacturer": {
+        "name": "НПО «Вишнякова»",
+        "country": "Россия",
+        "website": "https://mms.biz",
+        "inn": "2169738679"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Стакан Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 244.61,
+      "total_price": 1223.05,
+      "kbju": {
+        "calories": 108.5,
+        "protein": 13.4,
+        "fat": 1.9,
+        "carbohydrates": 34.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Павлова-Симонова»",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "7021168801"
+      }
+    },
+    {
+      "product_id": "prd-1082",
+      "name": "Недостаток Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 142.45,
+      "total_price": 284.9,
+      "kbju": {
+        "calories": 227.4,
+        "protein": 10.1,
+        "fat": 11.5,
+        "carbohydrates": 44.5
+      },
+      "manufacturer": {
+        "name": "Мосгортранс",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "8852581191"
+      }
+    }
+  ],
+  "total_amount": 2055.03,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Джубга",
+    "street": "ул. Привокзальная",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "924821"
+  },
+  "purchase_datetime": "2026-01-05T15:28:45.921035"
+}

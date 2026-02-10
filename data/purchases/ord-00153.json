@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00153",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Прохор",
+    "last_name": "Александрова"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на ул. Рябиновая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Стрежевой",
+      "street": "пер. Социалистический",
+      "house": "65",
+      "postal_code": "749036",
+      "coordinates": {
+        "latitude": -55.4023775,
+        "longitude": -39.425849
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1097",
+      "name": "Скрытый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 99.51,
+      "total_price": 199.02,
+      "kbju": {
+        "calories": 69.0,
+        "protein": 18.1,
+        "fat": 1.2,
+        "carbohydrates": 41.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Нестерова»",
+        "country": "Россия",
+        "website": "https://haritonova.org",
+        "inn": "1526904182"
+      }
+    },
+    {
+      "product_id": "prd-1031",
+      "name": "Аж Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 186.25,
+      "total_price": 745.0,
+      "kbju": {
+        "calories": 232.8,
+        "protein": 19.3,
+        "fat": 6.9,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ЗАО «Голубев Кудряшова»",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "6801667621"
+      }
+    }
+  ],
+  "total_amount": 944.02,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "purchase_datetime": "2025-12-16T15:28:45.940592"
+}

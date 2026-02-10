@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00160",
+  "customer": {
+    "customer_id": "cus-1014",
+    "first_name": "Игорь",
+    "last_name": "Князев"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на наб. Гагарина",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Галич",
+      "street": "наб. Восточная",
+      "house": "5",
+      "postal_code": "916333",
+      "coordinates": {
+        "latitude": 52.9522425,
+        "longitude": -78.716138
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1079",
+      "name": "Ягода Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 121.24,
+      "total_price": 606.2,
+      "kbju": {
+        "calories": 291.4,
+        "protein": 15.7,
+        "fat": 6.7,
+        "carbohydrates": 21.8
+      },
+      "manufacturer": {
+        "name": "ИП «Якушева»",
+        "country": "Россия",
+        "website": "https://rao.net",
+        "inn": "1349555045"
+      }
+    },
+    {
+      "product_id": "prd-1031",
+      "name": "Аж Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 186.25,
+      "total_price": 186.25,
+      "kbju": {
+        "calories": 232.8,
+        "protein": 19.3,
+        "fat": 6.9,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ЗАО «Голубев Кудряшова»",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "6801667621"
+      }
+    }
+  ],
+  "total_amount": 792.45,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Майкоп",
+    "street": "ш. Разина",
+    "house": "981",
+    "apartment": "12",
+    "postal_code": "107632"
+  },
+  "purchase_datetime": "2025-12-25T15:28:45.941498"
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00141",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Евфросиния",
+    "last_name": "Пестов"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кашхатау",
+      "street": "алл. Угольная",
+      "house": "229",
+      "postal_code": "295928",
+      "coordinates": {
+        "latitude": -49.7627225,
+        "longitude": -158.561658
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1081",
+      "name": "Деньги Зелень",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 279.56,
+      "total_price": 1397.8,
+      "kbju": {
+        "calories": 56.1,
+        "protein": 11.1,
+        "fat": 12.4,
+        "carbohydrates": 9.6
+      },
+      "manufacturer": {
+        "name": "АНГК",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "9080450507"
+      }
+    }
+  ],
+  "total_amount": 1397.8,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Тикси",
+    "street": "алл. Космонавтов",
+    "house": "4",
+    "apartment": "25",
+    "postal_code": "199247"
+  },
+  "purchase_datetime": "2026-01-23T15:28:45.938931"
+}

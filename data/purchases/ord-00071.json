@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00071",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Остап",
+    "last_name": "Калинин"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на ул. Тепличная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Томари",
+      "street": "пр. Декабристов",
+      "house": "60",
+      "postal_code": "643000",
+      "coordinates": {
+        "latitude": -71.2513415,
+        "longitude": -107.894506
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1061",
+      "name": "Танцевать Клубника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 223.76,
+      "total_price": 671.28,
+      "kbju": {
+        "calories": 213.6,
+        "protein": 14.5,
+        "fat": 14.2,
+        "carbohydrates": 29.6
+      },
+      "manufacturer": {
+        "name": "S7 Group",
+        "country": "Россия",
+        "website": "https://npo.com",
+        "inn": "9381576429"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Висеть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 167.36,
+      "total_price": 334.72,
+      "kbju": {
+        "calories": 62.4,
+        "protein": 9.2,
+        "fat": 10.3,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Леруа Мерлен Восток (Leroi Merlin)",
+        "country": "Россия",
+        "website": "https://tretjakova.biz",
+        "inn": "0162540356"
+      }
+    },
+    {
+      "product_id": "prd-1041",
+      "name": "Выгнать Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 190.04,
+      "total_price": 950.2,
+      "kbju": {
+        "calories": 219.2,
+        "protein": 9.7,
+        "fat": 14.3,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кузьмин и партнеры",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "6374231316"
+      }
+    }
+  ],
+  "total_amount": 1956.2,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "purchase_datetime": "2025-11-30T15:28:45.928576"
+}

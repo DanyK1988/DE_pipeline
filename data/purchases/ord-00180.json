@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00180",
+  "customer": {
+    "customer_id": "cus-1014",
+    "first_name": "Игорь",
+    "last_name": "Князев"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Средняя",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Сыктывкар",
+      "street": "бул. Слободской",
+      "house": "20",
+      "postal_code": "557838",
+      "coordinates": {
+        "latitude": -31.817479,
+        "longitude": 128.72487
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1020",
+      "name": "Соответствие Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 241.53,
+      "total_price": 483.06,
+      "kbju": {
+        "calories": 141.1,
+        "protein": 18.5,
+        "fat": 4.7,
+        "carbohydrates": 30.9
+      },
+      "manufacturer": {
+        "name": "ЗАО «Мамонтов Крюкова»",
+        "country": "Россия",
+        "website": "https://npo.info",
+        "inn": "2154017845"
+      }
+    }
+  ],
+  "total_amount": 483.06,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Майкоп",
+    "street": "ш. Разина",
+    "house": "981",
+    "apartment": "12",
+    "postal_code": "107632"
+  },
+  "purchase_datetime": "2026-01-26T15:28:45.944487"
+}

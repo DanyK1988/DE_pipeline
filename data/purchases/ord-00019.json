@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00019",
+  "customer": {
+    "customer_id": "cus-1023",
+    "first_name": "Гостомысл",
+    "last_name": "Петрова"
+  },
+  "store": {
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на наб. Владимирская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кинешма",
+      "street": "пр. Энергетический",
+      "house": "974",
+      "postal_code": "148752",
+      "coordinates": {
+        "latitude": -35.557774,
+        "longitude": -83.281899
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1042",
+      "name": "Промолчать Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 85.09,
+      "total_price": 170.18,
+      "kbju": {
+        "calories": 267.5,
+        "protein": 16.1,
+        "fat": 4.5,
+        "carbohydrates": 31.3
+      },
+      "manufacturer": {
+        "name": "Русакова Лимитед",
+        "country": "Россия",
+        "website": "https://ozon.net",
+        "inn": "3322315077"
+      }
+    }
+  ],
+  "total_amount": 170.18,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Урюпинск",
+    "street": "алл. Логовая",
+    "house": "85",
+    "apartment": "26",
+    "postal_code": "213873"
+  },
+  "purchase_datetime": "2025-11-20T15:28:45.920915"
+}

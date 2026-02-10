@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1044",
+  "first_name": "Владимир",
+  "last_name": "Дроздов",
+  "email": "milananisimov@example.com",
+  "phone": "+7 782 047 45 66",
+  "birth_date": "1964-07-25",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.917888",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-7A97B928D0",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Яр-Сале",
+    "street": "наб. Заозерная",
+    "house": "9/5",
+    "postal_code": "413618",
+    "coordinates": {
+      "latitude": -30.6678425,
+      "longitude": -115.86945
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Яр-Сале",
+    "street": "наб. Лесхозная",
+    "house": "875",
+    "apartment": "78",
+    "postal_code": "508523"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

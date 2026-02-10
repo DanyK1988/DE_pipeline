@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00156",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Пимен",
+    "last_name": "Максимова"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пер. Сахалинский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Камышин",
+      "street": "наб. Енисейская",
+      "house": "3/1",
+      "postal_code": "414351",
+      "coordinates": {
+        "latitude": 81.787214,
+        "longitude": 71.130468
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1031",
+      "name": "Аж Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 186.25,
+      "total_price": 186.25,
+      "kbju": {
+        "calories": 232.8,
+        "protein": 19.3,
+        "fat": 6.9,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ЗАО «Голубев Кудряшова»",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "6801667621"
+      }
+    }
+  ],
+  "total_amount": 186.25,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Джубга",
+    "street": "ул. Привокзальная",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "924821"
+  },
+  "purchase_datetime": "2026-01-13T15:28:45.941006"
+}

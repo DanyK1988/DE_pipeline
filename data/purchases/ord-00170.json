@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00170",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Пимен",
+    "last_name": "Максимова"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на пр. 60 лет Октября",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Киренск",
+      "street": "ш. 60 лет Октября",
+      "house": "2",
+      "postal_code": "007394",
+      "coordinates": {
+        "latitude": 9.1706655,
+        "longitude": -13.705384
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Изба Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 249.44,
+      "total_price": 1247.2,
+      "kbju": {
+        "calories": 187.2,
+        "protein": 19.5,
+        "fat": 0.8,
+        "carbohydrates": 39.2
+      },
+      "manufacturer": {
+        "name": "ООО «Михеева»",
+        "country": "Россия",
+        "website": "https://dzhti.edu",
+        "inn": "4634657861"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Покинуть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 75.98,
+      "total_price": 303.92,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 11.3,
+        "fat": 4.1,
+        "carbohydrates": 18.3
+      },
+      "manufacturer": {
+        "name": "Борисов Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "5077073814"
+      }
+    },
+    {
+      "product_id": "prd-1069",
+      "name": "Точно Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 90.42,
+      "total_price": 452.1,
+      "kbju": {
+        "calories": 142.2,
+        "protein": 18.4,
+        "fat": 8.2,
+        "carbohydrates": 49.2
+      },
+      "manufacturer": {
+        "name": "НПО «Тихонов, Фомичев и Жукова»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "5434688941"
+      }
+    }
+  ],
+  "total_amount": 2003.22,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Джубга",
+    "street": "ул. Привокзальная",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "924821"
+  },
+  "purchase_datetime": "2026-01-10T15:28:45.942900"
+}

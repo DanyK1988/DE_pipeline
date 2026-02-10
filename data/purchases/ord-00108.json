@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00108",
+  "customer": {
+    "customer_id": "cus-1030",
+    "first_name": "Пров",
+    "last_name": "Лапина"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на пер. Бригадный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Урюпинск",
+      "street": "бул. Ангарский",
+      "house": "5",
+      "postal_code": "897312",
+      "coordinates": {
+        "latitude": 5.2243225,
+        "longitude": 112.588665
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Слишком Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 142.88,
+      "total_price": 714.4,
+      "kbju": {
+        "calories": 249.6,
+        "protein": 7.4,
+        "fat": 11.5,
+        "carbohydrates": 21.3
+      },
+      "manufacturer": {
+        "name": "ИП «Потапов-Федотов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "7477151966"
+      }
+    }
+  ],
+  "total_amount": 714.4,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Вязьма",
+    "street": "пер. Морской",
+    "house": "82",
+    "apartment": "51",
+    "postal_code": "781533"
+  },
+  "purchase_datetime": "2026-01-31T15:28:45.934416"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00112",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Алина",
+    "last_name": "Денисов"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на бул. Гагарина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Рыльск",
+      "street": "пр. Тельмана",
+      "house": "45",
+      "postal_code": "867128",
+      "coordinates": {
+        "latitude": -66.088196,
+        "longitude": 6.284635
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1039",
+      "name": "Очередной Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 37.54,
+      "total_price": 112.62,
+      "kbju": {
+        "calories": 64.8,
+        "protein": 9.3,
+        "fat": 8.6,
+        "carbohydrates": 23.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кулакова»",
+        "country": "Россия",
+        "website": "https://avdeev.edu",
+        "inn": "9940238921"
+      }
+    },
+    {
+      "product_id": "prd-1060",
+      "name": "Приличный Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 79.12,
+      "total_price": 395.6,
+      "kbju": {
+        "calories": 92.5,
+        "protein": 7.1,
+        "fat": 3.5,
+        "carbohydrates": 33.9
+      },
+      "manufacturer": {
+        "name": "Белуга Групп",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "8971338326"
+      }
+    }
+  ],
+  "total_amount": 508.22,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Поронайск",
+    "street": "наб. Октября",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "611917"
+  },
+  "purchase_datetime": "2026-01-21T15:28:45.934908"
+}

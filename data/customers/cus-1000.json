@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1000",
+  "first_name": "Владимир",
+  "last_name": "Ширяева",
+  "email": "savva15@example.net",
+  "phone": "+73590473569",
+  "birth_date": "1986-08-15",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.905667",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-FA9592F779",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Старый Оскол",
+    "street": "алл. Песчаная",
+    "house": "421",
+    "postal_code": "179761",
+    "coordinates": {
+      "latitude": -32.7424965,
+      "longitude": -18.150891
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Старый Оскол",
+    "street": "пр. Индустриальный",
+    "house": "4",
+    "apartment": "9",
+    "postal_code": "503742"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

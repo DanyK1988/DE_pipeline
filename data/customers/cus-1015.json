@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1015",
+  "first_name": "Лаврентий",
+  "last_name": "Миронов",
+  "email": "kondratjakovlev@example.net",
+  "phone": "86295668911",
+  "birth_date": "1973-10-25",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.912757",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-CE6437EFCB",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Новомосковск",
+    "street": "ш. Омское",
+    "house": "348",
+    "postal_code": "224508",
+    "coordinates": {
+      "latitude": 86.0219265,
+      "longitude": 73.553193
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Новомосковск",
+    "street": "наб. Орловская",
+    "house": "1/7",
+    "apartment": "20",
+    "postal_code": "657265"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

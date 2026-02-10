@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1013",
+  "first_name": "Симон",
+  "last_name": "Селезнева",
+  "email": "tit79@example.net",
+  "phone": "80804510889",
+  "birth_date": "1976-01-21",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.912366",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-D6A19DA19E",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Гудермес",
+    "street": "наб. Базарная",
+    "house": "197",
+    "postal_code": "617968",
+    "coordinates": {
+      "latitude": -15.447307,
+      "longitude": 54.331837
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Гудермес",
+    "street": "наб. Братская",
+    "house": "21",
+    "apartment": "38",
+    "postal_code": "488205"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

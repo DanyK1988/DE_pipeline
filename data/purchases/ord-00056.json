@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00056",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Прохор",
+    "last_name": "Александрова"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Средняя",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Сыктывкар",
+      "street": "бул. Слободской",
+      "house": "20",
+      "postal_code": "557838",
+      "coordinates": {
+        "latitude": -31.817479,
+        "longitude": 128.72487
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1035",
+      "name": "Нож Яйца",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 51.47,
+      "total_price": 102.94,
+      "kbju": {
+        "calories": 88.9,
+        "protein": 14.3,
+        "fat": 3.7,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "Модум-транс",
+        "country": "Россия",
+        "website": "https://novorossiski.com",
+        "inn": "4453035912"
+      }
+    },
+    {
+      "product_id": "prd-1089",
+      "name": "Основание Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 290.89,
+      "total_price": 872.67,
+      "kbju": {
+        "calories": 75.8,
+        "protein": 1.7,
+        "fat": 11.5,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Мухина Лимитед",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "2169118382"
+      }
+    },
+    {
+      "product_id": "prd-1026",
+      "name": "Более Фарш",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 52.6,
+      "total_price": 210.4,
+      "kbju": {
+        "calories": 212.1,
+        "protein": 4.2,
+        "fat": 10.0,
+        "carbohydrates": 14.7
+      },
+      "manufacturer": {
+        "name": "РАО «Логинов»",
+        "country": "Россия",
+        "website": "https://sergeeva.org",
+        "inn": "8836849837"
+      }
+    }
+  ],
+  "total_amount": 1186.01,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "purchase_datetime": "2025-12-04T15:28:45.926458"
+}

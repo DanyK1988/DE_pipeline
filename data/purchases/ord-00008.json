@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00008",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Харитон",
+    "last_name": "Вишняков"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на алл. Восьмого Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Тикси",
+      "street": "бул. Учительский",
+      "house": "341",
+      "postal_code": "735192",
+      "coordinates": {
+        "latitude": 7.873372,
+        "longitude": 36.444736
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1022",
+      "name": "Некоторый Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 32.68,
+      "total_price": 163.4,
+      "kbju": {
+        "calories": 165.1,
+        "protein": 1.6,
+        "fat": 3.3,
+        "carbohydrates": 24.6
+      },
+      "manufacturer": {
+        "name": "Кулакова Лтд",
+        "country": "Россия",
+        "website": "https://sberbank.com",
+        "inn": "7801187408"
+      }
+    },
+    {
+      "product_id": "prd-1024",
+      "name": "Отъезд Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 242.01,
+      "total_price": 726.03,
+      "kbju": {
+        "calories": 257.5,
+        "protein": 5.7,
+        "fat": 4.6,
+        "carbohydrates": 29.1
+      },
+      "manufacturer": {
+        "name": "Торговая сеть Красное и Белое",
+        "country": "Россия",
+        "website": "https://rm.net",
+        "inn": "0278641680"
+      }
+    },
+    {
+      "product_id": "prd-1040",
+      "name": "Успокоиться Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 75.8,
+      "total_price": 227.4,
+      "kbju": {
+        "calories": 93.9,
+        "protein": 7.5,
+        "fat": 4.6,
+        "carbohydrates": 48.1
+      },
+      "manufacturer": {
+        "name": "ИП «Казаков Щукин»",
+        "country": "Россия",
+        "website": "https://merkushev.edu",
+        "inn": "0178839927"
+      }
+    }
+  ],
+  "total_amount": 1116.83,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Северобайкальск",
+    "street": "бул. Алтайский",
+    "house": "11",
+    "apartment": "10",
+    "postal_code": "810111"
+  },
+  "purchase_datetime": "2026-01-03T15:28:45.919178"
+}

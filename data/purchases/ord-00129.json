@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00129",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Парфен",
+    "last_name": "Лебедева"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ш. Свободное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Кашхатау",
+      "street": "алл. Звездная",
+      "house": "4",
+      "postal_code": "852708",
+      "coordinates": {
+        "latitude": -6.894356,
+        "longitude": 26.825058
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1099",
+      "name": "Горький Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 33.06,
+      "total_price": 132.24,
+      "kbju": {
+        "calories": 117.3,
+        "protein": 2.9,
+        "fat": 14.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "ООО «Дорофеев Колесников»",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "6977327987"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Изображать Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 171.6,
+      "total_price": 514.8,
+      "kbju": {
+        "calories": 65.5,
+        "protein": 7.6,
+        "fat": 6.6,
+        "carbohydrates": 37.1
+      },
+      "manufacturer": {
+        "name": "ЗАО «Петухов, Мишина и Молчанов»",
+        "country": "Россия",
+        "website": "https://ao.com",
+        "inn": "0103696611"
+      }
+    }
+  ],
+  "total_amount": 647.04,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кинешма",
+    "street": "наб. Павлика Морозова",
+    "house": "904",
+    "apartment": "70",
+    "postal_code": "435969"
+  },
+  "purchase_datetime": "2026-02-09T15:28:45.937334"
+}

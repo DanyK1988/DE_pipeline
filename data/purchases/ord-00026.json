@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00026",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Остап",
+    "last_name": "Калинин"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кашхатау",
+      "street": "алл. Угольная",
+      "house": "229",
+      "postal_code": "295928",
+      "coordinates": {
+        "latitude": -49.7627225,
+        "longitude": -158.561658
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1073",
+      "name": "Правление Клубника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 295.11,
+      "total_price": 590.22,
+      "kbju": {
+        "calories": 183.7,
+        "protein": 13.6,
+        "fat": 1.4,
+        "carbohydrates": 32.8
+      },
+      "manufacturer": {
+        "name": "РАО «Стрелкова Лихачева»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "9861592588"
+      }
+    },
+    {
+      "product_id": "prd-1043",
+      "name": "Термин Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 283.53,
+      "total_price": 567.06,
+      "kbju": {
+        "calories": 265.5,
+        "protein": 16.3,
+        "fat": 9.8,
+        "carbohydrates": 15.8
+      },
+      "manufacturer": {
+        "name": "АО «Щукин Ширяев»",
+        "country": "Россия",
+        "website": "https://ashan.edu",
+        "inn": "6257498515"
+      }
+    },
+    {
+      "product_id": "prd-1050",
+      "name": "Потянуться Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 159.69,
+      "total_price": 638.76,
+      "kbju": {
+        "calories": 130.7,
+        "protein": 12.1,
+        "fat": 15.0,
+        "carbohydrates": 47.7
+      },
+      "manufacturer": {
+        "name": "ОАО «Васильев»",
+        "country": "Россия",
+        "website": "https://oao.info",
+        "inn": "2626687104"
+      }
+    }
+  ],
+  "total_amount": 1796.04,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "purchase_datetime": "2026-02-07T15:28:45.921940"
+}

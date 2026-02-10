@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00151",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Ярополк",
+    "last_name": "Кондратьев"
+  },
+  "store": {
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на пр. Шоссейный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кропоткин (Краснод.)",
+      "street": "бул. Достоевского",
+      "house": "18",
+      "postal_code": "528605",
+      "coordinates": {
+        "latitude": -46.2654115,
+        "longitude": 178.29684
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Понятный Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 167.21,
+      "total_price": 167.21,
+      "kbju": {
+        "calories": 58.2,
+        "protein": 5.2,
+        "fat": 14.9,
+        "carbohydrates": 25.6
+      },
+      "manufacturer": {
+        "name": "Некрасова Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://otisifarm.edu",
+        "inn": "8554077119"
+      }
+    }
+  ],
+  "total_amount": 167.21,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Железногорск(Курск.)",
+    "street": "ул. Студенческая",
+    "house": "406",
+    "apartment": "46",
+    "postal_code": "704635"
+  },
+  "purchase_datetime": "2026-01-15T15:28:45.940329"
+}

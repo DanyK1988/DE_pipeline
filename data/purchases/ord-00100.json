@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00100",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Милий",
+    "last_name": "Трофимова"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на пр. Леваневского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Охотск",
+      "street": "алл. Партизанская",
+      "house": "56",
+      "postal_code": "275931",
+      "coordinates": {
+        "latitude": -17.951078,
+        "longitude": 116.436511
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1067",
+      "name": "Мера Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 43.73,
+      "total_price": 218.65,
+      "kbju": {
+        "calories": 192.4,
+        "protein": 19.9,
+        "fat": 4.7,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Дементьева Павлова»",
+        "country": "Россия",
+        "website": "https://sisko.com",
+        "inn": "0571050213"
+      }
+    }
+  ],
+  "total_amount": 218.65,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Белорецк",
+    "street": "пер. Просторный",
+    "house": "4",
+    "apartment": "33",
+    "postal_code": "918161"
+  },
+  "purchase_datetime": "2026-01-09T15:28:45.933192"
+}

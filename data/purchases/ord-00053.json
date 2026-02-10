@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00053",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Валерьян",
+    "last_name": "Жукова"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на ул. Дзержинского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Зеленогорск (Ленин.)",
+      "street": "бул. Рыбацкий",
+      "house": "6/3",
+      "postal_code": "686419",
+      "coordinates": {
+        "latitude": -54.074961,
+        "longitude": 83.758126
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1053",
+      "name": "Неожиданно Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 45.62,
+      "total_price": 136.86,
+      "kbju": {
+        "calories": 262.7,
+        "protein": 13.7,
+        "fat": 12.7,
+        "carbohydrates": 11.2
+      },
+      "manufacturer": {
+        "name": "Росатом",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "2219528239"
+      }
+    },
+    {
+      "product_id": "prd-1045",
+      "name": "Товар Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 123.6,
+      "total_price": 123.6,
+      "kbju": {
+        "calories": 89.7,
+        "protein": 19.6,
+        "fat": 7.9,
+        "carbohydrates": 14.2
+      },
+      "manufacturer": {
+        "name": "ИП «Анисимова-Третьякова»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "8604334910"
+      }
+    },
+    {
+      "product_id": "prd-1059",
+      "name": "Соответствие Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 136.77,
+      "total_price": 683.85,
+      "kbju": {
+        "calories": 109.6,
+        "protein": 7.2,
+        "fat": 9.9,
+        "carbohydrates": 3.6
+      },
+      "manufacturer": {
+        "name": "НПО «Вишнякова»",
+        "country": "Россия",
+        "website": "https://mms.biz",
+        "inn": "2169738679"
+      }
+    }
+  ],
+  "total_amount": 944.31,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Терней",
+    "street": "пр. Слободской",
+    "house": "7/1",
+    "apartment": "11",
+    "postal_code": "705447"
+  },
+  "purchase_datetime": "2026-01-09T15:28:45.926048"
+}

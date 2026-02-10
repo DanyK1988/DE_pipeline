@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1043",
+  "first_name": "Филарет",
+  "last_name": "Рябов",
+  "email": "saveligromov@example.com",
+  "phone": "8 437 202 7130",
+  "birth_date": "1978-10-27",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.917728",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-652CA9228D",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Кропоткин (Краснод.)",
+    "street": "бул. Достоевского",
+    "house": "18",
+    "postal_code": "528605",
+    "coordinates": {
+      "latitude": -46.2654115,
+      "longitude": 178.29684
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кропоткин (Краснод.)",
+    "street": "наб. Станционная",
+    "house": "40",
+    "apartment": "28",
+    "postal_code": "682461"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

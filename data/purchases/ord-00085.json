@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00085",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Ярополк",
+    "last_name": "Кондратьев"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на бул. Донской",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Борзя",
+      "street": "ш. Кубанское",
+      "house": "22",
+      "postal_code": "333791",
+      "coordinates": {
+        "latitude": 85.0822585,
+        "longitude": -43.999664
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1057",
+      "name": "Пасть Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 129.24,
+      "total_price": 646.2,
+      "kbju": {
+        "calories": 210.4,
+        "protein": 12.9,
+        "fat": 2.4,
+        "carbohydrates": 20.6
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев-Агафонов»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "2232671512"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Покинуть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 75.98,
+      "total_price": 379.9,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 11.3,
+        "fat": 4.1,
+        "carbohydrates": 18.3
+      },
+      "manufacturer": {
+        "name": "Борисов Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "5077073814"
+      }
+    }
+  ],
+  "total_amount": 1026.1,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Железногорск(Курск.)",
+    "street": "ул. Студенческая",
+    "house": "406",
+    "apartment": "46",
+    "postal_code": "704635"
+  },
+  "purchase_datetime": "2026-01-21T15:28:45.930927"
+}

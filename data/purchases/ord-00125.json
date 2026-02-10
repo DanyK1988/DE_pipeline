@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00125",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Мстислав",
+    "last_name": "Селезнева"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "name": "Покинуть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 75.98,
+      "total_price": 151.96,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 11.3,
+        "fat": 4.1,
+        "carbohydrates": 18.3
+      },
+      "manufacturer": {
+        "name": "Борисов Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "5077073814"
+      }
+    },
+    {
+      "product_id": "prd-1034",
+      "name": "Шлем Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 230.42,
+      "total_price": 691.26,
+      "kbju": {
+        "calories": 143.0,
+        "protein": 5.4,
+        "fat": 14.0,
+        "carbohydrates": 1.2
+      },
+      "manufacturer": {
+        "name": "Рыбаков Лтд",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "0563567299"
+      }
+    }
+  ],
+  "total_amount": 843.22,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхний Тагил",
+    "street": "бул. Парковый",
+    "house": "83",
+    "apartment": "30",
+    "postal_code": "503046"
+  },
+  "purchase_datetime": "2025-12-16T15:28:45.936809"
+}

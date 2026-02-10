@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00158",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Касьян",
+    "last_name": "Белова"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на бул. Донской",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Борзя",
+      "street": "ш. Кубанское",
+      "house": "22",
+      "postal_code": "333791",
+      "coordinates": {
+        "latitude": 85.0822585,
+        "longitude": -43.999664
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1055",
+      "name": "Актриса Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 131.95,
+      "total_price": 527.8,
+      "kbju": {
+        "calories": 119.6,
+        "protein": 10.3,
+        "fat": 8.5,
+        "carbohydrates": 24.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Гаврилов»",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "4107707581"
+      }
+    }
+  ],
+  "total_amount": 527.8,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Октябрьский (Башк.)",
+    "street": "ул. Фрунзе",
+    "house": "7",
+    "apartment": "32",
+    "postal_code": "749129"
+  },
+  "purchase_datetime": "2026-01-26T15:28:45.941229"
+}

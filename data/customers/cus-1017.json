@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1017",
+  "first_name": "Владлен",
+  "last_name": "Емельянова",
+  "email": "blinovavalentina@example.org",
+  "phone": "81170028293",
+  "birth_date": "1982-04-12",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.913104",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-BD787E432F",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Воркута",
+    "street": "наб. Детская",
+    "house": "9",
+    "postal_code": "462899",
+    "coordinates": {
+      "latitude": 25.428573,
+      "longitude": -41.264291
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Воркута",
+    "street": "пр. Карбышева",
+    "house": "295",
+    "apartment": "8",
+    "postal_code": "051671"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

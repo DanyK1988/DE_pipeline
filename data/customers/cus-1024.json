@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1024",
+  "first_name": "Иннокентий",
+  "last_name": "Некрасова",
+  "email": "solovevazinaida@example.com",
+  "phone": "8 (094) 712-46-52",
+  "birth_date": "1978-11-12",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.914470",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-2C5ADC0170",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Тутончаны",
+    "street": "пер. Алтайский",
+    "house": "11",
+    "postal_code": "599346",
+    "coordinates": {
+      "latitude": 32.173978,
+      "longitude": 1.69222
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Тутончаны",
+    "street": "ш. Заводское",
+    "house": "873",
+    "apartment": "18",
+    "postal_code": "277463"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

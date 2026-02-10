@@ -1,0 +1,24 @@
+{
+  "id": "prd-1074",
+  "name": "Чем Бананы",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Выражаться очередной задрать военный.",
+  "kbju": {
+    "calories": 185.8,
+    "protein": 3.1,
+    "fat": 6.7,
+    "carbohydrates": 17.8
+  },
+  "price": 148.82,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 26,
+  "is_organic": true,
+  "barcode": "5055869903455",
+  "manufacturer": {
+    "name": "АО «Филиппова-Зайцев»",
+    "country": "Россия",
+    "website": "https://aviakompanija.biz",
+    "inn": "4691579985"
+  }
+}

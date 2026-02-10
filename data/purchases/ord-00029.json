@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00029",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Аверьян",
+    "last_name": "Богданова"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на пр. Леваневского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Охотск",
+      "street": "алл. Партизанская",
+      "house": "56",
+      "postal_code": "275931",
+      "coordinates": {
+        "latitude": -17.951078,
+        "longitude": 116.436511
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1070",
+      "name": "Песенка Яблоки",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 99.58,
+      "total_price": 497.9,
+      "kbju": {
+        "calories": 254.2,
+        "protein": 2.0,
+        "fat": 4.2,
+        "carbohydrates": 46.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Сафонов-Родионов»",
+        "country": "Россия",
+        "website": "https://oao.org",
+        "inn": "8087698276"
+      }
+    }
+  ],
+  "total_amount": 497.9,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Кашхатау",
+    "street": "бул. Леонова",
+    "house": "1",
+    "apartment": "11",
+    "postal_code": "698167"
+  },
+  "purchase_datetime": "2025-12-17T15:28:45.922375"
+}

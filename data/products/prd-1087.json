@@ -1,0 +1,24 @@
+{
+  "id": "prd-1087",
+  "name": "Невыносимый Чеснок",
+  "group": "🥦 Овощи и зелень",
+  "description": "Падаль умолять вариант.",
+  "kbju": {
+    "calories": 77.2,
+    "protein": 14.2,
+    "fat": 12.9,
+    "carbohydrates": 26.6
+  },
+  "price": 286.89,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 15,
+  "is_organic": true,
+  "barcode": "4138042005960",
+  "manufacturer": {
+    "name": "НПО «Киселев»",
+    "country": "Россия",
+    "website": "https://vlasov.info",
+    "inn": "5542422338"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00002",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Валерьян",
+    "last_name": "Жукова"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пер. Сахалинский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Камышин",
+      "street": "наб. Енисейская",
+      "house": "3/1",
+      "postal_code": "414351",
+      "coordinates": {
+        "latitude": 81.787214,
+        "longitude": 71.130468
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1096",
+      "name": "Интеллектуальный Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 285.02,
+      "total_price": 855.06,
+      "kbju": {
+        "calories": 207.5,
+        "protein": 10.1,
+        "fat": 1.4,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ИП «Виноградова-Кулакова»",
+        "country": "Россия",
+        "website": "https://ferrero.org",
+        "inn": "6188976994"
+      }
+    },
+    {
+      "product_id": "prd-1088",
+      "name": "Крутой Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 117.01,
+      "total_price": 468.04,
+      "kbju": {
+        "calories": 173.9,
+        "protein": 10.5,
+        "fat": 0.8,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "ГК Автодилерство",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "4226193317"
+      }
+    },
+    {
+      "product_id": "prd-1026",
+      "name": "Более Фарш",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 52.6,
+      "total_price": 52.6,
+      "kbju": {
+        "calories": 212.1,
+        "protein": 4.2,
+        "fat": 10.0,
+        "carbohydrates": 14.7
+      },
+      "manufacturer": {
+        "name": "РАО «Логинов»",
+        "country": "Россия",
+        "website": "https://sergeeva.org",
+        "inn": "8836849837"
+      }
+    }
+  ],
+  "total_amount": 1375.7,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Терней",
+    "street": "пр. Слободской",
+    "house": "7/1",
+    "apartment": "11",
+    "postal_code": "705447"
+  },
+  "purchase_datetime": "2025-12-30T15:28:45.918258"
+}

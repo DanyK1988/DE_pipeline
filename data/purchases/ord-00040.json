@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00040",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Аверьян",
+    "last_name": "Богданова"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пр. Калужский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Майкоп",
+      "street": "ш. Севастопольское",
+      "house": "92",
+      "postal_code": "989146",
+      "coordinates": {
+        "latitude": 67.844572,
+        "longitude": -134.495347
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1053",
+      "name": "Неожиданно Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 45.62,
+      "total_price": 228.1,
+      "kbju": {
+        "calories": 262.7,
+        "protein": 13.7,
+        "fat": 12.7,
+        "carbohydrates": 11.2
+      },
+      "manufacturer": {
+        "name": "Росатом",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "2219528239"
+      }
+    }
+  ],
+  "total_amount": 228.1,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Кашхатау",
+    "street": "бул. Леонова",
+    "house": "1",
+    "apartment": "11",
+    "postal_code": "698167"
+  },
+  "purchase_datetime": "2025-12-10T15:28:45.924153"
+}

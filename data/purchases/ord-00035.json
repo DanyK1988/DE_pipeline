@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00035",
+  "customer": {
+    "customer_id": "cus-1008",
+    "first_name": "Селиван",
+    "last_name": "Голубева"
+  },
+  "store": {
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на пр. Шоссейный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кропоткин (Краснод.)",
+      "street": "бул. Достоевского",
+      "house": "18",
+      "postal_code": "528605",
+      "coordinates": {
+        "latitude": -46.2654115,
+        "longitude": 178.29684
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1042",
+      "name": "Промолчать Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 85.09,
+      "total_price": 170.18,
+      "kbju": {
+        "calories": 267.5,
+        "protein": 16.1,
+        "fat": 4.5,
+        "carbohydrates": 31.3
+      },
+      "manufacturer": {
+        "name": "Русакова Лимитед",
+        "country": "Россия",
+        "website": "https://ozon.net",
+        "inn": "3322315077"
+      }
+    },
+    {
+      "product_id": "prd-1045",
+      "name": "Товар Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 123.6,
+      "total_price": 247.2,
+      "kbju": {
+        "calories": 89.7,
+        "protein": 19.6,
+        "fat": 7.9,
+        "carbohydrates": 14.2
+      },
+      "manufacturer": {
+        "name": "ИП «Анисимова-Третьякова»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "8604334910"
+      }
+    },
+    {
+      "product_id": "prd-1089",
+      "name": "Основание Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 290.89,
+      "total_price": 872.67,
+      "kbju": {
+        "calories": 75.8,
+        "protein": 1.7,
+        "fat": 11.5,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Мухина Лимитед",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "2169118382"
+      }
+    }
+  ],
+  "total_amount": 1290.05,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Охотск",
+    "street": "пр. Майский",
+    "house": "257",
+    "apartment": "92",
+    "postal_code": "652901"
+  },
+  "purchase_datetime": "2025-12-04T15:28:45.923410"
+}

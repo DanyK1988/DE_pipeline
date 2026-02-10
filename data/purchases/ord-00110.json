@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00110",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Мстислав",
+    "last_name": "Селезнева"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на пер. Звездный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Владивосток",
+      "street": "ул. Глинки",
+      "house": "7/8",
+      "postal_code": "887835",
+      "coordinates": {
+        "latitude": 52.7074515,
+        "longitude": 142.944017
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1025",
+      "name": "Мелочь Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 41.15,
+      "total_price": 41.15,
+      "kbju": {
+        "calories": 90.7,
+        "protein": 19.6,
+        "fat": 3.8,
+        "carbohydrates": 23.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Фомина Калинин»",
+        "country": "Россия",
+        "website": "https://zao.edu",
+        "inn": "9677042154"
+      }
+    }
+  ],
+  "total_amount": 41.15,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхний Тагил",
+    "street": "бул. Парковый",
+    "house": "83",
+    "apartment": "30",
+    "postal_code": "503046"
+  },
+  "purchase_datetime": "2026-01-12T15:28:45.934642"
+}

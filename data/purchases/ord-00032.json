@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00032",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Евфросиния",
+    "last_name": "Пестов"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ш. Свободное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Кашхатау",
+      "street": "алл. Звездная",
+      "house": "4",
+      "postal_code": "852708",
+      "coordinates": {
+        "latitude": -6.894356,
+        "longitude": 26.825058
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1098",
+      "name": "Социалистический Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 142.51,
+      "total_price": 712.55,
+      "kbju": {
+        "calories": 101.4,
+        "protein": 3.0,
+        "fat": 13.4,
+        "carbohydrates": 21.1
+      },
+      "manufacturer": {
+        "name": "АО «Дорофеева, Гущина и Марков»",
+        "country": "Россия",
+        "website": "https://npo.ru",
+        "inn": "3202837887"
+      }
+    }
+  ],
+  "total_amount": 712.55,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Тикси",
+    "street": "алл. Космонавтов",
+    "house": "4",
+    "apartment": "25",
+    "postal_code": "199247"
+  },
+  "purchase_datetime": "2025-12-12T15:28:45.922947"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00193",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Владислав",
+    "last_name": "Селиверстов"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на пр. Прудовой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Выборг",
+      "street": "ш. Молодежное",
+      "house": "51",
+      "postal_code": "924675",
+      "coordinates": {
+        "latitude": 25.106245,
+        "longitude": -25.643673
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1042",
+      "name": "Промолчать Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 85.09,
+      "total_price": 85.09,
+      "kbju": {
+        "calories": 267.5,
+        "protein": 16.1,
+        "fat": 4.5,
+        "carbohydrates": 31.3
+      },
+      "manufacturer": {
+        "name": "Русакова Лимитед",
+        "country": "Россия",
+        "website": "https://ozon.net",
+        "inn": "3322315077"
+      }
+    },
+    {
+      "product_id": "prd-1070",
+      "name": "Песенка Яблоки",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 99.58,
+      "total_price": 99.58,
+      "kbju": {
+        "calories": 254.2,
+        "protein": 2.0,
+        "fat": 4.2,
+        "carbohydrates": 46.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Сафонов-Родионов»",
+        "country": "Россия",
+        "website": "https://oao.org",
+        "inn": "8087698276"
+      }
+    },
+    {
+      "product_id": "prd-1062",
+      "name": "Выражение Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 55.41,
+      "total_price": 277.05,
+      "kbju": {
+        "calories": 70.7,
+        "protein": 15.0,
+        "fat": 3.6,
+        "carbohydrates": 34.0
+      },
+      "manufacturer": {
+        "name": "РАО «Евсеева Артемьев»",
+        "country": "Россия",
+        "website": "https://ustinov.biz",
+        "inn": "8429629724"
+      }
+    }
+  ],
+  "total_amount": 461.72,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Вендинга",
+    "street": "ш. Путейское",
+    "house": "2",
+    "apartment": "27",
+    "postal_code": "347194"
+  },
+  "purchase_datetime": "2026-02-05T15:28:45.946146"
+}

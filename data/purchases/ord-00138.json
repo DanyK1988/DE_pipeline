@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00138",
+  "customer": {
+    "customer_id": "cus-1008",
+    "first_name": "Селиван",
+    "last_name": "Голубева"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на ул. Одесская",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Гудермес",
+      "street": "наб. Базарная",
+      "house": "197",
+      "postal_code": "617968",
+      "coordinates": {
+        "latitude": -15.447307,
+        "longitude": 54.331837
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1065",
+      "name": "Зато Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 275.09,
+      "total_price": 550.18,
+      "kbju": {
+        "calories": 77.3,
+        "protein": 5.5,
+        "fat": 12.8,
+        "carbohydrates": 11.8
+      },
+      "manufacturer": {
+        "name": "Егорова Лтд",
+        "country": "Россия",
+        "website": "https://belov.edu",
+        "inn": "0910446572"
+      }
+    },
+    {
+      "product_id": "prd-1067",
+      "name": "Мера Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 43.73,
+      "total_price": 174.92,
+      "kbju": {
+        "calories": 192.4,
+        "protein": 19.9,
+        "fat": 4.7,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Дементьева Павлова»",
+        "country": "Россия",
+        "website": "https://sisko.com",
+        "inn": "0571050213"
+      }
+    }
+  ],
+  "total_amount": 725.1,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Охотск",
+    "street": "пр. Майский",
+    "house": "257",
+    "apartment": "92",
+    "postal_code": "652901"
+  },
+  "purchase_datetime": "2025-11-18T15:28:45.938559"
+}

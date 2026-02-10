@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00011",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Бажен",
+    "last_name": "Носков"
+  },
+  "store": {
+    "store_id": "store-018",
+    "store_name": "Большая Пикча — Магазин на пр. Демьяна Бедного",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Воркута",
+      "street": "наб. Детская",
+      "house": "9",
+      "postal_code": "462899",
+      "coordinates": {
+        "latitude": 25.428573,
+        "longitude": -41.264291
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1033",
+      "name": "Картинка Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 32.85,
+      "total_price": 65.7,
+      "kbju": {
+        "calories": 69.7,
+        "protein": 7.4,
+        "fat": 9.3,
+        "carbohydrates": 2.2
+      },
+      "manufacturer": {
+        "name": "Колесников и партнеры",
+        "country": "Россия",
+        "website": "https://oao.info",
+        "inn": "2983542412"
+      }
+    },
+    {
+      "product_id": "prd-1074",
+      "name": "Чем Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 148.82,
+      "total_price": 595.28,
+      "kbju": {
+        "calories": 185.8,
+        "protein": 3.1,
+        "fat": 6.7,
+        "carbohydrates": 17.8
+      },
+      "manufacturer": {
+        "name": "АО «Филиппова-Зайцев»",
+        "country": "Россия",
+        "website": "https://aviakompanija.biz",
+        "inn": "4691579985"
+      }
+    },
+    {
+      "product_id": "prd-1095",
+      "name": "Более Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 241.75,
+      "total_price": 241.75,
+      "kbju": {
+        "calories": 178.5,
+        "protein": 12.6,
+        "fat": 10.2,
+        "carbohydrates": 26.4
+      },
+      "manufacturer": {
+        "name": "АО «Цветков-Кузьмина»",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "9127286730"
+      }
+    }
+  ],
+  "total_amount": 902.73,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Сыктывкар",
+    "street": "пр. Поселковый",
+    "house": "5",
+    "apartment": "73",
+    "postal_code": "362597"
+  },
+  "purchase_datetime": "2026-01-21T15:28:45.919704"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1012",
+  "first_name": "Соломон",
+  "last_name": "Петухов",
+  "email": "panfil_2019@example.net",
+  "phone": "8 (787) 603-6221",
+  "birth_date": "1960-04-16",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.912055",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-525BEE7CDA",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Октябрьское (Хант.)",
+    "street": "бул. Загородный",
+    "house": "9",
+    "postal_code": "951710",
+    "coordinates": {
+      "latitude": -51.7656725,
+      "longitude": -19.023159
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Октябрьское (Хант.)",
+    "street": "пер. Гагарина",
+    "house": "603",
+    "apartment": "68",
+    "postal_code": "932602"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

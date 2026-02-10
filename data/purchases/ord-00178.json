@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00178",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Василий",
+    "last_name": "Максимова"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на бул. Гагарина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Рыльск",
+      "street": "пр. Тельмана",
+      "house": "45",
+      "postal_code": "867128",
+      "coordinates": {
+        "latitude": -66.088196,
+        "longitude": 6.284635
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1037",
+      "name": "Доставать Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 170.31,
+      "total_price": 510.93,
+      "kbju": {
+        "calories": 130.9,
+        "protein": 19.3,
+        "fat": 9.7,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ООО «Хохлов-Макарова»",
+        "country": "Россия",
+        "website": "https://ooo.ru",
+        "inn": "7427366441"
+      }
+    },
+    {
+      "product_id": "prd-1096",
+      "name": "Интеллектуальный Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 285.02,
+      "total_price": 570.04,
+      "kbju": {
+        "calories": 207.5,
+        "protein": 10.1,
+        "fat": 1.4,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ИП «Виноградова-Кулакова»",
+        "country": "Россия",
+        "website": "https://ferrero.org",
+        "inn": "6188976994"
+      }
+    }
+  ],
+  "total_amount": 1080.97,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Магнитогорск",
+    "street": "алл. Раздольная",
+    "house": "50",
+    "apartment": "14",
+    "postal_code": "742215"
+  },
+  "purchase_datetime": "2026-01-23T15:28:45.944177"
+}

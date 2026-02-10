@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00142",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Мстислав",
+    "last_name": "Селезнева"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Каюта Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 153.21,
+      "total_price": 459.63,
+      "kbju": {
+        "calories": 79.9,
+        "protein": 19.8,
+        "fat": 4.2,
+        "carbohydrates": 7.1
+      },
+      "manufacturer": {
+        "name": "ООО «Муравьева»",
+        "country": "Россия",
+        "website": "https://rusakova.ru",
+        "inn": "7810560703"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Вскакивать Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 260.02,
+      "total_price": 1300.1,
+      "kbju": {
+        "calories": 86.6,
+        "protein": 11.7,
+        "fat": 11.7,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "ОАО «Захарова-Гущин»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "5364875189"
+      }
+    }
+  ],
+  "total_amount": 1759.73,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхний Тагил",
+    "street": "бул. Парковый",
+    "house": "83",
+    "apartment": "30",
+    "postal_code": "503046"
+  },
+  "purchase_datetime": "2025-12-03T15:28:45.939045"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1034",
+  "first_name": "Парфен",
+  "last_name": "Лебедева",
+  "email": "ernest1983@example.net",
+  "phone": "8 577 380 54 82",
+  "birth_date": "1989-12-17",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.916232",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-2290EFFF04",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Кинешма",
+    "street": "пр. Энергетический",
+    "house": "974",
+    "postal_code": "148752",
+    "coordinates": {
+      "latitude": -35.557774,
+      "longitude": -83.281899
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кинешма",
+    "street": "наб. Павлика Морозова",
+    "house": "904",
+    "apartment": "70",
+    "postal_code": "435969"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00060",
+  "customer": {
+    "customer_id": "cus-1011",
+    "first_name": "Милий",
+    "last_name": "Фролов"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на пер. Бригадный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Урюпинск",
+      "street": "бул. Ангарский",
+      "house": "5",
+      "postal_code": "897312",
+      "coordinates": {
+        "latitude": 5.2243225,
+        "longitude": 112.588665
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Вскакивать Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 260.02,
+      "total_price": 260.02,
+      "kbju": {
+        "calories": 86.6,
+        "protein": 11.7,
+        "fat": 11.7,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "ОАО «Захарова-Гущин»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "5364875189"
+      }
+    }
+  ],
+  "total_amount": 260.02,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Ногинск (Моск.)",
+    "street": "бул. Пролетарский",
+    "house": "3",
+    "apartment": "68",
+    "postal_code": "927609"
+  },
+  "purchase_datetime": "2026-02-03T15:28:45.927103"
+}

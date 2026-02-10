@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00185",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Филарет",
+    "last_name": "Рябов"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Блюхера",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Новомосковск",
+      "street": "пер. Бульварный",
+      "house": "44",
+      "postal_code": "940616",
+      "coordinates": {
+        "latitude": -88.4217205,
+        "longitude": -142.115897
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Житель Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 135.98,
+      "total_price": 407.94,
+      "kbju": {
+        "calories": 84.1,
+        "protein": 3.9,
+        "fat": 0.2,
+        "carbohydrates": 1.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Селиверстов»",
+        "country": "Россия",
+        "website": "https://ilin.net",
+        "inn": "1224093182"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Вскакивать Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 260.02,
+      "total_price": 1300.1,
+      "kbju": {
+        "calories": 86.6,
+        "protein": 11.7,
+        "fat": 11.7,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "ОАО «Захарова-Гущин»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "5364875189"
+      }
+    }
+  ],
+  "total_amount": 1708.04,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кропоткин (Краснод.)",
+    "street": "наб. Станционная",
+    "house": "40",
+    "apartment": "28",
+    "postal_code": "682461"
+  },
+  "purchase_datetime": "2026-01-17T15:28:45.945131"
+}

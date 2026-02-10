@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00116",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Евфросиния",
+    "last_name": "Пестов"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1041",
+      "name": "Выгнать Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 190.04,
+      "total_price": 570.12,
+      "kbju": {
+        "calories": 219.2,
+        "protein": 9.7,
+        "fat": 14.3,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кузьмин и партнеры",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "6374231316"
+      }
+    },
+    {
+      "product_id": "prd-1074",
+      "name": "Чем Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 148.82,
+      "total_price": 148.82,
+      "kbju": {
+        "calories": 185.8,
+        "protein": 3.1,
+        "fat": 6.7,
+        "carbohydrates": 17.8
+      },
+      "manufacturer": {
+        "name": "АО «Филиппова-Зайцев»",
+        "country": "Россия",
+        "website": "https://aviakompanija.biz",
+        "inn": "4691579985"
+      }
+    },
+    {
+      "product_id": "prd-1090",
+      "name": "Сверкающий Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 253.43,
+      "total_price": 760.29,
+      "kbju": {
+        "calories": 264.6,
+        "protein": 5.1,
+        "fat": 1.9,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "ИП «Стрелкова Жуков»",
+        "country": "Россия",
+        "website": "https://soboleva.biz",
+        "inn": "4250355916"
+      }
+    }
+  ],
+  "total_amount": 1479.23,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Тикси",
+    "street": "алл. Космонавтов",
+    "house": "4",
+    "apartment": "25",
+    "postal_code": "199247"
+  },
+  "purchase_datetime": "2026-01-15T15:28:45.935567"
+}

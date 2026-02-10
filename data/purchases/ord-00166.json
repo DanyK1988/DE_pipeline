@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00166",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Парфен",
+    "last_name": "Лебедева"
+  },
+  "store": {
+    "store_id": "store-018",
+    "store_name": "Большая Пикча — Магазин на пр. Демьяна Бедного",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Воркута",
+      "street": "наб. Детская",
+      "house": "9",
+      "postal_code": "462899",
+      "coordinates": {
+        "latitude": 25.428573,
+        "longitude": -41.264291
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Изба Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 249.44,
+      "total_price": 1247.2,
+      "kbju": {
+        "calories": 187.2,
+        "protein": 19.5,
+        "fat": 0.8,
+        "carbohydrates": 39.2
+      },
+      "manufacturer": {
+        "name": "ООО «Михеева»",
+        "country": "Россия",
+        "website": "https://dzhti.edu",
+        "inn": "4634657861"
+      }
+    },
+    {
+      "product_id": "prd-1073",
+      "name": "Правление Клубника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 295.11,
+      "total_price": 590.22,
+      "kbju": {
+        "calories": 183.7,
+        "protein": 13.6,
+        "fat": 1.4,
+        "carbohydrates": 32.8
+      },
+      "manufacturer": {
+        "name": "РАО «Стрелкова Лихачева»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "9861592588"
+      }
+    },
+    {
+      "product_id": "prd-1089",
+      "name": "Основание Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 290.89,
+      "total_price": 1454.45,
+      "kbju": {
+        "calories": 75.8,
+        "protein": 1.7,
+        "fat": 11.5,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Мухина Лимитед",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "2169118382"
+      }
+    }
+  ],
+  "total_amount": 3291.87,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кинешма",
+    "street": "наб. Павлика Морозова",
+    "house": "904",
+    "apartment": "70",
+    "postal_code": "435969"
+  },
+  "purchase_datetime": "2025-11-17T15:28:45.942277"
+}

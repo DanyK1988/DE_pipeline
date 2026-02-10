@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00059",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Пимен",
+    "last_name": "Максимова"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кашхатау",
+      "street": "алл. Угольная",
+      "house": "229",
+      "postal_code": "295928",
+      "coordinates": {
+        "latitude": -49.7627225,
+        "longitude": -158.561658
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1084",
+      "name": "Потянуться Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 263.6,
+      "total_price": 1318.0,
+      "kbju": {
+        "calories": 261.7,
+        "protein": 12.5,
+        "fat": 5.4,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Андреев Никонов»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3305240470"
+      }
+    },
+    {
+      "product_id": "prd-1030",
+      "name": "Конструкция Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 278.83,
+      "total_price": 836.49,
+      "kbju": {
+        "calories": 57.7,
+        "protein": 17.3,
+        "fat": 3.9,
+        "carbohydrates": 33.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Селиверстова Зайцева»",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "2512292562"
+      }
+    }
+  ],
+  "total_amount": 2154.49,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Джубга",
+    "street": "ул. Привокзальная",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "924821"
+  },
+  "purchase_datetime": "2026-02-02T15:28:45.926970"
+}

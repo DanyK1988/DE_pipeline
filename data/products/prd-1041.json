@@ -1,0 +1,24 @@
+{
+  "id": "prd-1041",
+  "name": "Выгнать Сливки",
+  "group": "🥛 Молочные продукты",
+  "description": "Иной волк смелый.",
+  "kbju": {
+    "calories": 219.2,
+    "protein": 9.7,
+    "fat": 14.3,
+    "carbohydrates": 18.0
+  },
+  "price": 190.04,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 7,
+  "is_organic": false,
+  "barcode": "2855460560650",
+  "manufacturer": {
+    "name": "Кузьмин и партнеры",
+    "country": "Россия",
+    "website": "https://rao.com",
+    "inn": "6374231316"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00091",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Прохор",
+    "last_name": "Александрова"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пр. Калужский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Майкоп",
+      "street": "ш. Севастопольское",
+      "house": "92",
+      "postal_code": "989146",
+      "coordinates": {
+        "latitude": 67.844572,
+        "longitude": -134.495347
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1072",
+      "name": "Жестокий Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 169.27,
+      "total_price": 338.54,
+      "kbju": {
+        "calories": 243.9,
+        "protein": 5.8,
+        "fat": 8.0,
+        "carbohydrates": 23.1
+      },
+      "manufacturer": {
+        "name": "НПО «Шилова»",
+        "country": "Россия",
+        "website": "https://aviakompanija.edu",
+        "inn": "2023548142"
+      }
+    },
+    {
+      "product_id": "prd-1091",
+      "name": "Славный Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 49.14,
+      "total_price": 147.42,
+      "kbju": {
+        "calories": 206.9,
+        "protein": 12.4,
+        "fat": 9.5,
+        "carbohydrates": 42.8
+      },
+      "manufacturer": {
+        "name": "ВО Машиноимпорт",
+        "country": "Россия",
+        "website": "https://kuznetsov.biz",
+        "inn": "0843865990"
+      }
+    },
+    {
+      "product_id": "prd-1031",
+      "name": "Аж Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 186.25,
+      "total_price": 372.5,
+      "kbju": {
+        "calories": 232.8,
+        "protein": 19.3,
+        "fat": 6.9,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ЗАО «Голубев Кудряшова»",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "6801667621"
+      }
+    }
+  ],
+  "total_amount": 858.46,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "purchase_datetime": "2025-12-06T15:28:45.931895"
+}

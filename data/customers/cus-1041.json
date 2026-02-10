@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1041",
+  "first_name": "Чеслав",
+  "last_name": "Брагина",
+  "email": "evfrosinija93@example.com",
+  "phone": "8 (625) 141-05-03",
+  "birth_date": "1979-07-23",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.917399",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-71F3BEA9A8",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "наб. Енисейская",
+    "house": "3/1",
+    "postal_code": "414351",
+    "coordinates": {
+      "latitude": 81.787214,
+      "longitude": 71.130468
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "наб. Локомотивная",
+    "house": "88",
+    "apartment": "65",
+    "postal_code": "920636"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

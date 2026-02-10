@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00122",
+  "customer": {
+    "customer_id": "cus-1005",
+    "first_name": "Орест",
+    "last_name": "Трофимов"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на алл. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Железногорск(Курск.)",
+      "street": "ул. Лунная",
+      "house": "29",
+      "postal_code": "776011",
+      "coordinates": {
+        "latitude": -45.2971245,
+        "longitude": -23.423238
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Беспомощный Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 130.2,
+      "total_price": 130.2,
+      "kbju": {
+        "calories": 81.5,
+        "protein": 15.8,
+        "fat": 13.3,
+        "carbohydrates": 42.5
+      },
+      "manufacturer": {
+        "name": "ИП «Новикова Кудрявцева»",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8401581875"
+      }
+    }
+  ],
+  "total_amount": 130.2,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Томари",
+    "street": "алл. Клубная",
+    "house": "761",
+    "apartment": "35",
+    "postal_code": "063616"
+  },
+  "purchase_datetime": "2025-12-04T15:28:45.936443"
+}

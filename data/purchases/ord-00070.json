@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00070",
+  "customer": {
+    "customer_id": "cus-1017",
+    "first_name": "Владлен",
+    "last_name": "Емельянова"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Средняя",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Сыктывкар",
+      "street": "бул. Слободской",
+      "house": "20",
+      "postal_code": "557838",
+      "coordinates": {
+        "latitude": -31.817479,
+        "longitude": 128.72487
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Изба Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 249.44,
+      "total_price": 1247.2,
+      "kbju": {
+        "calories": 187.2,
+        "protein": 19.5,
+        "fat": 0.8,
+        "carbohydrates": 39.2
+      },
+      "manufacturer": {
+        "name": "ООО «Михеева»",
+        "country": "Россия",
+        "website": "https://dzhti.edu",
+        "inn": "4634657861"
+      }
+    },
+    {
+      "product_id": "prd-1021",
+      "name": "Прошептать Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 66.85,
+      "total_price": 267.4,
+      "kbju": {
+        "calories": 299.5,
+        "protein": 12.2,
+        "fat": 13.4,
+        "carbohydrates": 48.2
+      },
+      "manufacturer": {
+        "name": "ИП «Лукина Савельева»",
+        "country": "Россия",
+        "website": "https://ao.net",
+        "inn": "1847910799"
+      }
+    },
+    {
+      "product_id": "prd-1070",
+      "name": "Песенка Яблоки",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 99.58,
+      "total_price": 298.74,
+      "kbju": {
+        "calories": 254.2,
+        "protein": 2.0,
+        "fat": 4.2,
+        "carbohydrates": 46.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Сафонов-Родионов»",
+        "country": "Россия",
+        "website": "https://oao.org",
+        "inn": "8087698276"
+      }
+    }
+  ],
+  "total_amount": 1813.34,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Воркута",
+    "street": "пр. Карбышева",
+    "house": "295",
+    "apartment": "8",
+    "postal_code": "051671"
+  },
+  "purchase_datetime": "2025-12-09T15:28:45.928420"
+}

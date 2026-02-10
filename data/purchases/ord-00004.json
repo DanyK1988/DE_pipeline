@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00004",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Евфросиния",
+    "last_name": "Пестов"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Блюхера",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Новомосковск",
+      "street": "пер. Бульварный",
+      "house": "44",
+      "postal_code": "940616",
+      "coordinates": {
+        "latitude": -88.4217205,
+        "longitude": -142.115897
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1080",
+      "name": "Лететь Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 118.44,
+      "total_price": 592.2,
+      "kbju": {
+        "calories": 221.4,
+        "protein": 9.2,
+        "fat": 13.0,
+        "carbohydrates": 36.7
+      },
+      "manufacturer": {
+        "name": "РАО «Давыдова»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "4645301575"
+      }
+    },
+    {
+      "product_id": "prd-1055",
+      "name": "Актриса Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 131.95,
+      "total_price": 659.75,
+      "kbju": {
+        "calories": 119.6,
+        "protein": 10.3,
+        "fat": 8.5,
+        "carbohydrates": 24.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Гаврилов»",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "4107707581"
+      }
+    }
+  ],
+  "total_amount": 1251.95,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Тикси",
+    "street": "алл. Космонавтов",
+    "house": "4",
+    "apartment": "25",
+    "postal_code": "199247"
+  },
+  "purchase_datetime": "2025-12-09T15:28:45.918609"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00083",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Павел",
+    "last_name": "Лихачев"
+  },
+  "store": {
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на бул. Первомайский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Октябрьское (Хант.)",
+      "street": "бул. Загородный",
+      "house": "9",
+      "postal_code": "951710",
+      "coordinates": {
+        "latitude": -51.7656725,
+        "longitude": -19.023159
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1094",
+      "name": "Место Зелень",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 197.9,
+      "total_price": 593.7,
+      "kbju": {
+        "calories": 130.3,
+        "protein": 1.9,
+        "fat": 8.0,
+        "carbohydrates": 24.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Герасимова-Евдокимов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "5397390886"
+      }
+    },
+    {
+      "product_id": "prd-1070",
+      "name": "Песенка Яблоки",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 99.58,
+      "total_price": 497.9,
+      "kbju": {
+        "calories": 254.2,
+        "protein": 2.0,
+        "fat": 4.2,
+        "carbohydrates": 46.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Сафонов-Родионов»",
+        "country": "Россия",
+        "website": "https://oao.org",
+        "inn": "8087698276"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "name": "Житель Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 135.98,
+      "total_price": 407.94,
+      "kbju": {
+        "calories": 84.1,
+        "protein": 3.9,
+        "fat": 0.2,
+        "carbohydrates": 1.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Селиверстов»",
+        "country": "Россия",
+        "website": "https://ilin.net",
+        "inn": "1224093182"
+      }
+    }
+  ],
+  "total_amount": 1499.54,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Борзя",
+    "street": "ул. Кузнечная",
+    "house": "731",
+    "apartment": "60",
+    "postal_code": "551308"
+  },
+  "purchase_datetime": "2026-02-10T15:28:45.930612"
+}

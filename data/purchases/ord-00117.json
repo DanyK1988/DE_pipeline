@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00117",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Панкратий",
+    "last_name": "Симонова"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на пр. 60 лет Октября",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Киренск",
+      "street": "ш. 60 лет Октября",
+      "house": "2",
+      "postal_code": "007394",
+      "coordinates": {
+        "latitude": 9.1706655,
+        "longitude": -13.705384
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Бетонный Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 56.29,
+      "total_price": 281.45,
+      "kbju": {
+        "calories": 51.4,
+        "protein": 16.3,
+        "fat": 5.1,
+        "carbohydrates": 20.6
+      },
+      "manufacturer": {
+        "name": "Свеза",
+        "country": "Россия",
+        "website": "https://ip.com",
+        "inn": "0122271063"
+      }
+    }
+  ],
+  "total_amount": 281.45,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Билибино",
+    "street": "ш. Производственное",
+    "house": "57",
+    "apartment": "38",
+    "postal_code": "681746"
+  },
+  "purchase_datetime": "2026-01-12T15:28:45.935719"
+}

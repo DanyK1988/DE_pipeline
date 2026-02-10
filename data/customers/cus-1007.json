@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1007",
+  "first_name": "Харитон",
+  "last_name": "Вишняков",
+  "email": "noskovmiron@example.com",
+  "phone": "80619300680",
+  "birth_date": "1981-07-03",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.909286",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-28DB84F1A2",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Северобайкальск",
+    "street": "наб. Мичурина",
+    "house": "7/1",
+    "postal_code": "688838",
+    "coordinates": {
+      "latitude": -61.453572,
+      "longitude": 144.211288
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Северобайкальск",
+    "street": "бул. Алтайский",
+    "house": "11",
+    "apartment": "10",
+    "postal_code": "810111"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

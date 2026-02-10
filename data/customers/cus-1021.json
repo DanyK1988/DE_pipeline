@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1021",
+  "first_name": "Панкратий",
+  "last_name": "Симонова",
+  "email": "zhanna1993@example.net",
+  "phone": "8 175 678 27 35",
+  "birth_date": "1981-07-15",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.913803",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-32A1D3D3B3",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Билибино",
+    "street": "ул. Лазо",
+    "house": "7",
+    "postal_code": "231073",
+    "coordinates": {
+      "latitude": -72.174732,
+      "longitude": -135.643972
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Билибино",
+    "street": "ш. Производственное",
+    "house": "57",
+    "apartment": "38",
+    "postal_code": "681746"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

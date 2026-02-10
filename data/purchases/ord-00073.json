@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00073",
+  "customer": {
+    "customer_id": "cus-1012",
+    "first_name": "Соломон",
+    "last_name": "Петухов"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на пер. Ольховый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Билибино",
+      "street": "ул. Лазо",
+      "house": "7",
+      "postal_code": "231073",
+      "coordinates": {
+        "latitude": -72.174732,
+        "longitude": -135.643972
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1080",
+      "name": "Лететь Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 118.44,
+      "total_price": 592.2,
+      "kbju": {
+        "calories": 221.4,
+        "protein": 9.2,
+        "fat": 13.0,
+        "carbohydrates": 36.7
+      },
+      "manufacturer": {
+        "name": "РАО «Давыдова»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "4645301575"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Ведь Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 299.03,
+      "total_price": 897.09,
+      "kbju": {
+        "calories": 165.7,
+        "protein": 9.1,
+        "fat": 13.3,
+        "carbohydrates": 40.8
+      },
+      "manufacturer": {
+        "name": "Марс (Mars)",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "9465053108"
+      }
+    }
+  ],
+  "total_amount": 1489.29,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Октябрьское (Хант.)",
+    "street": "пер. Гагарина",
+    "house": "603",
+    "apartment": "68",
+    "postal_code": "932602"
+  },
+  "purchase_datetime": "2026-01-16T15:28:45.928857"
+}

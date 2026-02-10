@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00102",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Филарет",
+    "last_name": "Рябов"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ш. Свободное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Кашхатау",
+      "street": "алл. Звездная",
+      "house": "4",
+      "postal_code": "852708",
+      "coordinates": {
+        "latitude": -6.894356,
+        "longitude": 26.825058
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Слишком Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 142.88,
+      "total_price": 285.76,
+      "kbju": {
+        "calories": 249.6,
+        "protein": 7.4,
+        "fat": 11.5,
+        "carbohydrates": 21.3
+      },
+      "manufacturer": {
+        "name": "ИП «Потапов-Федотов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "7477151966"
+      }
+    },
+    {
+      "product_id": "prd-1080",
+      "name": "Лететь Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 118.44,
+      "total_price": 355.32,
+      "kbju": {
+        "calories": 221.4,
+        "protein": 9.2,
+        "fat": 13.0,
+        "carbohydrates": 36.7
+      },
+      "manufacturer": {
+        "name": "РАО «Давыдова»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "4645301575"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Мелочь Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 41.15,
+      "total_price": 205.75,
+      "kbju": {
+        "calories": 90.7,
+        "protein": 19.6,
+        "fat": 3.8,
+        "carbohydrates": 23.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Фомина Калинин»",
+        "country": "Россия",
+        "website": "https://zao.edu",
+        "inn": "9677042154"
+      }
+    }
+  ],
+  "total_amount": 846.83,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кропоткин (Краснод.)",
+    "street": "наб. Станционная",
+    "house": "40",
+    "apartment": "28",
+    "postal_code": "682461"
+  },
+  "purchase_datetime": "2025-11-22T15:28:45.933441"
+}

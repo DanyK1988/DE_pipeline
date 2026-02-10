@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00165",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Касьян",
+    "last_name": "Белова"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пр. Ульяновский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Поронайск",
+      "street": "ул. Кольцевая",
+      "house": "2/1",
+      "postal_code": "079000",
+      "coordinates": {
+        "latitude": -26.5854945,
+        "longitude": 165.895906
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1037",
+      "name": "Доставать Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 170.31,
+      "total_price": 170.31,
+      "kbju": {
+        "calories": 130.9,
+        "protein": 19.3,
+        "fat": 9.7,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ООО «Хохлов-Макарова»",
+        "country": "Россия",
+        "website": "https://ooo.ru",
+        "inn": "7427366441"
+      }
+    },
+    {
+      "product_id": "prd-1023",
+      "name": "Порт Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 177.42,
+      "total_price": 887.1,
+      "kbju": {
+        "calories": 85.1,
+        "protein": 16.6,
+        "fat": 13.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "РАО «Суворова Григорьева»",
+        "country": "Россия",
+        "website": "https://vo.org",
+        "inn": "1852957457"
+      }
+    }
+  ],
+  "total_amount": 1057.41,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Октябрьский (Башк.)",
+    "street": "ул. Фрунзе",
+    "house": "7",
+    "apartment": "32",
+    "postal_code": "749129"
+  },
+  "purchase_datetime": "2025-12-20T15:28:45.942139"
+}

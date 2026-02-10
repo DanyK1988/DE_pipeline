@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00107",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Вениамин",
+    "last_name": "Шашков"
+  },
+  "store": {
+    "store_id": "store-018",
+    "store_name": "Большая Пикча — Магазин на пр. Демьяна Бедного",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Воркута",
+      "street": "наб. Детская",
+      "house": "9",
+      "postal_code": "462899",
+      "coordinates": {
+        "latitude": 25.428573,
+        "longitude": -41.264291
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1043",
+      "name": "Термин Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 283.53,
+      "total_price": 283.53,
+      "kbju": {
+        "calories": 265.5,
+        "protein": 16.3,
+        "fat": 9.8,
+        "carbohydrates": 15.8
+      },
+      "manufacturer": {
+        "name": "АО «Щукин Ширяев»",
+        "country": "Россия",
+        "website": "https://ashan.edu",
+        "inn": "6257498515"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Механический Хлеб",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 115.93,
+      "total_price": 347.79,
+      "kbju": {
+        "calories": 115.8,
+        "protein": 11.3,
+        "fat": 4.9,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "Капустина Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://volkova.edu",
+        "inn": "4361762021"
+      }
+    }
+  ],
+  "total_amount": 631.32,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кашхатау",
+    "street": "пр. Николаева",
+    "house": "8",
+    "apartment": "88",
+    "postal_code": "113981"
+  },
+  "purchase_datetime": "2025-12-05T15:28:45.934271"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00187",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Чеслав",
+    "last_name": "Брагина"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на ул. Литейная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Кабанск",
+      "street": "пер. Черемушки",
+      "house": "45",
+      "postal_code": "459809",
+      "coordinates": {
+        "latitude": 77.613574,
+        "longitude": 3.498355
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1088",
+      "name": "Крутой Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 117.01,
+      "total_price": 351.03,
+      "kbju": {
+        "calories": 173.9,
+        "protein": 10.5,
+        "fat": 0.8,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "ГК Автодилерство",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "4226193317"
+      }
+    },
+    {
+      "product_id": "prd-1069",
+      "name": "Точно Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.42,
+      "total_price": 90.42,
+      "kbju": {
+        "calories": 142.2,
+        "protein": 18.4,
+        "fat": 8.2,
+        "carbohydrates": 49.2
+      },
+      "manufacturer": {
+        "name": "НПО «Тихонов, Фомичев и Жукова»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "5434688941"
+      }
+    },
+    {
+      "product_id": "prd-1026",
+      "name": "Более Фарш",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 52.6,
+      "total_price": 157.8,
+      "kbju": {
+        "calories": 212.1,
+        "protein": 4.2,
+        "fat": 10.0,
+        "carbohydrates": 14.7
+      },
+      "manufacturer": {
+        "name": "РАО «Логинов»",
+        "country": "Россия",
+        "website": "https://sergeeva.org",
+        "inn": "8836849837"
+      }
+    }
+  ],
+  "total_amount": 599.25,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "наб. Локомотивная",
+    "house": "88",
+    "apartment": "65",
+    "postal_code": "920636"
+  },
+  "purchase_datetime": "2025-12-05T15:28:45.945401"
+}

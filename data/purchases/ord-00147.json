@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00147",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Юлиан",
+    "last_name": "Архипова"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Краснопартизанская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Белорецк",
+      "street": "ул. Цветочная",
+      "house": "746",
+      "postal_code": "712719",
+      "coordinates": {
+        "latitude": 44.283196,
+        "longitude": 113.263151
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Адвокат Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 222.04,
+      "total_price": 666.12,
+      "kbju": {
+        "calories": 125.4,
+        "protein": 15.6,
+        "fat": 12.6,
+        "carbohydrates": 27.5
+      },
+      "manufacturer": {
+        "name": "АО «Кузнецова Лукин»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "1522281124"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Изба Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 249.44,
+      "total_price": 249.44,
+      "kbju": {
+        "calories": 187.2,
+        "protein": 19.5,
+        "fat": 0.8,
+        "carbohydrates": 39.2
+      },
+      "manufacturer": {
+        "name": "ООО «Михеева»",
+        "country": "Россия",
+        "website": "https://dzhti.edu",
+        "inn": "4634657861"
+      }
+    },
+    {
+      "product_id": "prd-1091",
+      "name": "Славный Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 49.14,
+      "total_price": 49.14,
+      "kbju": {
+        "calories": 206.9,
+        "protein": 12.4,
+        "fat": 9.5,
+        "carbohydrates": 42.8
+      },
+      "manufacturer": {
+        "name": "ВО Машиноимпорт",
+        "country": "Россия",
+        "website": "https://kuznetsov.biz",
+        "inn": "0843865990"
+      }
+    }
+  ],
+  "total_amount": 964.7,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Владивосток",
+    "street": "алл. Ярославская",
+    "house": "439",
+    "apartment": "76",
+    "postal_code": "635085"
+  },
+  "purchase_datetime": "2026-02-09T15:28:45.939694"
+}

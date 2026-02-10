@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00177",
+  "customer": {
+    "customer_id": "cus-1005",
+    "first_name": "Орест",
+    "last_name": "Трофимов"
+  },
+  "store": {
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на бул. Первомайский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Октябрьское (Хант.)",
+      "street": "бул. Загородный",
+      "house": "9",
+      "postal_code": "951710",
+      "coordinates": {
+        "latitude": -51.7656725,
+        "longitude": -19.023159
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1084",
+      "name": "Потянуться Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 263.6,
+      "total_price": 1054.4,
+      "kbju": {
+        "calories": 261.7,
+        "protein": 12.5,
+        "fat": 5.4,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Андреев Никонов»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3305240470"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Задрать Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 218.0,
+      "total_price": 436.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 2.0,
+        "fat": 3.9,
+        "carbohydrates": 34.9
+      },
+      "manufacturer": {
+        "name": "ИП «Александрова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "3480513861"
+      }
+    }
+  ],
+  "total_amount": 1490.4,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Томари",
+    "street": "алл. Клубная",
+    "house": "761",
+    "apartment": "35",
+    "postal_code": "063616"
+  },
+  "purchase_datetime": "2025-11-12T15:28:45.944032"
+}

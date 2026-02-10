@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00013",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Иннокентий",
+    "last_name": "Некрасова"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на пер. Рябиновый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Верхний Тагил",
+      "street": "пр. Калужский",
+      "house": "46",
+      "postal_code": "604165",
+      "coordinates": {
+        "latitude": -12.5059915,
+        "longitude": 71.836502
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1084",
+      "name": "Потянуться Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 263.6,
+      "total_price": 263.6,
+      "kbju": {
+        "calories": 261.7,
+        "protein": 12.5,
+        "fat": 5.4,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Андреев Никонов»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3305240470"
+      }
+    },
+    {
+      "product_id": "prd-1048",
+      "name": "Бригада Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 111.6,
+      "total_price": 558.0,
+      "kbju": {
+        "calories": 208.3,
+        "protein": 19.1,
+        "fat": 11.9,
+        "carbohydrates": 21.2
+      },
+      "manufacturer": {
+        "name": "ИП «Кошелев»",
+        "country": "Россия",
+        "website": "https://bobilev.edu",
+        "inn": "1045297341"
+      }
+    }
+  ],
+  "total_amount": 821.6,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Тутончаны",
+    "street": "ш. Заводское",
+    "house": "873",
+    "apartment": "18",
+    "postal_code": "277463"
+  },
+  "purchase_datetime": "2025-12-18T15:28:45.920065"
+}

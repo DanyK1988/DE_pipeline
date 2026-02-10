@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00012",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Алина",
+    "last_name": "Денисов"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на пер. Рябиновый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Верхний Тагил",
+      "street": "пр. Калужский",
+      "house": "46",
+      "postal_code": "604165",
+      "coordinates": {
+        "latitude": -12.5059915,
+        "longitude": 71.836502
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1032",
+      "name": "Приходить Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 87.97,
+      "total_price": 87.97,
+      "kbju": {
+        "calories": 292.5,
+        "protein": 2.8,
+        "fat": 5.3,
+        "carbohydrates": 38.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Субботин-Казакова»",
+        "country": "Россия",
+        "website": "https://rao.net",
+        "inn": "3831658898"
+      }
+    },
+    {
+      "product_id": "prd-1074",
+      "name": "Чем Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 148.82,
+      "total_price": 446.46,
+      "kbju": {
+        "calories": 185.8,
+        "protein": 3.1,
+        "fat": 6.7,
+        "carbohydrates": 17.8
+      },
+      "manufacturer": {
+        "name": "АО «Филиппова-Зайцев»",
+        "country": "Россия",
+        "website": "https://aviakompanija.biz",
+        "inn": "4691579985"
+      }
+    }
+  ],
+  "total_amount": 534.43,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Поронайск",
+    "street": "наб. Октября",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "611917"
+  },
+  "purchase_datetime": "2026-02-02T15:28:45.919874"
+}

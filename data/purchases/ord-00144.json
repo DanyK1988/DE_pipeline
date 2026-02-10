@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00144",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Алина",
+    "last_name": "Денисов"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на пр. 60 лет Октября",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Киренск",
+      "street": "ш. 60 лет Октября",
+      "house": "2",
+      "postal_code": "007394",
+      "coordinates": {
+        "latitude": 9.1706655,
+        "longitude": -13.705384
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Вскакивать Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 260.02,
+      "total_price": 520.04,
+      "kbju": {
+        "calories": 86.6,
+        "protein": 11.7,
+        "fat": 11.7,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "ОАО «Захарова-Гущин»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "5364875189"
+      }
+    },
+    {
+      "product_id": "prd-1035",
+      "name": "Нож Яйца",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 51.47,
+      "total_price": 257.35,
+      "kbju": {
+        "calories": 88.9,
+        "protein": 14.3,
+        "fat": 3.7,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "Модум-транс",
+        "country": "Россия",
+        "website": "https://novorossiski.com",
+        "inn": "4453035912"
+      }
+    },
+    {
+      "product_id": "prd-1028",
+      "name": "Ведь Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 299.03,
+      "total_price": 1495.15,
+      "kbju": {
+        "calories": 165.7,
+        "protein": 9.1,
+        "fat": 13.3,
+        "carbohydrates": 40.8
+      },
+      "manufacturer": {
+        "name": "Марс (Mars)",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "9465053108"
+      }
+    }
+  ],
+  "total_amount": 2272.54,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Поронайск",
+    "street": "наб. Октября",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "611917"
+  },
+  "purchase_datetime": "2025-11-13T15:28:45.939280"
+}

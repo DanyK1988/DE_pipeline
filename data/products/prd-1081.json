@@ -1,0 +1,24 @@
+{
+  "id": "prd-1081",
+  "name": "Деньги Зелень",
+  "group": "🥦 Овощи и зелень",
+  "description": "Валюта витрина табак плясать нажать.",
+  "kbju": {
+    "calories": 56.1,
+    "protein": 11.1,
+    "fat": 12.4,
+    "carbohydrates": 9.6
+  },
+  "price": 279.56,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 9,
+  "is_organic": true,
+  "barcode": "8403207282255",
+  "manufacturer": {
+    "name": "АНГК",
+    "country": "Россия",
+    "website": "https://ooo.com",
+    "inn": "9080450507"
+  }
+}

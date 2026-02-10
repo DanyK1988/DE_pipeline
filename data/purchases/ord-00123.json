@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00123",
+  "customer": {
+    "customer_id": "cus-1014",
+    "first_name": "Игорь",
+    "last_name": "Князев"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на бул. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Ногинск (Моск.)",
+      "street": "ул. Дорожная",
+      "house": "49",
+      "postal_code": "794588",
+      "coordinates": {
+        "latitude": 11.4594385,
+        "longitude": -29.371717
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Коллектив Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 159.89,
+      "total_price": 639.56,
+      "kbju": {
+        "calories": 255.8,
+        "protein": 5.3,
+        "fat": 5.4,
+        "carbohydrates": 13.2
+      },
+      "manufacturer": {
+        "name": "НПО «Осипов»",
+        "country": "Россия",
+        "website": "https://zao.info",
+        "inn": "3832684930"
+      }
+    },
+    {
+      "product_id": "prd-1071",
+      "name": "Житель Клубника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 194.21,
+      "total_price": 776.84,
+      "kbju": {
+        "calories": 213.9,
+        "protein": 3.7,
+        "fat": 0.9,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.biz",
+        "inn": "7032307391"
+      }
+    }
+  ],
+  "total_amount": 1416.4,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Майкоп",
+    "street": "ш. Разина",
+    "house": "981",
+    "apartment": "12",
+    "postal_code": "107632"
+  },
+  "purchase_datetime": "2025-12-19T15:28:45.936560"
+}

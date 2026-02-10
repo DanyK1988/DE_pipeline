@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1031",
+  "first_name": "Тихон",
+  "last_name": "Никитина",
+  "email": "erast_2004@example.com",
+  "phone": "+76136469897",
+  "birth_date": "1996-06-28",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.915675",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-BF4C6E6AF0",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Теберда",
+    "street": "алл. Боровая",
+    "house": "2",
+    "postal_code": "187081",
+    "coordinates": {
+      "latitude": 68.1291635,
+      "longitude": -161.395779
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Теберда",
+    "street": "пер. Студенческий",
+    "house": "134",
+    "apartment": "80",
+    "postal_code": "551183"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00175",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Ярополк",
+    "last_name": "Кондратьев"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Свободы",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Тутончаны",
+      "street": "пер. Алтайский",
+      "house": "11",
+      "postal_code": "599346",
+      "coordinates": {
+        "latitude": 32.173978,
+        "longitude": 1.69222
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1045",
+      "name": "Товар Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 123.6,
+      "total_price": 123.6,
+      "kbju": {
+        "calories": 89.7,
+        "protein": 19.6,
+        "fat": 7.9,
+        "carbohydrates": 14.2
+      },
+      "manufacturer": {
+        "name": "ИП «Анисимова-Третьякова»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "8604334910"
+      }
+    },
+    {
+      "product_id": "prd-1060",
+      "name": "Приличный Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 79.12,
+      "total_price": 79.12,
+      "kbju": {
+        "calories": 92.5,
+        "protein": 7.1,
+        "fat": 3.5,
+        "carbohydrates": 33.9
+      },
+      "manufacturer": {
+        "name": "Белуга Групп",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "8971338326"
+      }
+    }
+  ],
+  "total_amount": 202.72,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Железногорск(Курск.)",
+    "street": "ул. Студенческая",
+    "house": "406",
+    "apartment": "46",
+    "postal_code": "704635"
+  },
+  "purchase_datetime": "2026-01-04T15:28:45.943639"
+}

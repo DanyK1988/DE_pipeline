@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00161",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Аверьян",
+    "last_name": "Богданова"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на пер. Звездный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Владивосток",
+      "street": "ул. Глинки",
+      "house": "7/8",
+      "postal_code": "887835",
+      "coordinates": {
+        "latitude": 52.7074515,
+        "longitude": 142.944017
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1041",
+      "name": "Выгнать Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 190.04,
+      "total_price": 380.08,
+      "kbju": {
+        "calories": 219.2,
+        "protein": 9.7,
+        "fat": 14.3,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кузьмин и партнеры",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "6374231316"
+      }
+    }
+  ],
+  "total_amount": 380.08,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Кашхатау",
+    "street": "бул. Леонова",
+    "house": "1",
+    "apartment": "11",
+    "postal_code": "698167"
+  },
+  "purchase_datetime": "2025-11-24T15:28:45.941629"
+}

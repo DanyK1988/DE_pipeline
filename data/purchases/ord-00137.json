@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00137",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Кузьма",
+    "last_name": "Белоусов"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на бул. Спартака",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Вязьма",
+      "street": "ул. 9 Января",
+      "house": "78",
+      "postal_code": "967534",
+      "coordinates": {
+        "latitude": -6.2672165,
+        "longitude": -25.025989
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1013",
+      "name": "Госпожа Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 182.89,
+      "total_price": 731.56,
+      "kbju": {
+        "calories": 229.5,
+        "protein": 11.6,
+        "fat": 8.6,
+        "carbohydrates": 23.3
+      },
+      "manufacturer": {
+        "name": "РАО «Родионов, Анисимова и Цветков»",
+        "country": "Россия",
+        "website": "https://zao.biz",
+        "inn": "9227312970"
+      }
+    },
+    {
+      "product_id": "prd-1054",
+      "name": "Да Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 72.03,
+      "total_price": 360.15,
+      "kbju": {
+        "calories": 218.1,
+        "protein": 2.6,
+        "fat": 10.0,
+        "carbohydrates": 36.4
+      },
+      "manufacturer": {
+        "name": "АО «Гаврилова Федотова»",
+        "country": "Россия",
+        "website": "https://rusenergosbit.org",
+        "inn": "9787281286"
+      }
+    }
+  ],
+  "total_amount": 1091.71,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Стрежевой",
+    "street": "пр. Заводской",
+    "house": "53",
+    "apartment": "44",
+    "postal_code": "138040"
+  },
+  "purchase_datetime": "2026-02-04T15:28:45.938435"
+}

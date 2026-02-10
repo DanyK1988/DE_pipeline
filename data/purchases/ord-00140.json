@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00140",
+  "customer": {
+    "customer_id": "cus-1030",
+    "first_name": "Пров",
+    "last_name": "Лапина"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на пр. Прудовой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Выборг",
+      "street": "ш. Молодежное",
+      "house": "51",
+      "postal_code": "924675",
+      "coordinates": {
+        "latitude": 25.106245,
+        "longitude": -25.643673
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1092",
+      "name": "Посвятить Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 245.06,
+      "total_price": 735.18,
+      "kbju": {
+        "calories": 162.2,
+        "protein": 5.3,
+        "fat": 12.2,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "НПО «Федотова, Ларионова и Овчинников»",
+        "country": "Россия",
+        "website": "https://markova.net",
+        "inn": "7933109730"
+      }
+    },
+    {
+      "product_id": "prd-1086",
+      "name": "Назначить Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 127.91,
+      "total_price": 255.82,
+      "kbju": {
+        "calories": 280.1,
+        "protein": 12.4,
+        "fat": 13.2,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "Лента",
+        "country": "Россия",
+        "website": "https://nekrasov.com",
+        "inn": "3391682964"
+      }
+    },
+    {
+      "product_id": "prd-1059",
+      "name": "Соответствие Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 136.77,
+      "total_price": 683.85,
+      "kbju": {
+        "calories": 109.6,
+        "protein": 7.2,
+        "fat": 9.9,
+        "carbohydrates": 3.6
+      },
+      "manufacturer": {
+        "name": "НПО «Вишнякова»",
+        "country": "Россия",
+        "website": "https://mms.biz",
+        "inn": "2169738679"
+      }
+    }
+  ],
+  "total_amount": 1674.85,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Вязьма",
+    "street": "пер. Морской",
+    "house": "82",
+    "apartment": "51",
+    "postal_code": "781533"
+  },
+  "purchase_datetime": "2026-02-03T15:28:45.938796"
+}

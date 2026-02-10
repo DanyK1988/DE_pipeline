@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1028",
+  "first_name": "Фирс",
+  "last_name": "Боброва",
+  "email": "fnikiforov@example.org",
+  "phone": "8 183 439 8448",
+  "birth_date": "2004-10-11",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.915147",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-8AF7C7677F",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Жуковский",
+    "street": "ш. Димитрова",
+    "house": "60",
+    "postal_code": "504318",
+    "coordinates": {
+      "latitude": -37.8361535,
+      "longitude": -4.744083
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Жуковский",
+    "street": "пр. Авиационный",
+    "house": "97",
+    "apartment": "88",
+    "postal_code": "153384"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00181",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Кузьма",
+    "last_name": "Белоусов"
+  },
+  "store": {
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на ул. Торговая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Жуковский",
+      "street": "ш. Димитрова",
+      "house": "60",
+      "postal_code": "504318",
+      "coordinates": {
+        "latitude": -37.8361535,
+        "longitude": -4.744083
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1087",
+      "name": "Невыносимый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 286.89,
+      "total_price": 1434.45,
+      "kbju": {
+        "calories": 77.2,
+        "protein": 14.2,
+        "fat": 12.9,
+        "carbohydrates": 26.6
+      },
+      "manufacturer": {
+        "name": "НПО «Киселев»",
+        "country": "Россия",
+        "website": "https://vlasov.info",
+        "inn": "5542422338"
+      }
+    },
+    {
+      "product_id": "prd-1049",
+      "name": "Беспомощный Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 130.2,
+      "total_price": 651.0,
+      "kbju": {
+        "calories": 81.5,
+        "protein": 15.8,
+        "fat": 13.3,
+        "carbohydrates": 42.5
+      },
+      "manufacturer": {
+        "name": "ИП «Новикова Кудрявцева»",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8401581875"
+      }
+    },
+    {
+      "product_id": "prd-1096",
+      "name": "Интеллектуальный Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 285.02,
+      "total_price": 285.02,
+      "kbju": {
+        "calories": 207.5,
+        "protein": 10.1,
+        "fat": 1.4,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ИП «Виноградова-Кулакова»",
+        "country": "Россия",
+        "website": "https://ferrero.org",
+        "inn": "6188976994"
+      }
+    }
+  ],
+  "total_amount": 2370.47,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Стрежевой",
+    "street": "пр. Заводской",
+    "house": "53",
+    "apartment": "44",
+    "postal_code": "138040"
+  },
+  "purchase_datetime": "2026-01-18T15:28:45.944601"
+}

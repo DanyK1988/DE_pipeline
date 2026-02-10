@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00072",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Прохор",
+    "last_name": "Александрова"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кашхатау",
+      "street": "алл. Угольная",
+      "house": "229",
+      "postal_code": "295928",
+      "coordinates": {
+        "latitude": -49.7627225,
+        "longitude": -158.561658
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1061",
+      "name": "Танцевать Клубника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 223.76,
+      "total_price": 671.28,
+      "kbju": {
+        "calories": 213.6,
+        "protein": 14.5,
+        "fat": 14.2,
+        "carbohydrates": 29.6
+      },
+      "manufacturer": {
+        "name": "S7 Group",
+        "country": "Россия",
+        "website": "https://npo.com",
+        "inn": "9381576429"
+      }
+    }
+  ],
+  "total_amount": 671.28,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "purchase_datetime": "2025-12-19T15:28:45.928734"
+}

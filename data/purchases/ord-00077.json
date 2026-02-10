@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00077",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Парфен",
+    "last_name": "Лебедева"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на пер. Юности",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Новомосковск",
+      "street": "ш. Омское",
+      "house": "348",
+      "postal_code": "224508",
+      "coordinates": {
+        "latitude": 86.0219265,
+        "longitude": 73.553193
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1012",
+      "name": "Исследование Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 203.19,
+      "total_price": 609.57,
+      "kbju": {
+        "calories": 266.8,
+        "protein": 12.4,
+        "fat": 12.8,
+        "carbohydrates": 8.3
+      },
+      "manufacturer": {
+        "name": "ЗАО «Дьячков Панфилова»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "3204453707"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Спасть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 73.69,
+      "total_price": 221.07,
+      "kbju": {
+        "calories": 122.2,
+        "protein": 5.7,
+        "fat": 8.9,
+        "carbohydrates": 34.6
+      },
+      "manufacturer": {
+        "name": "Захарова и партнеры",
+        "country": "Россия",
+        "website": "https://turov.net",
+        "inn": "3222479331"
+      }
+    }
+  ],
+  "total_amount": 830.64,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кинешма",
+    "street": "наб. Павлика Морозова",
+    "house": "904",
+    "apartment": "70",
+    "postal_code": "435969"
+  },
+  "purchase_datetime": "2025-12-08T15:28:45.929643"
+}

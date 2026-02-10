@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00174",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Платон",
+    "last_name": "Стрелкова"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на ул. Рябиновая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Стрежевой",
+      "street": "пер. Социалистический",
+      "house": "65",
+      "postal_code": "749036",
+      "coordinates": {
+        "latitude": -55.4023775,
+        "longitude": -39.425849
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Слишком Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 255.69,
+      "total_price": 1278.45,
+      "kbju": {
+        "calories": 217.8,
+        "protein": 3.7,
+        "fat": 14.0,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "Катрен",
+        "country": "Россия",
+        "website": "https://lihacheva.ru",
+        "inn": "5888466491"
+      }
+    },
+    {
+      "product_id": "prd-1051",
+      "name": "Изба Молоко",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 281.33,
+      "total_price": 843.99,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 0.8,
+        "fat": 14.3,
+        "carbohydrates": 31.6
+      },
+      "manufacturer": {
+        "name": "ОАО «Артемьева, Соловьев и Калинин»",
+        "country": "Россия",
+        "website": "https://ptk.org",
+        "inn": "0318172343"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Механический Хлеб",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 115.93,
+      "total_price": 347.79,
+      "kbju": {
+        "calories": 115.8,
+        "protein": 11.3,
+        "fat": 4.9,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "Капустина Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://volkova.edu",
+        "inn": "4361762021"
+      }
+    }
+  ],
+  "total_amount": 2470.23,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Рыльск",
+    "street": "пр. Слободской",
+    "house": "4",
+    "apartment": "96",
+    "postal_code": "829235"
+  },
+  "purchase_datetime": "2025-12-03T15:28:45.943500"
+}

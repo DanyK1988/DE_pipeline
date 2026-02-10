@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00025",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Тихон",
+    "last_name": "Никитина"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кашхатау",
+      "street": "алл. Угольная",
+      "house": "229",
+      "postal_code": "295928",
+      "coordinates": {
+        "latitude": -49.7627225,
+        "longitude": -158.561658
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1048",
+      "name": "Бригада Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 111.6,
+      "total_price": 446.4,
+      "kbju": {
+        "calories": 208.3,
+        "protein": 19.1,
+        "fat": 11.9,
+        "carbohydrates": 21.2
+      },
+      "manufacturer": {
+        "name": "ИП «Кошелев»",
+        "country": "Россия",
+        "website": "https://bobilev.edu",
+        "inn": "1045297341"
+      }
+    },
+    {
+      "product_id": "prd-1082",
+      "name": "Недостаток Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 142.45,
+      "total_price": 569.8,
+      "kbju": {
+        "calories": 227.4,
+        "protein": 10.1,
+        "fat": 11.5,
+        "carbohydrates": 44.5
+      },
+      "manufacturer": {
+        "name": "Мосгортранс",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "8852581191"
+      }
+    },
+    {
+      "product_id": "prd-1053",
+      "name": "Неожиданно Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 45.62,
+      "total_price": 228.1,
+      "kbju": {
+        "calories": 262.7,
+        "protein": 13.7,
+        "fat": 12.7,
+        "carbohydrates": 11.2
+      },
+      "manufacturer": {
+        "name": "Росатом",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "2219528239"
+      }
+    }
+  ],
+  "total_amount": 1244.3,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Теберда",
+    "street": "пер. Студенческий",
+    "house": "134",
+    "apartment": "80",
+    "postal_code": "551183"
+  },
+  "purchase_datetime": "2025-11-30T15:28:45.921782"
+}

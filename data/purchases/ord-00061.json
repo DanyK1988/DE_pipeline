@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00061",
+  "customer": {
+    "customer_id": "cus-1008",
+    "first_name": "Селиван",
+    "last_name": "Голубева"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на ш. Ушакова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Терней",
+      "street": "алл. Микрорайон",
+      "house": "657",
+      "postal_code": "050961",
+      "coordinates": {
+        "latitude": 29.845876,
+        "longitude": -166.039678
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1037",
+      "name": "Доставать Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 170.31,
+      "total_price": 510.93,
+      "kbju": {
+        "calories": 130.9,
+        "protein": 19.3,
+        "fat": 9.7,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ООО «Хохлов-Макарова»",
+        "country": "Россия",
+        "website": "https://ooo.ru",
+        "inn": "7427366441"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Спасть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 73.69,
+      "total_price": 368.45,
+      "kbju": {
+        "calories": 122.2,
+        "protein": 5.7,
+        "fat": 8.9,
+        "carbohydrates": 34.6
+      },
+      "manufacturer": {
+        "name": "Захарова и партнеры",
+        "country": "Россия",
+        "website": "https://turov.net",
+        "inn": "3222479331"
+      }
+    },
+    {
+      "product_id": "prd-1023",
+      "name": "Порт Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 177.42,
+      "total_price": 177.42,
+      "kbju": {
+        "calories": 85.1,
+        "protein": 16.6,
+        "fat": 13.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "РАО «Суворова Григорьева»",
+        "country": "Россия",
+        "website": "https://vo.org",
+        "inn": "1852957457"
+      }
+    }
+  ],
+  "total_amount": 1056.8,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Охотск",
+    "street": "пр. Майский",
+    "house": "257",
+    "apartment": "92",
+    "postal_code": "652901"
+  },
+  "purchase_datetime": "2026-01-24T15:28:45.927227"
+}

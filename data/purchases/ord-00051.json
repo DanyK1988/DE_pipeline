@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00051",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Прохор",
+    "last_name": "Александрова"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на ул. Рябиновая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Стрежевой",
+      "street": "пер. Социалистический",
+      "house": "65",
+      "postal_code": "749036",
+      "coordinates": {
+        "latitude": -55.4023775,
+        "longitude": -39.425849
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1051",
+      "name": "Изба Молоко",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 281.33,
+      "total_price": 1406.65,
+      "kbju": {
+        "calories": 260.7,
+        "protein": 0.8,
+        "fat": 14.3,
+        "carbohydrates": 31.6
+      },
+      "manufacturer": {
+        "name": "ОАО «Артемьева, Соловьев и Калинин»",
+        "country": "Россия",
+        "website": "https://ptk.org",
+        "inn": "0318172343"
+      }
+    },
+    {
+      "product_id": "prd-1095",
+      "name": "Более Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 241.75,
+      "total_price": 725.25,
+      "kbju": {
+        "calories": 178.5,
+        "protein": 12.6,
+        "fat": 10.2,
+        "carbohydrates": 26.4
+      },
+      "manufacturer": {
+        "name": "АО «Цветков-Кузьмина»",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "9127286730"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Изба Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 249.44,
+      "total_price": 498.88,
+      "kbju": {
+        "calories": 187.2,
+        "protein": 19.5,
+        "fat": 0.8,
+        "carbohydrates": 39.2
+      },
+      "manufacturer": {
+        "name": "ООО «Михеева»",
+        "country": "Россия",
+        "website": "https://dzhti.edu",
+        "inn": "4634657861"
+      }
+    }
+  ],
+  "total_amount": 2630.78,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "purchase_datetime": "2025-12-02T15:28:45.925677"
+}

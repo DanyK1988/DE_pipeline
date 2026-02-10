@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1027",
+  "first_name": "Платон",
+  "last_name": "Стрелкова",
+  "email": "jakovlevmefodi@example.org",
+  "phone": "+7 110 717 64 92",
+  "birth_date": "1987-07-12",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.914977",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-C44F5B5781",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Рыльск",
+    "street": "пр. Тельмана",
+    "house": "45",
+    "postal_code": "867128",
+    "coordinates": {
+      "latitude": -66.088196,
+      "longitude": 6.284635
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Рыльск",
+    "street": "пр. Слободской",
+    "house": "4",
+    "apartment": "96",
+    "postal_code": "829235"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

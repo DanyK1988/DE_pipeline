@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00157",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Евфросиния",
+    "last_name": "Пестов"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на пер. Юности",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Новомосковск",
+      "street": "ш. Омское",
+      "house": "348",
+      "postal_code": "224508",
+      "coordinates": {
+        "latitude": 86.0219265,
+        "longitude": 73.553193
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Слишком Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 255.69,
+      "total_price": 255.69,
+      "kbju": {
+        "calories": 217.8,
+        "protein": 3.7,
+        "fat": 14.0,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "Катрен",
+        "country": "Россия",
+        "website": "https://lihacheva.ru",
+        "inn": "5888466491"
+      }
+    }
+  ],
+  "total_amount": 255.69,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Тикси",
+    "street": "алл. Космонавтов",
+    "house": "4",
+    "apartment": "25",
+    "postal_code": "199247"
+  },
+  "purchase_datetime": "2026-01-20T15:28:45.941121"
+}

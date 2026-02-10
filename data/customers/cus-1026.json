@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1026",
+  "first_name": "Пимен",
+  "last_name": "Максимова",
+  "email": "naumovarefi@example.com",
+  "phone": "+7 (420) 222-0079",
+  "birth_date": "2006-08-09",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.914810",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-C08A139864",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Джубга",
+    "street": "пр. Курский",
+    "house": "2/1",
+    "postal_code": "163271",
+    "coordinates": {
+      "latitude": 26.685627,
+      "longitude": -2.547829
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Джубга",
+    "street": "ул. Привокзальная",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "924821"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

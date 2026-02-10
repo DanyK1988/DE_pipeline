@@ -1,0 +1,24 @@
+{
+  "id": "prd-1061",
+  "name": "Танцевать Клубника",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Затянуться счастье сустав ночь предоставить.",
+  "kbju": {
+    "calories": 213.6,
+    "protein": 14.5,
+    "fat": 14.2,
+    "carbohydrates": 29.6
+  },
+  "price": 223.76,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 13,
+  "is_organic": true,
+  "barcode": "2550693265722",
+  "manufacturer": {
+    "name": "S7 Group",
+    "country": "Россия",
+    "website": "https://npo.com",
+    "inn": "9381576429"
+  }
+}

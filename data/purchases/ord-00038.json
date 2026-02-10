@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00038",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Чеслав",
+    "last_name": "Брагина"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на бул. Краснодарский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Старый Оскол",
+      "street": "алл. Песчаная",
+      "house": "421",
+      "postal_code": "179761",
+      "coordinates": {
+        "latitude": -32.7424965,
+        "longitude": -18.150891
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1089",
+      "name": "Основание Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 290.89,
+      "total_price": 290.89,
+      "kbju": {
+        "calories": 75.8,
+        "protein": 1.7,
+        "fat": 11.5,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Мухина Лимитед",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "2169118382"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Приходить Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 87.97,
+      "total_price": 351.88,
+      "kbju": {
+        "calories": 292.5,
+        "protein": 2.8,
+        "fat": 5.3,
+        "carbohydrates": 38.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Субботин-Казакова»",
+        "country": "Россия",
+        "website": "https://rao.net",
+        "inn": "3831658898"
+      }
+    }
+  ],
+  "total_amount": 642.77,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "наб. Локомотивная",
+    "house": "88",
+    "apartment": "65",
+    "postal_code": "920636"
+  },
+  "purchase_datetime": "2026-02-09T15:28:45.923870"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1001",
+  "first_name": "Фока",
+  "last_name": "Власова",
+  "email": "timofevlasov@example.net",
+  "phone": "88532325447",
+  "birth_date": "1990-12-19",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.906127",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-B5B7A19C88",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Иваново",
+    "street": "ул. Киевская",
+    "house": "7",
+    "postal_code": "482886",
+    "coordinates": {
+      "latitude": 13.201734,
+      "longitude": -82.974798
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Иваново",
+    "street": "бул. Карьерный",
+    "house": "8",
+    "apartment": "46",
+    "postal_code": "144629"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

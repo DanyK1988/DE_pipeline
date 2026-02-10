@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00192",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Серафим",
+    "last_name": "Комаров"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на бул. Гагарина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Рыльск",
+      "street": "пр. Тельмана",
+      "house": "45",
+      "postal_code": "867128",
+      "coordinates": {
+        "latitude": -66.088196,
+        "longitude": 6.284635
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1067",
+      "name": "Мера Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 43.73,
+      "total_price": 131.19,
+      "kbju": {
+        "calories": 192.4,
+        "protein": 19.9,
+        "fat": 4.7,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Дементьева Павлова»",
+        "country": "Россия",
+        "website": "https://sisko.com",
+        "inn": "0571050213"
+      }
+    }
+  ],
+  "total_amount": 131.19,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Зеленогорск (Ленин.)",
+    "street": "наб. Чехова",
+    "house": "395",
+    "apartment": "3",
+    "postal_code": "597759"
+  },
+  "purchase_datetime": "2025-12-20T15:28:45.946030"
+}

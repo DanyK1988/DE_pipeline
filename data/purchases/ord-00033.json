@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00033",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Лаврентий",
+    "last_name": "Миронов"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на пер. Бригадный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Урюпинск",
+      "street": "бул. Ангарский",
+      "house": "5",
+      "postal_code": "897312",
+      "coordinates": {
+        "latitude": 5.2243225,
+        "longitude": 112.588665
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1079",
+      "name": "Ягода Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 121.24,
+      "total_price": 484.96,
+      "kbju": {
+        "calories": 291.4,
+        "protein": 15.7,
+        "fat": 6.7,
+        "carbohydrates": 21.8
+      },
+      "manufacturer": {
+        "name": "ИП «Якушева»",
+        "country": "Россия",
+        "website": "https://rao.net",
+        "inn": "1349555045"
+      }
+    }
+  ],
+  "total_amount": 484.96,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Новомосковск",
+    "street": "наб. Орловская",
+    "house": "1/7",
+    "apartment": "20",
+    "postal_code": "657265"
+  },
+  "purchase_datetime": "2026-01-23T15:28:45.923089"
+}

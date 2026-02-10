@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00048",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Фадей",
+    "last_name": "Щукина"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на бул. Краснодарский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Старый Оскол",
+      "street": "алл. Песчаная",
+      "house": "421",
+      "postal_code": "179761",
+      "coordinates": {
+        "latitude": -32.7424965,
+        "longitude": -18.150891
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Слишком Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 255.69,
+      "total_price": 1278.45,
+      "kbju": {
+        "calories": 217.8,
+        "protein": 3.7,
+        "fat": 14.0,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "Катрен",
+        "country": "Россия",
+        "website": "https://lihacheva.ru",
+        "inn": "5888466491"
+      }
+    },
+    {
+      "product_id": "prd-1071",
+      "name": "Житель Клубника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 194.21,
+      "total_price": 776.84,
+      "kbju": {
+        "calories": 213.9,
+        "protein": 3.7,
+        "fat": 0.9,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.biz",
+        "inn": "7032307391"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Доставать Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 170.31,
+      "total_price": 340.62,
+      "kbju": {
+        "calories": 130.9,
+        "protein": 19.3,
+        "fat": 9.7,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ООО «Хохлов-Макарова»",
+        "country": "Россия",
+        "website": "https://ooo.ru",
+        "inn": "7427366441"
+      }
+    }
+  ],
+  "total_amount": 2395.91,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Новомосковск",
+    "street": "пер. Чехова",
+    "house": "88",
+    "apartment": "2",
+    "postal_code": "157594"
+  },
+  "purchase_datetime": "2026-01-06T15:28:45.925217"
+}

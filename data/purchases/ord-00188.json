@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00188",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Остап",
+    "last_name": "Калинин"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1025",
+      "name": "Мелочь Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 41.15,
+      "total_price": 123.45,
+      "kbju": {
+        "calories": 90.7,
+        "protein": 19.6,
+        "fat": 3.8,
+        "carbohydrates": 23.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Фомина Калинин»",
+        "country": "Россия",
+        "website": "https://zao.edu",
+        "inn": "9677042154"
+      }
+    },
+    {
+      "product_id": "prd-1036",
+      "name": "Стакан Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 244.61,
+      "total_price": 1223.05,
+      "kbju": {
+        "calories": 108.5,
+        "protein": 13.4,
+        "fat": 1.9,
+        "carbohydrates": 34.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Павлова-Симонова»",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "7021168801"
+      }
+    }
+  ],
+  "total_amount": 1346.5,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "purchase_datetime": "2026-01-17T15:28:45.945544"
+}

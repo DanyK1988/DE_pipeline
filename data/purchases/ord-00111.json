@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00111",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Милий",
+    "last_name": "Трофимова"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на ш. Ворошилова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Октябрьский (Башк.)",
+      "street": "алл. Станционная",
+      "house": "289",
+      "postal_code": "039313",
+      "coordinates": {
+        "latitude": 72.73613,
+        "longitude": -176.074107
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "name": "Спасть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 73.69,
+      "total_price": 221.07,
+      "kbju": {
+        "calories": 122.2,
+        "protein": 5.7,
+        "fat": 8.9,
+        "carbohydrates": 34.6
+      },
+      "manufacturer": {
+        "name": "Захарова и партнеры",
+        "country": "Россия",
+        "website": "https://turov.net",
+        "inn": "3222479331"
+      }
+    },
+    {
+      "product_id": "prd-1063",
+      "name": "Наткнуться Клубника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 210.74,
+      "total_price": 210.74,
+      "kbju": {
+        "calories": 292.0,
+        "protein": 19.2,
+        "fat": 2.1,
+        "carbohydrates": 49.8
+      },
+      "manufacturer": {
+        "name": "Назарова Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ao.biz",
+        "inn": "5547104410"
+      }
+    },
+    {
+      "product_id": "prd-1057",
+      "name": "Пасть Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 129.24,
+      "total_price": 516.96,
+      "kbju": {
+        "calories": 210.4,
+        "protein": 12.9,
+        "fat": 2.4,
+        "carbohydrates": 20.6
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев-Агафонов»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "2232671512"
+      }
+    }
+  ],
+  "total_amount": 948.77,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Белорецк",
+    "street": "пер. Просторный",
+    "house": "4",
+    "apartment": "33",
+    "postal_code": "918161"
+  },
+  "purchase_datetime": "2026-01-04T15:28:45.934760"
+}

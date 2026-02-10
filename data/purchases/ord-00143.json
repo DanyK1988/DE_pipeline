@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00143",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Серафим",
+    "last_name": "Комаров"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кашхатау",
+      "street": "алл. Угольная",
+      "house": "229",
+      "postal_code": "295928",
+      "coordinates": {
+        "latitude": -49.7627225,
+        "longitude": -158.561658
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1087",
+      "name": "Невыносимый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 286.89,
+      "total_price": 286.89,
+      "kbju": {
+        "calories": 77.2,
+        "protein": 14.2,
+        "fat": 12.9,
+        "carbohydrates": 26.6
+      },
+      "manufacturer": {
+        "name": "НПО «Киселев»",
+        "country": "Россия",
+        "website": "https://vlasov.info",
+        "inn": "5542422338"
+      }
+    }
+  ],
+  "total_amount": 286.89,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Зеленогорск (Ленин.)",
+    "street": "наб. Чехова",
+    "house": "395",
+    "apartment": "3",
+    "postal_code": "597759"
+  },
+  "purchase_datetime": "2026-02-05T15:28:45.939170"
+}

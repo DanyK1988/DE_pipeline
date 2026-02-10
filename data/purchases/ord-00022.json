@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00022",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Филарет",
+    "last_name": "Рябов"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на бул. Донской",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Борзя",
+      "street": "ш. Кубанское",
+      "house": "22",
+      "postal_code": "333791",
+      "coordinates": {
+        "latitude": 85.0822585,
+        "longitude": -43.999664
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1076",
+      "name": "Иной Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 48.25,
+      "total_price": 241.25,
+      "kbju": {
+        "calories": 215.2,
+        "protein": 4.9,
+        "fat": 8.7,
+        "carbohydrates": 33.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Суворов»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "4797725113"
+      }
+    },
+    {
+      "product_id": "prd-1089",
+      "name": "Основание Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 290.89,
+      "total_price": 1454.45,
+      "kbju": {
+        "calories": 75.8,
+        "protein": 1.7,
+        "fat": 11.5,
+        "carbohydrates": 3.7
+      },
+      "manufacturer": {
+        "name": "Мухина Лимитед",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "2169118382"
+      }
+    },
+    {
+      "product_id": "prd-1075",
+      "name": "Металл Яблоки",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 47.17,
+      "total_price": 235.85,
+      "kbju": {
+        "calories": 196.8,
+        "protein": 4.2,
+        "fat": 3.0,
+        "carbohydrates": 42.0
+      },
+      "manufacturer": {
+        "name": "ИП «Баранова, Носов и Никифоров»",
+        "country": "Россия",
+        "website": "https://ip.edu",
+        "inn": "8243854941"
+      }
+    }
+  ],
+  "total_amount": 1931.55,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кропоткин (Краснод.)",
+    "street": "наб. Станционная",
+    "house": "40",
+    "apartment": "28",
+    "postal_code": "682461"
+  },
+  "purchase_datetime": "2025-12-24T15:28:45.921320"
+}

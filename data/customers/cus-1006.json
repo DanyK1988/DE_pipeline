@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1006",
+  "first_name": "Юлиан",
+  "last_name": "Архипова",
+  "email": "faina04@example.net",
+  "phone": "+7 (832) 197-2890",
+  "birth_date": "2006-01-19",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.909056",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-402363BD0A",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Владивосток",
+    "street": "ул. Глинки",
+    "house": "7/8",
+    "postal_code": "887835",
+    "coordinates": {
+      "latitude": 52.7074515,
+      "longitude": 142.944017
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Владивосток",
+    "street": "алл. Ярославская",
+    "house": "439",
+    "apartment": "76",
+    "postal_code": "635085"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

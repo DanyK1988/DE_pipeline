@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00109",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Остап",
+    "last_name": "Калинин"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на алл. Восьмого Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Тикси",
+      "street": "бул. Учительский",
+      "house": "341",
+      "postal_code": "735192",
+      "coordinates": {
+        "latitude": 7.873372,
+        "longitude": 36.444736
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1047",
+      "name": "Роскошный Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 150.35,
+      "total_price": 451.05,
+      "kbju": {
+        "calories": 281.2,
+        "protein": 10.7,
+        "fat": 7.0,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "АО «Крюков, Смирнова и Стрелков»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "9338307424"
+      }
+    }
+  ],
+  "total_amount": 451.05,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "purchase_datetime": "2026-01-25T15:28:45.934529"
+}

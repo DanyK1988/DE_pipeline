@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00106",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Парфен",
+    "last_name": "Лебедева"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на алл. Восьмого Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Тикси",
+      "street": "бул. Учительский",
+      "house": "341",
+      "postal_code": "735192",
+      "coordinates": {
+        "latitude": 7.873372,
+        "longitude": 36.444736
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1068",
+      "name": "Засунуть Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 244.8,
+      "total_price": 979.2,
+      "kbju": {
+        "calories": 228.7,
+        "protein": 16.5,
+        "fat": 8.2,
+        "carbohydrates": 22.3
+      },
+      "manufacturer": {
+        "name": "РАО «Родионова»",
+        "country": "Россия",
+        "website": "https://ooo.ru",
+        "inn": "9757811398"
+      }
+    },
+    {
+      "product_id": "prd-1086",
+      "name": "Назначить Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 127.91,
+      "total_price": 639.55,
+      "kbju": {
+        "calories": 280.1,
+        "protein": 12.4,
+        "fat": 13.2,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "Лента",
+        "country": "Россия",
+        "website": "https://nekrasov.com",
+        "inn": "3391682964"
+      }
+    }
+  ],
+  "total_amount": 1618.75,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кинешма",
+    "street": "наб. Павлика Морозова",
+    "house": "904",
+    "apartment": "70",
+    "postal_code": "435969"
+  },
+  "purchase_datetime": "2026-01-22T15:28:45.934098"
+}

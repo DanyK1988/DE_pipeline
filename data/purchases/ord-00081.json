@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00081",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Прохор",
+    "last_name": "Александрова"
+  },
+  "store": {
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на ул. Тепличная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Томари",
+      "street": "пр. Декабристов",
+      "house": "60",
+      "postal_code": "643000",
+      "coordinates": {
+        "latitude": -71.2513415,
+        "longitude": -107.894506
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1026",
+      "name": "Более Фарш",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 52.6,
+      "total_price": 263.0,
+      "kbju": {
+        "calories": 212.1,
+        "protein": 4.2,
+        "fat": 10.0,
+        "carbohydrates": 14.7
+      },
+      "manufacturer": {
+        "name": "РАО «Логинов»",
+        "country": "Россия",
+        "website": "https://sergeeva.org",
+        "inn": "8836849837"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Слишком Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 142.88,
+      "total_price": 142.88,
+      "kbju": {
+        "calories": 249.6,
+        "protein": 7.4,
+        "fat": 11.5,
+        "carbohydrates": 21.3
+      },
+      "manufacturer": {
+        "name": "ИП «Потапов-Федотов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "7477151966"
+      }
+    },
+    {
+      "product_id": "prd-1064",
+      "name": "Табак Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 134.89,
+      "total_price": 539.56,
+      "kbju": {
+        "calories": 58.2,
+        "protein": 11.9,
+        "fat": 2.5,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ОАО «Гордеева Матвеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2108038479"
+      }
+    }
+  ],
+  "total_amount": 945.44,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "purchase_datetime": "2025-12-19T15:28:45.930205"
+}

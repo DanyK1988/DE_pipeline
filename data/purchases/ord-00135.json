@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00135",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Ярополк",
+    "last_name": "Кондратьев"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ш. Свободное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Кашхатау",
+      "street": "алл. Звездная",
+      "house": "4",
+      "postal_code": "852708",
+      "coordinates": {
+        "latitude": -6.894356,
+        "longitude": 26.825058
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1081",
+      "name": "Деньги Зелень",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 279.56,
+      "total_price": 1397.8,
+      "kbju": {
+        "calories": 56.1,
+        "protein": 11.1,
+        "fat": 12.4,
+        "carbohydrates": 9.6
+      },
+      "manufacturer": {
+        "name": "АНГК",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "9080450507"
+      }
+    }
+  ],
+  "total_amount": 1397.8,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Железногорск(Курск.)",
+    "street": "ул. Студенческая",
+    "house": "406",
+    "apartment": "46",
+    "postal_code": "704635"
+  },
+  "purchase_datetime": "2026-01-31T15:28:45.938187"
+}

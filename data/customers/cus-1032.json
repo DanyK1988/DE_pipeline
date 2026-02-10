@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1032",
+  "first_name": "Василий",
+  "last_name": "Максимова",
+  "email": "ziminagge@example.org",
+  "phone": "+7 (031) 150-82-51",
+  "birth_date": "1956-04-12",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.915844",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-93E462B584",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Магнитогорск",
+    "street": "наб. Кирова",
+    "house": "98",
+    "postal_code": "902867",
+    "coordinates": {
+      "latitude": -85.278158,
+      "longitude": -72.945029
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Магнитогорск",
+    "street": "алл. Раздольная",
+    "house": "50",
+    "apartment": "14",
+    "postal_code": "742215"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

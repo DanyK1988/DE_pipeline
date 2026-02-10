@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00046",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Филарет",
+    "last_name": "Рябов"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на алл. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Железногорск(Курск.)",
+      "street": "ул. Лунная",
+      "house": "29",
+      "postal_code": "776011",
+      "coordinates": {
+        "latitude": -45.2971245,
+        "longitude": -23.423238
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1044",
+      "name": "Предоставить Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 208.15,
+      "total_price": 624.45,
+      "kbju": {
+        "calories": 70.1,
+        "protein": 0.5,
+        "fat": 11.7,
+        "carbohydrates": 29.3
+      },
+      "manufacturer": {
+        "name": "Группа ЭПМ",
+        "country": "Россия",
+        "website": "https://singenta.biz",
+        "inn": "7855550574"
+      }
+    },
+    {
+      "product_id": "prd-1079",
+      "name": "Ягода Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 121.24,
+      "total_price": 242.48,
+      "kbju": {
+        "calories": 291.4,
+        "protein": 15.7,
+        "fat": 6.7,
+        "carbohydrates": 21.8
+      },
+      "manufacturer": {
+        "name": "ИП «Якушева»",
+        "country": "Россия",
+        "website": "https://rao.net",
+        "inn": "1349555045"
+      }
+    }
+  ],
+  "total_amount": 866.93,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кропоткин (Краснод.)",
+    "street": "наб. Станционная",
+    "house": "40",
+    "apartment": "28",
+    "postal_code": "682461"
+  },
+  "purchase_datetime": "2026-01-16T15:28:45.924924"
+}

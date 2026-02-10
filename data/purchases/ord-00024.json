@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00024",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Платон",
+    "last_name": "Стрелкова"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на алл. Восьмого Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Тикси",
+      "street": "бул. Учительский",
+      "house": "341",
+      "postal_code": "735192",
+      "coordinates": {
+        "latitude": 7.873372,
+        "longitude": 36.444736
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1024",
+      "name": "Отъезд Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 242.01,
+      "total_price": 484.02,
+      "kbju": {
+        "calories": 257.5,
+        "protein": 5.7,
+        "fat": 4.6,
+        "carbohydrates": 29.1
+      },
+      "manufacturer": {
+        "name": "Торговая сеть Красное и Белое",
+        "country": "Россия",
+        "website": "https://rm.net",
+        "inn": "0278641680"
+      }
+    }
+  ],
+  "total_amount": 484.02,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Рыльск",
+    "street": "пр. Слободской",
+    "house": "4",
+    "apartment": "96",
+    "postal_code": "829235"
+  },
+  "purchase_datetime": "2026-01-12T15:28:45.921641"
+}

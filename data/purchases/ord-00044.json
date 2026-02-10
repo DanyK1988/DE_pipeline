@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00044",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Лаврентий",
+    "last_name": "Миронов"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на бул. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Ногинск (Моск.)",
+      "street": "ул. Дорожная",
+      "house": "49",
+      "postal_code": "794588",
+      "coordinates": {
+        "latitude": 11.4594385,
+        "longitude": -29.371717
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1046",
+      "name": "О Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 228.45,
+      "total_price": 1142.25,
+      "kbju": {
+        "calories": 91.5,
+        "protein": 8.1,
+        "fat": 6.6,
+        "carbohydrates": 41.4
+      },
+      "manufacturer": {
+        "name": "АО «Белякова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "0136649404"
+      }
+    }
+  ],
+  "total_amount": 1142.25,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Новомосковск",
+    "street": "наб. Орловская",
+    "house": "1/7",
+    "apartment": "20",
+    "postal_code": "657265"
+  },
+  "purchase_datetime": "2025-11-26T15:28:45.924653"
+}

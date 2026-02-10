@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1023",
+  "first_name": "Гостомысл",
+  "last_name": "Петрова",
+  "email": "iljakuznetsov@example.org",
+  "phone": "8 (966) 478-2048",
+  "birth_date": "1973-10-20",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.914150",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-E855F41319",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Урюпинск",
+    "street": "бул. Ангарский",
+    "house": "5",
+    "postal_code": "897312",
+    "coordinates": {
+      "latitude": 5.2243225,
+      "longitude": 112.588665
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Урюпинск",
+    "street": "алл. Логовая",
+    "house": "85",
+    "apartment": "26",
+    "postal_code": "213873"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

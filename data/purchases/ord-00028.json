@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00028",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Бажен",
+    "last_name": "Носков"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на бул. Донской",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Борзя",
+      "street": "ш. Кубанское",
+      "house": "22",
+      "postal_code": "333791",
+      "coordinates": {
+        "latitude": 85.0822585,
+        "longitude": -43.999664
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1048",
+      "name": "Бригада Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 111.6,
+      "total_price": 223.2,
+      "kbju": {
+        "calories": 208.3,
+        "protein": 19.1,
+        "fat": 11.9,
+        "carbohydrates": 21.2
+      },
+      "manufacturer": {
+        "name": "ИП «Кошелев»",
+        "country": "Россия",
+        "website": "https://bobilev.edu",
+        "inn": "1045297341"
+      }
+    },
+    {
+      "product_id": "prd-1090",
+      "name": "Сверкающий Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 253.43,
+      "total_price": 253.43,
+      "kbju": {
+        "calories": 264.6,
+        "protein": 5.1,
+        "fat": 1.9,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "ИП «Стрелкова Жуков»",
+        "country": "Россия",
+        "website": "https://soboleva.biz",
+        "inn": "4250355916"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Доставать Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 170.31,
+      "total_price": 170.31,
+      "kbju": {
+        "calories": 130.9,
+        "protein": 19.3,
+        "fat": 9.7,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ООО «Хохлов-Макарова»",
+        "country": "Россия",
+        "website": "https://ooo.ru",
+        "inn": "7427366441"
+      }
+    }
+  ],
+  "total_amount": 646.94,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Сыктывкар",
+    "street": "пр. Поселковый",
+    "house": "5",
+    "apartment": "73",
+    "postal_code": "362597"
+  },
+  "purchase_datetime": "2025-12-28T15:28:45.922219"
+}

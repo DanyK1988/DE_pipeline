@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00092",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Иннокентий",
+    "last_name": "Некрасова"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на алл. Восьмого Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Тикси",
+      "street": "бул. Учительский",
+      "house": "341",
+      "postal_code": "735192",
+      "coordinates": {
+        "latitude": 7.873372,
+        "longitude": 36.444736
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Понятный Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 167.21,
+      "total_price": 334.42,
+      "kbju": {
+        "calories": 58.2,
+        "protein": 5.2,
+        "fat": 14.9,
+        "carbohydrates": 25.6
+      },
+      "manufacturer": {
+        "name": "Некрасова Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://otisifarm.edu",
+        "inn": "8554077119"
+      }
+    },
+    {
+      "product_id": "prd-1099",
+      "name": "Горький Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 33.06,
+      "total_price": 33.06,
+      "kbju": {
+        "calories": 117.3,
+        "protein": 2.9,
+        "fat": 14.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "ООО «Дорофеев Колесников»",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "6977327987"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Правление Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 137.44,
+      "total_price": 412.32,
+      "kbju": {
+        "calories": 100.5,
+        "protein": 10.8,
+        "fat": 9.2,
+        "carbohydrates": 45.0
+      },
+      "manufacturer": {
+        "name": "Якобс Дау Эгбертс Рус (Jacobs Douwe Egberts)",
+        "country": "Россия",
+        "website": "https://oao.com",
+        "inn": "4897037569"
+      }
+    }
+  ],
+  "total_amount": 779.8,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Тутончаны",
+    "street": "ш. Заводское",
+    "house": "873",
+    "apartment": "18",
+    "postal_code": "277463"
+  },
+  "purchase_datetime": "2025-12-21T15:28:45.932059"
+}

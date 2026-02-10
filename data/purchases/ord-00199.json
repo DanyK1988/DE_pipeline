@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00199",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Чеслав",
+    "last_name": "Брагина"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Блюхера",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Новомосковск",
+      "street": "пер. Бульварный",
+      "house": "44",
+      "postal_code": "940616",
+      "coordinates": {
+        "latitude": -88.4217205,
+        "longitude": -142.115897
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1057",
+      "name": "Пасть Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 129.24,
+      "total_price": 387.72,
+      "kbju": {
+        "calories": 210.4,
+        "protein": 12.9,
+        "fat": 2.4,
+        "carbohydrates": 20.6
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев-Агафонов»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "2232671512"
+      }
+    }
+  ],
+  "total_amount": 387.72,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "наб. Локомотивная",
+    "house": "88",
+    "apartment": "65",
+    "postal_code": "920636"
+  },
+  "purchase_datetime": "2025-12-08T15:28:45.946942"
+}

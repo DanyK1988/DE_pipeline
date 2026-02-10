@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00189",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Харитон",
+    "last_name": "Вишняков"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Блюхера",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Новомосковск",
+      "street": "пер. Бульварный",
+      "house": "44",
+      "postal_code": "940616",
+      "coordinates": {
+        "latitude": -88.4217205,
+        "longitude": -142.115897
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1084",
+      "name": "Потянуться Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 263.6,
+      "total_price": 527.2,
+      "kbju": {
+        "calories": 261.7,
+        "protein": 12.5,
+        "fat": 5.4,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Андреев Никонов»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3305240470"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Изображать Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 171.6,
+      "total_price": 858.0,
+      "kbju": {
+        "calories": 65.5,
+        "protein": 7.6,
+        "fat": 6.6,
+        "carbohydrates": 37.1
+      },
+      "manufacturer": {
+        "name": "ЗАО «Петухов, Мишина и Молчанов»",
+        "country": "Россия",
+        "website": "https://ao.com",
+        "inn": "0103696611"
+      }
+    }
+  ],
+  "total_amount": 1385.2,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Северобайкальск",
+    "street": "бул. Алтайский",
+    "house": "11",
+    "apartment": "10",
+    "postal_code": "810111"
+  },
+  "purchase_datetime": "2025-11-14T15:28:45.945670"
+}

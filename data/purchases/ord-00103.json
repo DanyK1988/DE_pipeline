@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00103",
+  "customer": {
+    "customer_id": "cus-1011",
+    "first_name": "Милий",
+    "last_name": "Фролов"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на ул. Литейная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Кабанск",
+      "street": "пер. Черемушки",
+      "house": "45",
+      "postal_code": "459809",
+      "coordinates": {
+        "latitude": 77.613574,
+        "longitude": 3.498355
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Слишком Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 142.88,
+      "total_price": 142.88,
+      "kbju": {
+        "calories": 249.6,
+        "protein": 7.4,
+        "fat": 11.5,
+        "carbohydrates": 21.3
+      },
+      "manufacturer": {
+        "name": "ИП «Потапов-Федотов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "7477151966"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Исследование Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 203.19,
+      "total_price": 1015.95,
+      "kbju": {
+        "calories": 266.8,
+        "protein": 12.4,
+        "fat": 12.8,
+        "carbohydrates": 8.3
+      },
+      "manufacturer": {
+        "name": "ЗАО «Дьячков Панфилова»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "3204453707"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Понятный Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 167.21,
+      "total_price": 836.05,
+      "kbju": {
+        "calories": 58.2,
+        "protein": 5.2,
+        "fat": 14.9,
+        "carbohydrates": 25.6
+      },
+      "manufacturer": {
+        "name": "Некрасова Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://otisifarm.edu",
+        "inn": "8554077119"
+      }
+    }
+  ],
+  "total_amount": 1994.88,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Ногинск (Моск.)",
+    "street": "бул. Пролетарский",
+    "house": "3",
+    "apartment": "68",
+    "postal_code": "927609"
+  },
+  "purchase_datetime": "2025-11-26T15:28:45.933583"
+}

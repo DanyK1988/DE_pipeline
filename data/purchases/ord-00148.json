@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00148",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Ярополк",
+    "last_name": "Кондратьев"
+  },
+  "store": {
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на ш. Аэродромное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Магнитогорск",
+      "street": "наб. Кирова",
+      "house": "98",
+      "postal_code": "902867",
+      "coordinates": {
+        "latitude": -85.278158,
+        "longitude": -72.945029
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1087",
+      "name": "Невыносимый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 286.89,
+      "total_price": 860.67,
+      "kbju": {
+        "calories": 77.2,
+        "protein": 14.2,
+        "fat": 12.9,
+        "carbohydrates": 26.6
+      },
+      "manufacturer": {
+        "name": "НПО «Киселев»",
+        "country": "Россия",
+        "website": "https://vlasov.info",
+        "inn": "5542422338"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Вскакивать Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 260.02,
+      "total_price": 1040.08,
+      "kbju": {
+        "calories": 86.6,
+        "protein": 11.7,
+        "fat": 11.7,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "ОАО «Захарова-Гущин»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "5364875189"
+      }
+    }
+  ],
+  "total_amount": 1900.75,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Железногорск(Курск.)",
+    "street": "ул. Студенческая",
+    "house": "406",
+    "apartment": "46",
+    "postal_code": "704635"
+  },
+  "purchase_datetime": "2026-02-09T15:28:45.939961"
+}

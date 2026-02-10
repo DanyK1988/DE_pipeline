@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00009",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Владислав",
+    "last_name": "Селиверстов"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на наб. Гагарина",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Галич",
+      "street": "наб. Восточная",
+      "house": "5",
+      "postal_code": "916333",
+      "coordinates": {
+        "latitude": 52.9522425,
+        "longitude": -78.716138
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1041",
+      "name": "Выгнать Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 190.04,
+      "total_price": 190.04,
+      "kbju": {
+        "calories": 219.2,
+        "protein": 9.7,
+        "fat": 14.3,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кузьмин и партнеры",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "6374231316"
+      }
+    },
+    {
+      "product_id": "prd-1046",
+      "name": "О Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 228.45,
+      "total_price": 456.9,
+      "kbju": {
+        "calories": 91.5,
+        "protein": 8.1,
+        "fat": 6.6,
+        "carbohydrates": 41.4
+      },
+      "manufacturer": {
+        "name": "АО «Белякова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "0136649404"
+      }
+    }
+  ],
+  "total_amount": 646.94,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Вендинга",
+    "street": "ш. Путейское",
+    "house": "2",
+    "apartment": "27",
+    "postal_code": "347194"
+  },
+  "purchase_datetime": "2025-12-28T15:28:45.919341"
+}

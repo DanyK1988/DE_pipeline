@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00164",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Касьян",
+    "last_name": "Белова"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Понятный Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 167.21,
+      "total_price": 501.63,
+      "kbju": {
+        "calories": 58.2,
+        "protein": 5.2,
+        "fat": 14.9,
+        "carbohydrates": 25.6
+      },
+      "manufacturer": {
+        "name": "Некрасова Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://otisifarm.edu",
+        "inn": "8554077119"
+      }
+    },
+    {
+      "product_id": "prd-1086",
+      "name": "Назначить Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 127.91,
+      "total_price": 127.91,
+      "kbju": {
+        "calories": 280.1,
+        "protein": 12.4,
+        "fat": 13.2,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "Лента",
+        "country": "Россия",
+        "website": "https://nekrasov.com",
+        "inn": "3391682964"
+      }
+    }
+  ],
+  "total_amount": 629.54,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Октябрьский (Башк.)",
+    "street": "ул. Фрунзе",
+    "house": "7",
+    "apartment": "32",
+    "postal_code": "749129"
+  },
+  "purchase_datetime": "2025-12-24T15:28:45.942013"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00050",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Аверьян",
+    "last_name": "Богданова"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на пер. Рябиновый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Верхний Тагил",
+      "street": "пр. Калужский",
+      "house": "46",
+      "postal_code": "604165",
+      "coordinates": {
+        "latitude": -12.5059915,
+        "longitude": 71.836502
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1063",
+      "name": "Наткнуться Клубника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 210.74,
+      "total_price": 421.48,
+      "kbju": {
+        "calories": 292.0,
+        "protein": 19.2,
+        "fat": 2.1,
+        "carbohydrates": 49.8
+      },
+      "manufacturer": {
+        "name": "Назарова Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ao.biz",
+        "inn": "5547104410"
+      }
+    },
+    {
+      "product_id": "prd-1097",
+      "name": "Скрытый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 99.51,
+      "total_price": 497.55,
+      "kbju": {
+        "calories": 69.0,
+        "protein": 18.1,
+        "fat": 1.2,
+        "carbohydrates": 41.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Нестерова»",
+        "country": "Россия",
+        "website": "https://haritonova.org",
+        "inn": "1526904182"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Покинуть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 75.98,
+      "total_price": 303.92,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 11.3,
+        "fat": 4.1,
+        "carbohydrates": 18.3
+      },
+      "manufacturer": {
+        "name": "Борисов Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "5077073814"
+      }
+    }
+  ],
+  "total_amount": 1222.95,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Кашхатау",
+    "street": "бул. Леонова",
+    "house": "1",
+    "apartment": "11",
+    "postal_code": "698167"
+  },
+  "purchase_datetime": "2026-01-18T15:28:45.925521"
+}

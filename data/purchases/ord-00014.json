@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00014",
+  "customer": {
+    "customer_id": "cus-1005",
+    "first_name": "Орест",
+    "last_name": "Трофимов"
+  },
+  "store": {
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на пер. Рябиновый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Верхний Тагил",
+      "street": "пр. Калужский",
+      "house": "46",
+      "postal_code": "604165",
+      "coordinates": {
+        "latitude": -12.5059915,
+        "longitude": 71.836502
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1049",
+      "name": "Беспомощный Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 130.2,
+      "total_price": 651.0,
+      "kbju": {
+        "calories": 81.5,
+        "protein": 15.8,
+        "fat": 13.3,
+        "carbohydrates": 42.5
+      },
+      "manufacturer": {
+        "name": "ИП «Новикова Кудрявцева»",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8401581875"
+      }
+    },
+    {
+      "product_id": "prd-1056",
+      "name": "Спасть Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 116.84,
+      "total_price": 116.84,
+      "kbju": {
+        "calories": 269.3,
+        "protein": 12.8,
+        "fat": 1.7,
+        "carbohydrates": 38.2
+      },
+      "manufacturer": {
+        "name": "РАО «Веселов, Баранов и Устинов»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "2869539465"
+      }
+    }
+  ],
+  "total_amount": 767.84,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Томари",
+    "street": "алл. Клубная",
+    "house": "761",
+    "apartment": "35",
+    "postal_code": "063616"
+  },
+  "purchase_datetime": "2025-12-04T15:28:45.920202"
+}

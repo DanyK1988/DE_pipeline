@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00167",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Фадей",
+    "last_name": "Щукина"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на бул. Краснодарский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Старый Оскол",
+      "street": "алл. Песчаная",
+      "house": "421",
+      "postal_code": "179761",
+      "coordinates": {
+        "latitude": -32.7424965,
+        "longitude": -18.150891
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1090",
+      "name": "Сверкающий Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 253.43,
+      "total_price": 506.86,
+      "kbju": {
+        "calories": 264.6,
+        "protein": 5.1,
+        "fat": 1.9,
+        "carbohydrates": 46.9
+      },
+      "manufacturer": {
+        "name": "ИП «Стрелкова Жуков»",
+        "country": "Россия",
+        "website": "https://soboleva.biz",
+        "inn": "4250355916"
+      }
+    },
+    {
+      "product_id": "prd-1077",
+      "name": "Уточнить Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 170.46,
+      "total_price": 511.38,
+      "kbju": {
+        "calories": 128.6,
+        "protein": 15.6,
+        "fat": 14.7,
+        "carbohydrates": 49.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Белоусова-Казакова»",
+        "country": "Россия",
+        "website": "https://gerasimov.org",
+        "inn": "8914272504"
+      }
+    }
+  ],
+  "total_amount": 1018.24,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Новомосковск",
+    "street": "пер. Чехова",
+    "house": "88",
+    "apartment": "2",
+    "postal_code": "157594"
+  },
+  "purchase_datetime": "2025-11-17T15:28:45.942418"
+}

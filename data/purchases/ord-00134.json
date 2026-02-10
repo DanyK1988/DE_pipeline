@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00134",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Лаврентий",
+    "last_name": "Миронов"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на пр. Прудовой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Выборг",
+      "street": "ш. Молодежное",
+      "house": "51",
+      "postal_code": "924675",
+      "coordinates": {
+        "latitude": 25.106245,
+        "longitude": -25.643673
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1045",
+      "name": "Товар Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 123.6,
+      "total_price": 494.4,
+      "kbju": {
+        "calories": 89.7,
+        "protein": 19.6,
+        "fat": 7.9,
+        "carbohydrates": 14.2
+      },
+      "manufacturer": {
+        "name": "ИП «Анисимова-Третьякова»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "8604334910"
+      }
+    },
+    {
+      "product_id": "prd-1095",
+      "name": "Более Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 241.75,
+      "total_price": 1208.75,
+      "kbju": {
+        "calories": 178.5,
+        "protein": 12.6,
+        "fat": 10.2,
+        "carbohydrates": 26.4
+      },
+      "manufacturer": {
+        "name": "АО «Цветков-Кузьмина»",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "9127286730"
+      }
+    },
+    {
+      "product_id": "prd-1052",
+      "name": "Нервно Молоко",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 72.1,
+      "total_price": 144.2,
+      "kbju": {
+        "calories": 225.1,
+        "protein": 14.3,
+        "fat": 13.7,
+        "carbohydrates": 9.0
+      },
+      "manufacturer": {
+        "name": "РАО «Сидоров Захарова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "8653262168"
+      }
+    }
+  ],
+  "total_amount": 1847.35,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Новомосковск",
+    "street": "наб. Орловская",
+    "house": "1/7",
+    "apartment": "20",
+    "postal_code": "657265"
+  },
+  "purchase_datetime": "2025-12-02T15:28:45.938044"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00198",
+  "customer": {
+    "customer_id": "cus-1023",
+    "first_name": "Гостомысл",
+    "last_name": "Петрова"
+  },
+  "store": {
+    "store_id": "store-018",
+    "store_name": "Большая Пикча — Магазин на пр. Демьяна Бедного",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Воркута",
+      "street": "наб. Детская",
+      "house": "9",
+      "postal_code": "462899",
+      "coordinates": {
+        "latitude": 25.428573,
+        "longitude": -41.264291
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1087",
+      "name": "Невыносимый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 286.89,
+      "total_price": 286.89,
+      "kbju": {
+        "calories": 77.2,
+        "protein": 14.2,
+        "fat": 12.9,
+        "carbohydrates": 26.6
+      },
+      "manufacturer": {
+        "name": "НПО «Киселев»",
+        "country": "Россия",
+        "website": "https://vlasov.info",
+        "inn": "5542422338"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Задрать Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 218.0,
+      "total_price": 1090.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 2.0,
+        "fat": 3.9,
+        "carbohydrates": 34.9
+      },
+      "manufacturer": {
+        "name": "ИП «Александрова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "3480513861"
+      }
+    },
+    {
+      "product_id": "prd-1041",
+      "name": "Выгнать Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 190.04,
+      "total_price": 760.16,
+      "kbju": {
+        "calories": 219.2,
+        "protein": 9.7,
+        "fat": 14.3,
+        "carbohydrates": 18.0
+      },
+      "manufacturer": {
+        "name": "Кузьмин и партнеры",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "6374231316"
+      }
+    }
+  ],
+  "total_amount": 2137.05,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Урюпинск",
+    "street": "алл. Логовая",
+    "house": "85",
+    "apartment": "26",
+    "postal_code": "213873"
+  },
+  "purchase_datetime": "2025-11-17T15:28:45.946786"
+}

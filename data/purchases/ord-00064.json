@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00064",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Чеслав",
+    "last_name": "Брагина"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на бул. Донской",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Борзя",
+      "street": "ш. Кубанское",
+      "house": "22",
+      "postal_code": "333791",
+      "coordinates": {
+        "latitude": 85.0822585,
+        "longitude": -43.999664
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1070",
+      "name": "Песенка Яблоки",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 99.58,
+      "total_price": 199.16,
+      "kbju": {
+        "calories": 254.2,
+        "protein": 2.0,
+        "fat": 4.2,
+        "carbohydrates": 46.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Сафонов-Родионов»",
+        "country": "Россия",
+        "website": "https://oao.org",
+        "inn": "8087698276"
+      }
+    }
+  ],
+  "total_amount": 199.16,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "наб. Локомотивная",
+    "house": "88",
+    "apartment": "65",
+    "postal_code": "920636"
+  },
+  "purchase_datetime": "2025-12-13T15:28:45.927619"
+}

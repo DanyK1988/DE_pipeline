@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00079",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Василий",
+    "last_name": "Максимова"
+  },
+  "store": {
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на ул. Торговая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Жуковский",
+      "street": "ш. Димитрова",
+      "house": "60",
+      "postal_code": "504318",
+      "coordinates": {
+        "latitude": -37.8361535,
+        "longitude": -4.744083
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1054",
+      "name": "Да Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 72.03,
+      "total_price": 144.06,
+      "kbju": {
+        "calories": 218.1,
+        "protein": 2.6,
+        "fat": 10.0,
+        "carbohydrates": 36.4
+      },
+      "manufacturer": {
+        "name": "АО «Гаврилова Федотова»",
+        "country": "Россия",
+        "website": "https://rusenergosbit.org",
+        "inn": "9787281286"
+      }
+    }
+  ],
+  "total_amount": 144.06,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Магнитогорск",
+    "street": "алл. Раздольная",
+    "house": "50",
+    "apartment": "14",
+    "postal_code": "742215"
+  },
+  "purchase_datetime": "2026-02-07T15:28:45.929924"
+}

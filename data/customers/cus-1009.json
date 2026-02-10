@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1009",
+  "first_name": "Вениамин",
+  "last_name": "Шашков",
+  "email": "gerasim_08@example.com",
+  "phone": "83669576755",
+  "birth_date": "2001-09-02",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.909727",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-350C5646AB",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Кашхатау",
+    "street": "алл. Угольная",
+    "house": "229",
+    "postal_code": "295928",
+    "coordinates": {
+      "latitude": -49.7627225,
+      "longitude": -158.561658
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кашхатау",
+    "street": "пр. Николаева",
+    "house": "8",
+    "apartment": "88",
+    "postal_code": "113981"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

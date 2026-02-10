@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00128",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Фока",
+    "last_name": "Власова"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на пр. Леваневского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Охотск",
+      "street": "алл. Партизанская",
+      "house": "56",
+      "postal_code": "275931",
+      "coordinates": {
+        "latitude": -17.951078,
+        "longitude": 116.436511
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1087",
+      "name": "Невыносимый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 286.89,
+      "total_price": 860.67,
+      "kbju": {
+        "calories": 77.2,
+        "protein": 14.2,
+        "fat": 12.9,
+        "carbohydrates": 26.6
+      },
+      "manufacturer": {
+        "name": "НПО «Киселев»",
+        "country": "Россия",
+        "website": "https://vlasov.info",
+        "inn": "5542422338"
+      }
+    },
+    {
+      "product_id": "prd-1097",
+      "name": "Скрытый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 99.51,
+      "total_price": 398.04,
+      "kbju": {
+        "calories": 69.0,
+        "protein": 18.1,
+        "fat": 1.2,
+        "carbohydrates": 41.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Нестерова»",
+        "country": "Россия",
+        "website": "https://haritonova.org",
+        "inn": "1526904182"
+      }
+    }
+  ],
+  "total_amount": 1258.71,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Иваново",
+    "street": "бул. Карьерный",
+    "house": "8",
+    "apartment": "46",
+    "postal_code": "144629"
+  },
+  "purchase_datetime": "2025-11-25T15:28:45.937207"
+}

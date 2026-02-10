@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1004",
+  "first_name": "Валерьян",
+  "last_name": "Жукова",
+  "email": "adrianefimov@example.net",
+  "phone": "+7 111 447 95 57",
+  "birth_date": "1955-03-11",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.908063",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-C617B3BE92",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Терней",
+    "street": "алл. Микрорайон",
+    "house": "657",
+    "postal_code": "050961",
+    "coordinates": {
+      "latitude": 29.845876,
+      "longitude": -166.039678
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Терней",
+    "street": "пр. Слободской",
+    "house": "7/1",
+    "apartment": "11",
+    "postal_code": "705447"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

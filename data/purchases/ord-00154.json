@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00154",
+  "customer": {
+    "customer_id": "cus-1011",
+    "first_name": "Милий",
+    "last_name": "Фролов"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на пер. Юности",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Новомосковск",
+      "street": "ш. Омское",
+      "house": "348",
+      "postal_code": "224508",
+      "coordinates": {
+        "latitude": 86.0219265,
+        "longitude": 73.553193
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Слишком Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 255.69,
+      "total_price": 1278.45,
+      "kbju": {
+        "calories": 217.8,
+        "protein": 3.7,
+        "fat": 14.0,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "Катрен",
+        "country": "Россия",
+        "website": "https://lihacheva.ru",
+        "inn": "5888466491"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Исследование Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 203.19,
+      "total_price": 203.19,
+      "kbju": {
+        "calories": 266.8,
+        "protein": 12.4,
+        "fat": 12.8,
+        "carbohydrates": 8.3
+      },
+      "manufacturer": {
+        "name": "ЗАО «Дьячков Панфилова»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "3204453707"
+      }
+    }
+  ],
+  "total_amount": 1481.64,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Ногинск (Моск.)",
+    "street": "бул. Пролетарский",
+    "house": "3",
+    "apartment": "68",
+    "postal_code": "927609"
+  },
+  "purchase_datetime": "2026-01-25T15:28:45.940720"
+}

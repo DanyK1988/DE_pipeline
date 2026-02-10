@@ -1,0 +1,24 @@
+{
+  "id": "prd-1044",
+  "name": "Предоставить Сливки",
+  "group": "🥛 Молочные продукты",
+  "description": "Светило плясать научить.",
+  "kbju": {
+    "calories": 70.1,
+    "protein": 0.5,
+    "fat": 11.7,
+    "carbohydrates": 29.3
+  },
+  "price": 208.15,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 21,
+  "is_organic": false,
+  "barcode": "2411841903890",
+  "manufacturer": {
+    "name": "Группа ЭПМ",
+    "country": "Россия",
+    "website": "https://singenta.biz",
+    "inn": "7855550574"
+  }
+}

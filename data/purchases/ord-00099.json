@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00099",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Алина",
+    "last_name": "Денисов"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Краснопартизанская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Белорецк",
+      "street": "ул. Цветочная",
+      "house": "746",
+      "postal_code": "712719",
+      "coordinates": {
+        "latitude": 44.283196,
+        "longitude": 113.263151
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1099",
+      "name": "Горький Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 33.06,
+      "total_price": 132.24,
+      "kbju": {
+        "calories": 117.3,
+        "protein": 2.9,
+        "fat": 14.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "ООО «Дорофеев Колесников»",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "6977327987"
+      }
+    },
+    {
+      "product_id": "prd-1072",
+      "name": "Жестокий Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 169.27,
+      "total_price": 338.54,
+      "kbju": {
+        "calories": 243.9,
+        "protein": 5.8,
+        "fat": 8.0,
+        "carbohydrates": 23.1
+      },
+      "manufacturer": {
+        "name": "НПО «Шилова»",
+        "country": "Россия",
+        "website": "https://aviakompanija.edu",
+        "inn": "2023548142"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Покинуть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 75.98,
+      "total_price": 303.92,
+      "kbju": {
+        "calories": 60.7,
+        "protein": 11.3,
+        "fat": 4.1,
+        "carbohydrates": 18.3
+      },
+      "manufacturer": {
+        "name": "Борисов Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "5077073814"
+      }
+    }
+  ],
+  "total_amount": 774.7,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Поронайск",
+    "street": "наб. Октября",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "611917"
+  },
+  "purchase_datetime": "2026-01-23T15:28:45.933041"
+}

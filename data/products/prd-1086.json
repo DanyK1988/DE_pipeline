@@ -1,0 +1,24 @@
+{
+  "id": "prd-1086",
+  "name": "Назначить Морковь",
+  "group": "🥦 Овощи и зелень",
+  "description": "Тревога космос банк горький спичка.",
+  "kbju": {
+    "calories": 280.1,
+    "protein": 12.4,
+    "fat": 13.2,
+    "carbohydrates": 20.9
+  },
+  "price": 127.91,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 16,
+  "is_organic": true,
+  "barcode": "8617273905950",
+  "manufacturer": {
+    "name": "Лента",
+    "country": "Россия",
+    "website": "https://nekrasov.com",
+    "inn": "3391682964"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00010",
+  "customer": {
+    "customer_id": "cus-1014",
+    "first_name": "Игорь",
+    "last_name": "Князев"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на пер. Ольховый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Билибино",
+      "street": "ул. Лазо",
+      "house": "7",
+      "postal_code": "231073",
+      "coordinates": {
+        "latitude": -72.174732,
+        "longitude": -135.643972
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1027",
+      "name": "Слишком Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 255.69,
+      "total_price": 767.07,
+      "kbju": {
+        "calories": 217.8,
+        "protein": 3.7,
+        "fat": 14.0,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "Катрен",
+        "country": "Россия",
+        "website": "https://lihacheva.ru",
+        "inn": "5888466491"
+      }
+    },
+    {
+      "product_id": "prd-1022",
+      "name": "Некоторый Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 32.68,
+      "total_price": 130.72,
+      "kbju": {
+        "calories": 165.1,
+        "protein": 1.6,
+        "fat": 3.3,
+        "carbohydrates": 24.6
+      },
+      "manufacturer": {
+        "name": "Кулакова Лтд",
+        "country": "Россия",
+        "website": "https://sberbank.com",
+        "inn": "7801187408"
+      }
+    }
+  ],
+  "total_amount": 897.79,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Майкоп",
+    "street": "ш. Разина",
+    "house": "981",
+    "apartment": "12",
+    "postal_code": "107632"
+  },
+  "purchase_datetime": "2025-11-26T15:28:45.919485"
+}

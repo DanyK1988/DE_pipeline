@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00131",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Фирс",
+    "last_name": "Боброва"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Краснопартизанская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Белорецк",
+      "street": "ул. Цветочная",
+      "house": "746",
+      "postal_code": "712719",
+      "coordinates": {
+        "latitude": 44.283196,
+        "longitude": 113.263151
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Бетонный Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 56.29,
+      "total_price": 281.45,
+      "kbju": {
+        "calories": 51.4,
+        "protein": 16.3,
+        "fat": 5.1,
+        "carbohydrates": 20.6
+      },
+      "manufacturer": {
+        "name": "Свеза",
+        "country": "Россия",
+        "website": "https://ip.com",
+        "inn": "0122271063"
+      }
+    },
+    {
+      "product_id": "prd-1076",
+      "name": "Иной Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 48.25,
+      "total_price": 144.75,
+      "kbju": {
+        "calories": 215.2,
+        "protein": 4.9,
+        "fat": 8.7,
+        "carbohydrates": 33.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Суворов»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "4797725113"
+      }
+    },
+    {
+      "product_id": "prd-1027",
+      "name": "Слишком Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 255.69,
+      "total_price": 511.38,
+      "kbju": {
+        "calories": 217.8,
+        "protein": 3.7,
+        "fat": 14.0,
+        "carbohydrates": 3.4
+      },
+      "manufacturer": {
+        "name": "Катрен",
+        "country": "Россия",
+        "website": "https://lihacheva.ru",
+        "inn": "5888466491"
+      }
+    }
+  ],
+  "total_amount": 937.58,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Жуковский",
+    "street": "пр. Авиационный",
+    "house": "97",
+    "apartment": "88",
+    "postal_code": "153384"
+  },
+  "purchase_datetime": "2025-12-09T15:28:45.937624"
+}

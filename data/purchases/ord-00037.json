@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00037",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Юлиан",
+    "last_name": "Архипова"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на ул. Одесская",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Гудермес",
+      "street": "наб. Базарная",
+      "house": "197",
+      "postal_code": "617968",
+      "coordinates": {
+        "latitude": -15.447307,
+        "longitude": 54.331837
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Житель Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 135.98,
+      "total_price": 271.96,
+      "kbju": {
+        "calories": 84.1,
+        "protein": 3.9,
+        "fat": 0.2,
+        "carbohydrates": 1.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Селиверстов»",
+        "country": "Россия",
+        "website": "https://ilin.net",
+        "inn": "1224093182"
+      }
+    },
+    {
+      "product_id": "prd-1059",
+      "name": "Соответствие Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 136.77,
+      "total_price": 547.08,
+      "kbju": {
+        "calories": 109.6,
+        "protein": 7.2,
+        "fat": 9.9,
+        "carbohydrates": 3.6
+      },
+      "manufacturer": {
+        "name": "НПО «Вишнякова»",
+        "country": "Россия",
+        "website": "https://mms.biz",
+        "inn": "2169738679"
+      }
+    }
+  ],
+  "total_amount": 819.04,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Владивосток",
+    "street": "алл. Ярославская",
+    "house": "439",
+    "apartment": "76",
+    "postal_code": "635085"
+  },
+  "purchase_datetime": "2025-11-26T15:28:45.923724"
+}

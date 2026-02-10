@@ -1,0 +1,24 @@
+{
+  "id": "prd-1072",
+  "name": "Жестокий Черника",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Магазин мучительно промолчать металл.",
+  "kbju": {
+    "calories": 243.9,
+    "protein": 5.8,
+    "fat": 8.0,
+    "carbohydrates": 23.1
+  },
+  "price": 169.27,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 29,
+  "is_organic": false,
+  "barcode": "7693727906538",
+  "manufacturer": {
+    "name": "НПО «Шилова»",
+    "country": "Россия",
+    "website": "https://aviakompanija.edu",
+    "inn": "2023548142"
+  }
+}

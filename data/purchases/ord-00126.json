@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00126",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Владислав",
+    "last_name": "Селиверстов"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на ул. Рябиновая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Стрежевой",
+      "street": "пер. Социалистический",
+      "house": "65",
+      "postal_code": "749036",
+      "coordinates": {
+        "latitude": -55.4023775,
+        "longitude": -39.425849
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1062",
+      "name": "Выражение Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 55.41,
+      "total_price": 221.64,
+      "kbju": {
+        "calories": 70.7,
+        "protein": 15.0,
+        "fat": 3.6,
+        "carbohydrates": 34.0
+      },
+      "manufacturer": {
+        "name": "РАО «Евсеева Артемьев»",
+        "country": "Россия",
+        "website": "https://ustinov.biz",
+        "inn": "8429629724"
+      }
+    },
+    {
+      "product_id": "prd-1031",
+      "name": "Аж Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 186.25,
+      "total_price": 931.25,
+      "kbju": {
+        "calories": 232.8,
+        "protein": 19.3,
+        "fat": 6.9,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ЗАО «Голубев Кудряшова»",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "6801667621"
+      }
+    }
+  ],
+  "total_amount": 1152.89,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Вендинга",
+    "street": "ш. Путейское",
+    "house": "2",
+    "apartment": "27",
+    "postal_code": "347194"
+  },
+  "purchase_datetime": "2025-12-09T15:28:45.936943"
+}

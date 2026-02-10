@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00052",
+  "customer": {
+    "customer_id": "cus-1029",
+    "first_name": "Владислав",
+    "last_name": "Селиверстов"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на ш. Ушакова",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Терней",
+      "street": "алл. Микрорайон",
+      "house": "657",
+      "postal_code": "050961",
+      "coordinates": {
+        "latitude": 29.845876,
+        "longitude": -166.039678
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1043",
+      "name": "Термин Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 283.53,
+      "total_price": 1134.12,
+      "kbju": {
+        "calories": 265.5,
+        "protein": 16.3,
+        "fat": 9.8,
+        "carbohydrates": 15.8
+      },
+      "manufacturer": {
+        "name": "АО «Щукин Ширяев»",
+        "country": "Россия",
+        "website": "https://ashan.edu",
+        "inn": "6257498515"
+      }
+    }
+  ],
+  "total_amount": 1134.12,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Вендинга",
+    "street": "ш. Путейское",
+    "house": "2",
+    "apartment": "27",
+    "postal_code": "347194"
+  },
+  "purchase_datetime": "2026-01-09T15:28:45.925924"
+}

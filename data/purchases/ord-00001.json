@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00001",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Панкратий",
+    "last_name": "Симонова"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пр. Ульяновский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Поронайск",
+      "street": "ул. Кольцевая",
+      "house": "2/1",
+      "postal_code": "079000",
+      "coordinates": {
+        "latitude": -26.5854945,
+        "longitude": 165.895906
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1022",
+      "name": "Некоторый Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 32.68,
+      "total_price": 32.68,
+      "kbju": {
+        "calories": 165.1,
+        "protein": 1.6,
+        "fat": 3.3,
+        "carbohydrates": 24.6
+      },
+      "manufacturer": {
+        "name": "Кулакова Лтд",
+        "country": "Россия",
+        "website": "https://sberbank.com",
+        "inn": "7801187408"
+      }
+    },
+    {
+      "product_id": "prd-1070",
+      "name": "Песенка Яблоки",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 99.58,
+      "total_price": 298.74,
+      "kbju": {
+        "calories": 254.2,
+        "protein": 2.0,
+        "fat": 4.2,
+        "carbohydrates": 46.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Сафонов-Родионов»",
+        "country": "Россия",
+        "website": "https://oao.org",
+        "inn": "8087698276"
+      }
+    }
+  ],
+  "total_amount": 331.42,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Билибино",
+    "street": "ш. Производственное",
+    "house": "57",
+    "apartment": "38",
+    "postal_code": "681746"
+  },
+  "purchase_datetime": "2026-01-21T15:28:45.918072"
+}

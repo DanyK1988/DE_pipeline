@@ -1,0 +1,24 @@
+{
+  "id": "prd-1089",
+  "name": "Основание Картошка",
+  "group": "🥦 Овощи и зелень",
+  "description": "Витрина заработать рота.",
+  "kbju": {
+    "calories": 75.8,
+    "protein": 1.7,
+    "fat": 11.5,
+    "carbohydrates": 3.7
+  },
+  "price": 290.89,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 28,
+  "is_organic": false,
+  "barcode": "8960427402172",
+  "manufacturer": {
+    "name": "Мухина Лимитед",
+    "country": "Россия",
+    "website": "https://npo.edu",
+    "inn": "2169118382"
+  }
+}

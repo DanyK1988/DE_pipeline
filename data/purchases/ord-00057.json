@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00057",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Фирс",
+    "last_name": "Боброва"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пр. Ульяновский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Поронайск",
+      "street": "ул. Кольцевая",
+      "house": "2/1",
+      "postal_code": "079000",
+      "coordinates": {
+        "latitude": -26.5854945,
+        "longitude": 165.895906
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1020",
+      "name": "Соответствие Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 241.53,
+      "total_price": 241.53,
+      "kbju": {
+        "calories": 141.1,
+        "protein": 18.5,
+        "fat": 4.7,
+        "carbohydrates": 30.9
+      },
+      "manufacturer": {
+        "name": "ЗАО «Мамонтов Крюкова»",
+        "country": "Россия",
+        "website": "https://npo.info",
+        "inn": "2154017845"
+      }
+    }
+  ],
+  "total_amount": 241.53,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Жуковский",
+    "street": "пр. Авиационный",
+    "house": "97",
+    "apartment": "88",
+    "postal_code": "153384"
+  },
+  "purchase_datetime": "2026-01-29T15:28:45.926602"
+}

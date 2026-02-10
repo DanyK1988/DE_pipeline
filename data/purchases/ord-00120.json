@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00120",
+  "customer": {
+    "customer_id": "cus-1008",
+    "first_name": "Селиван",
+    "last_name": "Голубева"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Средняя",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Сыктывкар",
+      "street": "бул. Слободской",
+      "house": "20",
+      "postal_code": "557838",
+      "coordinates": {
+        "latitude": -31.817479,
+        "longitude": 128.72487
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1031",
+      "name": "Аж Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 186.25,
+      "total_price": 186.25,
+      "kbju": {
+        "calories": 232.8,
+        "protein": 19.3,
+        "fat": 6.9,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ЗАО «Голубев Кудряшова»",
+        "country": "Россия",
+        "website": "https://npo.edu",
+        "inn": "6801667621"
+      }
+    },
+    {
+      "product_id": "prd-1054",
+      "name": "Да Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 72.03,
+      "total_price": 144.06,
+      "kbju": {
+        "calories": 218.1,
+        "protein": 2.6,
+        "fat": 10.0,
+        "carbohydrates": 36.4
+      },
+      "manufacturer": {
+        "name": "АО «Гаврилова Федотова»",
+        "country": "Россия",
+        "website": "https://rusenergosbit.org",
+        "inn": "9787281286"
+      }
+    }
+  ],
+  "total_amount": 330.31,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Охотск",
+    "street": "пр. Майский",
+    "house": "257",
+    "apartment": "92",
+    "postal_code": "652901"
+  },
+  "purchase_datetime": "2025-12-15T15:28:45.936129"
+}

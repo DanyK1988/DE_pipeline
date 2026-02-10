@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00082",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Остап",
+    "last_name": "Калинин"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на ул. Дзержинского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Зеленогорск (Ленин.)",
+      "street": "бул. Рыбацкий",
+      "house": "6/3",
+      "postal_code": "686419",
+      "coordinates": {
+        "latitude": -54.074961,
+        "longitude": 83.758126
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1099",
+      "name": "Горький Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 33.06,
+      "total_price": 66.12,
+      "kbju": {
+        "calories": 117.3,
+        "protein": 2.9,
+        "fat": 14.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "ООО «Дорофеев Колесников»",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "6977327987"
+      }
+    },
+    {
+      "product_id": "prd-1086",
+      "name": "Назначить Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 127.91,
+      "total_price": 511.64,
+      "kbju": {
+        "calories": 280.1,
+        "protein": 12.4,
+        "fat": 13.2,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "Лента",
+        "country": "Россия",
+        "website": "https://nekrasov.com",
+        "inn": "3391682964"
+      }
+    },
+    {
+      "product_id": "prd-1067",
+      "name": "Мера Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 43.73,
+      "total_price": 43.73,
+      "kbju": {
+        "calories": 192.4,
+        "protein": 19.9,
+        "fat": 4.7,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Дементьева Павлова»",
+        "country": "Россия",
+        "website": "https://sisko.com",
+        "inn": "0571050213"
+      }
+    }
+  ],
+  "total_amount": 621.49,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "purchase_datetime": "2026-01-20T15:28:45.930377"
+}

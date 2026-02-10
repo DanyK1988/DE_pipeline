@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00195",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Юлиан",
+    "last_name": "Архипова"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на ул. Рябиновая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Стрежевой",
+      "street": "пер. Социалистический",
+      "house": "65",
+      "postal_code": "749036",
+      "coordinates": {
+        "latitude": -55.4023775,
+        "longitude": -39.425849
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1046",
+      "name": "О Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 228.45,
+      "total_price": 456.9,
+      "kbju": {
+        "calories": 91.5,
+        "protein": 8.1,
+        "fat": 6.6,
+        "carbohydrates": 41.4
+      },
+      "manufacturer": {
+        "name": "АО «Белякова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "0136649404"
+      }
+    }
+  ],
+  "total_amount": 456.9,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Владивосток",
+    "street": "алл. Ярославская",
+    "house": "439",
+    "apartment": "76",
+    "postal_code": "635085"
+  },
+  "purchase_datetime": "2025-12-07T15:28:45.946406"
+}

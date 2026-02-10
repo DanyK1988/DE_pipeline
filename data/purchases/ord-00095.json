@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00095",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Кузьма",
+    "last_name": "Белоусов"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на пер. Сахалинский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Камышин",
+      "street": "наб. Енисейская",
+      "house": "3/1",
+      "postal_code": "414351",
+      "coordinates": {
+        "latitude": 81.787214,
+        "longitude": 71.130468
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Каюта Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 153.21,
+      "total_price": 459.63,
+      "kbju": {
+        "calories": 79.9,
+        "protein": 19.8,
+        "fat": 4.2,
+        "carbohydrates": 7.1
+      },
+      "manufacturer": {
+        "name": "ООО «Муравьева»",
+        "country": "Россия",
+        "website": "https://rusakova.ru",
+        "inn": "7810560703"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Висеть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 167.36,
+      "total_price": 167.36,
+      "kbju": {
+        "calories": 62.4,
+        "protein": 9.2,
+        "fat": 10.3,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Леруа Мерлен Восток (Leroi Merlin)",
+        "country": "Россия",
+        "website": "https://tretjakova.biz",
+        "inn": "0162540356"
+      }
+    },
+    {
+      "product_id": "prd-1088",
+      "name": "Крутой Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 117.01,
+      "total_price": 117.01,
+      "kbju": {
+        "calories": 173.9,
+        "protein": 10.5,
+        "fat": 0.8,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "ГК Автодилерство",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "4226193317"
+      }
+    }
+  ],
+  "total_amount": 744.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Стрежевой",
+    "street": "пр. Заводской",
+    "house": "53",
+    "apartment": "44",
+    "postal_code": "138040"
+  },
+  "purchase_datetime": "2026-01-19T15:28:45.932520"
+}

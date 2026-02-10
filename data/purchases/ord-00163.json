@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00163",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Чеслав",
+    "last_name": "Брагина"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1086",
+      "name": "Назначить Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 127.91,
+      "total_price": 639.55,
+      "kbju": {
+        "calories": 280.1,
+        "protein": 12.4,
+        "fat": 13.2,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "Лента",
+        "country": "Россия",
+        "website": "https://nekrasov.com",
+        "inn": "3391682964"
+      }
+    },
+    {
+      "product_id": "prd-1037",
+      "name": "Доставать Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 170.31,
+      "total_price": 340.62,
+      "kbju": {
+        "calories": 130.9,
+        "protein": 19.3,
+        "fat": 9.7,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ООО «Хохлов-Макарова»",
+        "country": "Россия",
+        "website": "https://ooo.ru",
+        "inn": "7427366441"
+      }
+    }
+  ],
+  "total_amount": 980.17,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "наб. Локомотивная",
+    "house": "88",
+    "apartment": "65",
+    "postal_code": "920636"
+  },
+  "purchase_datetime": "2026-01-29T15:28:45.941881"
+}

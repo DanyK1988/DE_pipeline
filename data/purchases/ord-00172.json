@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00172",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Мстислав",
+    "last_name": "Селезнева"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ш. Свободное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Кашхатау",
+      "street": "алл. Звездная",
+      "house": "4",
+      "postal_code": "852708",
+      "coordinates": {
+        "latitude": -6.894356,
+        "longitude": 26.825058
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1054",
+      "name": "Да Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 72.03,
+      "total_price": 288.12,
+      "kbju": {
+        "calories": 218.1,
+        "protein": 2.6,
+        "fat": 10.0,
+        "carbohydrates": 36.4
+      },
+      "manufacturer": {
+        "name": "АО «Гаврилова Федотова»",
+        "country": "Россия",
+        "website": "https://rusenergosbit.org",
+        "inn": "9787281286"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Картинка Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 32.85,
+      "total_price": 32.85,
+      "kbju": {
+        "calories": 69.7,
+        "protein": 7.4,
+        "fat": 9.3,
+        "carbohydrates": 2.2
+      },
+      "manufacturer": {
+        "name": "Колесников и партнеры",
+        "country": "Россия",
+        "website": "https://oao.info",
+        "inn": "2983542412"
+      }
+    }
+  ],
+  "total_amount": 320.97,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхний Тагил",
+    "street": "бул. Парковый",
+    "house": "83",
+    "apartment": "30",
+    "postal_code": "503046"
+  },
+  "purchase_datetime": "2025-11-24T15:28:45.943213"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1018",
+  "first_name": "Серафим",
+  "last_name": "Комаров",
+  "email": "moiserogov@example.com",
+  "phone": "+7 012 396 1793",
+  "birth_date": "1957-06-20",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.913276",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-143F615FBA",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Зеленогорск (Ленин.)",
+    "street": "бул. Рыбацкий",
+    "house": "6/3",
+    "postal_code": "686419",
+    "coordinates": {
+      "latitude": -54.074961,
+      "longitude": 83.758126
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Зеленогорск (Ленин.)",
+    "street": "наб. Чехова",
+    "house": "395",
+    "apartment": "3",
+    "postal_code": "597759"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

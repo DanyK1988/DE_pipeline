@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00146",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Павел",
+    "last_name": "Лихачев"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на бул. Спартака",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Вязьма",
+      "street": "ул. 9 Января",
+      "house": "78",
+      "postal_code": "967534",
+      "coordinates": {
+        "latitude": -6.2672165,
+        "longitude": -25.025989
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1056",
+      "name": "Спасть Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 116.84,
+      "total_price": 350.52,
+      "kbju": {
+        "calories": 269.3,
+        "protein": 12.8,
+        "fat": 1.7,
+        "carbohydrates": 38.2
+      },
+      "manufacturer": {
+        "name": "РАО «Веселов, Баранов и Устинов»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "2869539465"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Постоянный Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 163.67,
+      "total_price": 818.35,
+      "kbju": {
+        "calories": 113.5,
+        "protein": 6.7,
+        "fat": 5.8,
+        "carbohydrates": 44.9
+      },
+      "manufacturer": {
+        "name": "АХ Степь",
+        "country": "Россия",
+        "website": "https://kalashnikov.com",
+        "inn": "4610490547"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "name": "Житель Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 135.98,
+      "total_price": 543.92,
+      "kbju": {
+        "calories": 84.1,
+        "protein": 3.9,
+        "fat": 0.2,
+        "carbohydrates": 1.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Селиверстов»",
+        "country": "Россия",
+        "website": "https://ilin.net",
+        "inn": "1224093182"
+      }
+    }
+  ],
+  "total_amount": 1712.79,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Борзя",
+    "street": "ул. Кузнечная",
+    "house": "731",
+    "apartment": "60",
+    "postal_code": "551308"
+  },
+  "purchase_datetime": "2025-11-27T15:28:45.939549"
+}

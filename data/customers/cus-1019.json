@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1019",
+  "first_name": "Яков",
+  "last_name": "Журавлева",
+  "email": "lora_1976@example.net",
+  "phone": "+7 (277) 388-71-46",
+  "birth_date": "1958-06-04",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.913457",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-A071AD81CB",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Анива",
+    "street": "наб. Береговая",
+    "house": "394",
+    "postal_code": "482143",
+    "coordinates": {
+      "latitude": 68.744838,
+      "longitude": 141.288413
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Анива",
+    "street": "ш. Курортное",
+    "house": "53",
+    "apartment": "58",
+    "postal_code": "150135"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

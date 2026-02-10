@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1039",
+  "first_name": "Павел",
+  "last_name": "Лихачев",
+  "email": "kapitonshubin@example.net",
+  "phone": "8 985 425 3726",
+  "birth_date": "1997-12-02",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.917070",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-9B37291807",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Борзя",
+    "street": "ш. Кубанское",
+    "house": "22",
+    "postal_code": "333791",
+    "coordinates": {
+      "latitude": 85.0822585,
+      "longitude": -43.999664
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Борзя",
+    "street": "ул. Кузнечная",
+    "house": "731",
+    "apartment": "60",
+    "postal_code": "551308"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

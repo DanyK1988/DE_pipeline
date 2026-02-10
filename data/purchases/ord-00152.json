@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00152",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Прохор",
+    "last_name": "Александрова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Свободы",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Тутончаны",
+      "street": "пер. Алтайский",
+      "house": "11",
+      "postal_code": "599346",
+      "coordinates": {
+        "latitude": 32.173978,
+        "longitude": 1.69222
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1080",
+      "name": "Лететь Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 118.44,
+      "total_price": 592.2,
+      "kbju": {
+        "calories": 221.4,
+        "protein": 9.2,
+        "fat": 13.0,
+        "carbohydrates": 36.7
+      },
+      "manufacturer": {
+        "name": "РАО «Давыдова»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "4645301575"
+      }
+    },
+    {
+      "product_id": "prd-1082",
+      "name": "Недостаток Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 142.45,
+      "total_price": 284.9,
+      "kbju": {
+        "calories": 227.4,
+        "protein": 10.1,
+        "fat": 11.5,
+        "carbohydrates": 44.5
+      },
+      "manufacturer": {
+        "name": "Мосгортранс",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "8852581191"
+      }
+    },
+    {
+      "product_id": "prd-1095",
+      "name": "Более Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 241.75,
+      "total_price": 967.0,
+      "kbju": {
+        "calories": 178.5,
+        "protein": 12.6,
+        "fat": 10.2,
+        "carbohydrates": 26.4
+      },
+      "manufacturer": {
+        "name": "АО «Цветков-Кузьмина»",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "9127286730"
+      }
+    }
+  ],
+  "total_amount": 1844.1,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "purchase_datetime": "2026-01-14T15:28:45.940445"
+}

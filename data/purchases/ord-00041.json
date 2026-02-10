@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00041",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Остап",
+    "last_name": "Калинин"
+  },
+  "store": {
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на бул. Первомайский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Октябрьское (Хант.)",
+      "street": "бул. Загородный",
+      "house": "9",
+      "postal_code": "951710",
+      "coordinates": {
+        "latitude": -51.7656725,
+        "longitude": -19.023159
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1094",
+      "name": "Место Зелень",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 197.9,
+      "total_price": 989.5,
+      "kbju": {
+        "calories": 130.3,
+        "protein": 1.9,
+        "fat": 8.0,
+        "carbohydrates": 24.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Герасимова-Евдокимов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "5397390886"
+      }
+    }
+  ],
+  "total_amount": 989.5,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "purchase_datetime": "2026-01-29T15:28:45.924280"
+}

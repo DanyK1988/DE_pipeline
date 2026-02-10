@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00036",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Лаврентий",
+    "last_name": "Миронов"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на бул. Спартака",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Вязьма",
+      "street": "ул. 9 Января",
+      "house": "78",
+      "postal_code": "967534",
+      "coordinates": {
+        "latitude": -6.2672165,
+        "longitude": -25.025989
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1023",
+      "name": "Порт Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 177.42,
+      "total_price": 709.68,
+      "kbju": {
+        "calories": 85.1,
+        "protein": 16.6,
+        "fat": 13.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "РАО «Суворова Григорьева»",
+        "country": "Россия",
+        "website": "https://vo.org",
+        "inn": "1852957457"
+      }
+    }
+  ],
+  "total_amount": 709.68,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Новомосковск",
+    "street": "наб. Орловская",
+    "house": "1/7",
+    "apartment": "20",
+    "postal_code": "657265"
+  },
+  "purchase_datetime": "2026-01-04T15:28:45.923571"
+}

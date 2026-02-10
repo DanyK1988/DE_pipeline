@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00113",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Лаврентий",
+    "last_name": "Миронов"
+  },
+  "store": {
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на алл. Блюхера",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Новомосковск",
+      "street": "пер. Бульварный",
+      "house": "44",
+      "postal_code": "940616",
+      "coordinates": {
+        "latitude": -88.4217205,
+        "longitude": -142.115897
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1068",
+      "name": "Засунуть Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 244.8,
+      "total_price": 1224.0,
+      "kbju": {
+        "calories": 228.7,
+        "protein": 16.5,
+        "fat": 8.2,
+        "carbohydrates": 22.3
+      },
+      "manufacturer": {
+        "name": "РАО «Родионова»",
+        "country": "Россия",
+        "website": "https://ooo.ru",
+        "inn": "9757811398"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Механический Хлеб",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 115.93,
+      "total_price": 115.93,
+      "kbju": {
+        "calories": 115.8,
+        "protein": 11.3,
+        "fat": 4.9,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "Капустина Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://volkova.edu",
+        "inn": "4361762021"
+      }
+    }
+  ],
+  "total_amount": 1339.93,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Новомосковск",
+    "street": "наб. Орловская",
+    "house": "1/7",
+    "apartment": "20",
+    "postal_code": "657265"
+  },
+  "purchase_datetime": "2026-02-09T15:28:45.935110"
+}

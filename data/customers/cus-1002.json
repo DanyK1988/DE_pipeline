@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1002",
+  "first_name": "Евфросиния",
+  "last_name": "Пестов",
+  "email": "denis_14@example.com",
+  "phone": "+7 (007) 023-84-26",
+  "birth_date": "1989-09-17",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.906426",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-6A44191925",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Тикси",
+    "street": "бул. Учительский",
+    "house": "341",
+    "postal_code": "735192",
+    "coordinates": {
+      "latitude": 7.873372,
+      "longitude": 36.444736
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Тикси",
+    "street": "алл. Космонавтов",
+    "house": "4",
+    "apartment": "25",
+    "postal_code": "199247"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

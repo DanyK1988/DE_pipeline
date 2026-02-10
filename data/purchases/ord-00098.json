@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00098",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Остап",
+    "last_name": "Калинин"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пр. Ульяновский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Поронайск",
+      "street": "ул. Кольцевая",
+      "house": "2/1",
+      "postal_code": "079000",
+      "coordinates": {
+        "latitude": -26.5854945,
+        "longitude": 165.895906
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1023",
+      "name": "Порт Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 177.42,
+      "total_price": 887.1,
+      "kbju": {
+        "calories": 85.1,
+        "protein": 16.6,
+        "fat": 13.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "РАО «Суворова Григорьева»",
+        "country": "Россия",
+        "website": "https://vo.org",
+        "inn": "1852957457"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Коллектив Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 159.89,
+      "total_price": 479.67,
+      "kbju": {
+        "calories": 255.8,
+        "protein": 5.3,
+        "fat": 5.4,
+        "carbohydrates": 13.2
+      },
+      "manufacturer": {
+        "name": "НПО «Осипов»",
+        "country": "Россия",
+        "website": "https://zao.info",
+        "inn": "3832684930"
+      }
+    }
+  ],
+  "total_amount": 1366.77,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "purchase_datetime": "2025-12-31T15:28:45.932915"
+}

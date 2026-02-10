@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00086",
+  "customer": {
+    "customer_id": "cus-1042",
+    "first_name": "Радим",
+    "last_name": "Горбунов"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на ш. Ворошилова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Октябрьский (Башк.)",
+      "street": "алл. Станционная",
+      "house": "289",
+      "postal_code": "039313",
+      "coordinates": {
+        "latitude": 72.73613,
+        "longitude": -176.074107
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1039",
+      "name": "Очередной Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 37.54,
+      "total_price": 150.16,
+      "kbju": {
+        "calories": 64.8,
+        "protein": 9.3,
+        "fat": 8.6,
+        "carbohydrates": 23.3
+      },
+      "manufacturer": {
+        "name": "ООО «Кулакова»",
+        "country": "Россия",
+        "website": "https://avdeev.edu",
+        "inn": "9940238921"
+      }
+    },
+    {
+      "product_id": "prd-1020",
+      "name": "Соответствие Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 241.53,
+      "total_price": 483.06,
+      "kbju": {
+        "calories": 141.1,
+        "protein": 18.5,
+        "fat": 4.7,
+        "carbohydrates": 30.9
+      },
+      "manufacturer": {
+        "name": "ЗАО «Мамонтов Крюкова»",
+        "country": "Россия",
+        "website": "https://npo.info",
+        "inn": "2154017845"
+      }
+    },
+    {
+      "product_id": "prd-1087",
+      "name": "Невыносимый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 286.89,
+      "total_price": 286.89,
+      "kbju": {
+        "calories": 77.2,
+        "protein": 14.2,
+        "fat": 12.9,
+        "carbohydrates": 26.6
+      },
+      "manufacturer": {
+        "name": "НПО «Киселев»",
+        "country": "Россия",
+        "website": "https://vlasov.info",
+        "inn": "5542422338"
+      }
+    }
+  ],
+  "total_amount": 920.11,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Киренск",
+    "street": "пер. Полевой",
+    "house": "828",
+    "apartment": "75",
+    "postal_code": "592103"
+  },
+  "purchase_datetime": "2026-01-02T15:28:45.931067"
+}

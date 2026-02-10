@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00039",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Харитон",
+    "last_name": "Вишняков"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на пр. Невского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Анива",
+      "street": "наб. Береговая",
+      "house": "394",
+      "postal_code": "482143",
+      "coordinates": {
+        "latitude": 68.744838,
+        "longitude": 141.288413
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1078",
+      "name": "Манера Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 79.43,
+      "total_price": 79.43,
+      "kbju": {
+        "calories": 280.7,
+        "protein": 16.2,
+        "fat": 0.6,
+        "carbohydrates": 9.6
+      },
+      "manufacturer": {
+        "name": "ООО «Пахомов Самсонов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "8879362114"
+      }
+    },
+    {
+      "product_id": "prd-1055",
+      "name": "Актриса Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 131.95,
+      "total_price": 263.9,
+      "kbju": {
+        "calories": 119.6,
+        "protein": 10.3,
+        "fat": 8.5,
+        "carbohydrates": 24.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Гаврилов»",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "4107707581"
+      }
+    }
+  ],
+  "total_amount": 343.33,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Северобайкальск",
+    "street": "бул. Алтайский",
+    "house": "11",
+    "apartment": "10",
+    "postal_code": "810111"
+  },
+  "purchase_datetime": "2025-11-27T15:28:45.924014"
+}

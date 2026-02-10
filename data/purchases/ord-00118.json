@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00118",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Фадей",
+    "last_name": "Щукина"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на пр. 60 лет Октября",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Киренск",
+      "street": "ш. 60 лет Октября",
+      "house": "2",
+      "postal_code": "007394",
+      "coordinates": {
+        "latitude": 9.1706655,
+        "longitude": -13.705384
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1082",
+      "name": "Недостаток Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 142.45,
+      "total_price": 284.9,
+      "kbju": {
+        "calories": 227.4,
+        "protein": 10.1,
+        "fat": 11.5,
+        "carbohydrates": 44.5
+      },
+      "manufacturer": {
+        "name": "Мосгортранс",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "8852581191"
+      }
+    },
+    {
+      "product_id": "prd-1078",
+      "name": "Манера Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 79.43,
+      "total_price": 238.29,
+      "kbju": {
+        "calories": 280.7,
+        "protein": 16.2,
+        "fat": 0.6,
+        "carbohydrates": 9.6
+      },
+      "manufacturer": {
+        "name": "ООО «Пахомов Самсонов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "8879362114"
+      }
+    }
+  ],
+  "total_amount": 523.19,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Новомосковск",
+    "street": "пер. Чехова",
+    "house": "88",
+    "apartment": "2",
+    "postal_code": "157594"
+  },
+  "purchase_datetime": "2026-01-25T15:28:45.935841"
+}

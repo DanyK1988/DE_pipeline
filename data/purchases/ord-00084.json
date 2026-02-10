@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00084",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Юлиан",
+    "last_name": "Архипова"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на пр. Прудовой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Выборг",
+      "street": "ш. Молодежное",
+      "house": "51",
+      "postal_code": "924675",
+      "coordinates": {
+        "latitude": 25.106245,
+        "longitude": -25.643673
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1050",
+      "name": "Потянуться Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 159.69,
+      "total_price": 159.69,
+      "kbju": {
+        "calories": 130.7,
+        "protein": 12.1,
+        "fat": 15.0,
+        "carbohydrates": 47.7
+      },
+      "manufacturer": {
+        "name": "ОАО «Васильев»",
+        "country": "Россия",
+        "website": "https://oao.info",
+        "inn": "2626687104"
+      }
+    },
+    {
+      "product_id": "prd-1053",
+      "name": "Неожиданно Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 45.62,
+      "total_price": 228.1,
+      "kbju": {
+        "calories": 262.7,
+        "protein": 13.7,
+        "fat": 12.7,
+        "carbohydrates": 11.2
+      },
+      "manufacturer": {
+        "name": "Росатом",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "2219528239"
+      }
+    },
+    {
+      "product_id": "prd-1092",
+      "name": "Посвятить Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 245.06,
+      "total_price": 1225.3,
+      "kbju": {
+        "calories": 162.2,
+        "protein": 5.3,
+        "fat": 12.2,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "НПО «Федотова, Ларионова и Овчинников»",
+        "country": "Россия",
+        "website": "https://markova.net",
+        "inn": "7933109730"
+      }
+    }
+  ],
+  "total_amount": 1613.09,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Владивосток",
+    "street": "алл. Ярославская",
+    "house": "439",
+    "apartment": "76",
+    "postal_code": "635085"
+  },
+  "purchase_datetime": "2026-01-13T15:28:45.930772"
+}

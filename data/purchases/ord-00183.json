@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00183",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Бажен",
+    "last_name": "Носков"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Краснопартизанская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Белорецк",
+      "street": "ул. Цветочная",
+      "house": "746",
+      "postal_code": "712719",
+      "coordinates": {
+        "latitude": 44.283196,
+        "longitude": 113.263151
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1057",
+      "name": "Пасть Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 129.24,
+      "total_price": 387.72,
+      "kbju": {
+        "calories": 210.4,
+        "protein": 12.9,
+        "fat": 2.4,
+        "carbohydrates": 20.6
+      },
+      "manufacturer": {
+        "name": "ООО «Пономарев-Агафонов»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "2232671512"
+      }
+    }
+  ],
+  "total_amount": 387.72,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Сыктывкар",
+    "street": "пр. Поселковый",
+    "house": "5",
+    "apartment": "73",
+    "postal_code": "362597"
+  },
+  "purchase_datetime": "2025-11-18T15:28:45.944887"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1003",
+  "first_name": "Остап",
+  "last_name": "Калинин",
+  "email": "anani_1986@example.com",
+  "phone": "+7 026 820 92 17",
+  "birth_date": "1973-10-03",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.906900",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-3FDE09DD8C",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "пер. Черемушки",
+    "house": "45",
+    "postal_code": "459809",
+    "coordinates": {
+      "latitude": 77.613574,
+      "longitude": 3.498355
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

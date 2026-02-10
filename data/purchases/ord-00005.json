@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00005",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Владимир",
+    "last_name": "Дроздов"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на алл. Краснопартизанская",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Белорецк",
+      "street": "ул. Цветочная",
+      "house": "746",
+      "postal_code": "712719",
+      "coordinates": {
+        "latitude": 44.283196,
+        "longitude": 113.263151
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1025",
+      "name": "Мелочь Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 41.15,
+      "total_price": 123.45,
+      "kbju": {
+        "calories": 90.7,
+        "protein": 19.6,
+        "fat": 3.8,
+        "carbohydrates": 23.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Фомина Калинин»",
+        "country": "Россия",
+        "website": "https://zao.edu",
+        "inn": "9677042154"
+      }
+    },
+    {
+      "product_id": "prd-1045",
+      "name": "Товар Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 123.6,
+      "total_price": 247.2,
+      "kbju": {
+        "calories": 89.7,
+        "protein": 19.6,
+        "fat": 7.9,
+        "carbohydrates": 14.2
+      },
+      "manufacturer": {
+        "name": "ИП «Анисимова-Третьякова»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "8604334910"
+      }
+    }
+  ],
+  "total_amount": 370.65,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Яр-Сале",
+    "street": "наб. Лесхозная",
+    "house": "875",
+    "apartment": "78",
+    "postal_code": "508523"
+  },
+  "purchase_datetime": "2026-01-09T15:28:45.918756"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00031",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Филарет",
+    "last_name": "Рябов"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на ш. Ворошилова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Октябрьский (Башк.)",
+      "street": "алл. Станционная",
+      "house": "289",
+      "postal_code": "039313",
+      "coordinates": {
+        "latitude": 72.73613,
+        "longitude": -176.074107
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1085",
+      "name": "Ход Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 38.21,
+      "total_price": 76.42,
+      "kbju": {
+        "calories": 140.2,
+        "protein": 17.9,
+        "fat": 2.0,
+        "carbohydrates": 6.1
+      },
+      "manufacturer": {
+        "name": "НОВАТЭК",
+        "country": "Россия",
+        "website": "https://kompanija.org",
+        "inn": "1394114094"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Приходить Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 87.97,
+      "total_price": 351.88,
+      "kbju": {
+        "calories": 292.5,
+        "protein": 2.8,
+        "fat": 5.3,
+        "carbohydrates": 38.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Субботин-Казакова»",
+        "country": "Россия",
+        "website": "https://rao.net",
+        "inn": "3831658898"
+      }
+    }
+  ],
+  "total_amount": 428.3,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кропоткин (Краснод.)",
+    "street": "наб. Станционная",
+    "house": "40",
+    "apartment": "28",
+    "postal_code": "682461"
+  },
+  "purchase_datetime": "2026-01-26T15:28:45.922664"
+}

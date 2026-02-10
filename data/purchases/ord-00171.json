@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00171",
+  "customer": {
+    "customer_id": "cus-1000",
+    "first_name": "Владимир",
+    "last_name": "Ширяева"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на пер. Бригадный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Урюпинск",
+      "street": "бул. Ангарский",
+      "house": "5",
+      "postal_code": "897312",
+      "coordinates": {
+        "latitude": 5.2243225,
+        "longitude": 112.588665
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Понятный Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 167.21,
+      "total_price": 836.05,
+      "kbju": {
+        "calories": 58.2,
+        "protein": 5.2,
+        "fat": 14.9,
+        "carbohydrates": 25.6
+      },
+      "manufacturer": {
+        "name": "Некрасова Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://otisifarm.edu",
+        "inn": "8554077119"
+      }
+    },
+    {
+      "product_id": "prd-1029",
+      "name": "Задрать Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 218.0,
+      "total_price": 872.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 2.0,
+        "fat": 3.9,
+        "carbohydrates": 34.9
+      },
+      "manufacturer": {
+        "name": "ИП «Александрова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "3480513861"
+      }
+    },
+    {
+      "product_id": "prd-1079",
+      "name": "Ягода Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 121.24,
+      "total_price": 363.72,
+      "kbju": {
+        "calories": 291.4,
+        "protein": 15.7,
+        "fat": 6.7,
+        "carbohydrates": 21.8
+      },
+      "manufacturer": {
+        "name": "ИП «Якушева»",
+        "country": "Россия",
+        "website": "https://rao.net",
+        "inn": "1349555045"
+      }
+    }
+  ],
+  "total_amount": 2071.77,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Старый Оскол",
+    "street": "пр. Индустриальный",
+    "house": "4",
+    "apartment": "9",
+    "postal_code": "503742"
+  },
+  "purchase_datetime": "2025-11-23T15:28:45.943058"
+}

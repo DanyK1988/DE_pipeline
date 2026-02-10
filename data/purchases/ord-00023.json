@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00023",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Бажен",
+    "last_name": "Носков"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на пр. Невского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Анива",
+      "street": "наб. Береговая",
+      "house": "394",
+      "postal_code": "482143",
+      "coordinates": {
+        "latitude": 68.744838,
+        "longitude": 141.288413
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1055",
+      "name": "Актриса Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 131.95,
+      "total_price": 395.85,
+      "kbju": {
+        "calories": 119.6,
+        "protein": 10.3,
+        "fat": 8.5,
+        "carbohydrates": 24.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Гаврилов»",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "4107707581"
+      }
+    }
+  ],
+  "total_amount": 395.85,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Сыктывкар",
+    "street": "пр. Поселковый",
+    "house": "5",
+    "apartment": "73",
+    "postal_code": "362597"
+  },
+  "purchase_datetime": "2025-12-28T15:28:45.921510"
+}

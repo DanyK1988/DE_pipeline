@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00114",
+  "customer": {
+    "customer_id": "cus-1028",
+    "first_name": "Фирс",
+    "last_name": "Боброва"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на пр. 60 лет Октября",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Киренск",
+      "street": "ш. 60 лет Октября",
+      "house": "2",
+      "postal_code": "007394",
+      "coordinates": {
+        "latitude": 9.1706655,
+        "longitude": -13.705384
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Механический Хлеб",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 115.93,
+      "total_price": 579.65,
+      "kbju": {
+        "calories": 115.8,
+        "protein": 11.3,
+        "fat": 4.9,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "Капустина Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://volkova.edu",
+        "inn": "4361762021"
+      }
+    },
+    {
+      "product_id": "prd-1032",
+      "name": "Приходить Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 87.97,
+      "total_price": 351.88,
+      "kbju": {
+        "calories": 292.5,
+        "protein": 2.8,
+        "fat": 5.3,
+        "carbohydrates": 38.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Субботин-Казакова»",
+        "country": "Россия",
+        "website": "https://rao.net",
+        "inn": "3831658898"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Картинка Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 32.85,
+      "total_price": 164.25,
+      "kbju": {
+        "calories": 69.7,
+        "protein": 7.4,
+        "fat": 9.3,
+        "carbohydrates": 2.2
+      },
+      "manufacturer": {
+        "name": "Колесников и партнеры",
+        "country": "Россия",
+        "website": "https://oao.info",
+        "inn": "2983542412"
+      }
+    }
+  ],
+  "total_amount": 1095.78,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Жуковский",
+    "street": "пр. Авиационный",
+    "house": "97",
+    "apartment": "88",
+    "postal_code": "153384"
+  },
+  "purchase_datetime": "2026-01-16T15:28:45.935249"
+}

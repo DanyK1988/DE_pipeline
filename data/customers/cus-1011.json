@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1011",
+  "first_name": "Милий",
+  "last_name": "Фролов",
+  "email": "litkinapraskovja@example.com",
+  "phone": "+7 877 173 3290",
+  "birth_date": "1958-09-07",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.911668",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-C63A4764EF",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Ногинск (Моск.)",
+    "street": "ул. Дорожная",
+    "house": "49",
+    "postal_code": "794588",
+    "coordinates": {
+      "latitude": 11.4594385,
+      "longitude": -29.371717
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Ногинск (Моск.)",
+    "street": "бул. Пролетарский",
+    "house": "3",
+    "apartment": "68",
+    "postal_code": "927609"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

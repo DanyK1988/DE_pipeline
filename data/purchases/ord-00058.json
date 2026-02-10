@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00058",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Чеслав",
+    "last_name": "Брагина"
+  },
+  "store": {
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на ул. Фрунзе",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Вендинга",
+      "street": "ш. Красногвардейское",
+      "house": "1",
+      "postal_code": "757796",
+      "coordinates": {
+        "latitude": -24.6401735,
+        "longitude": 23.677076
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1092",
+      "name": "Посвятить Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 245.06,
+      "total_price": 735.18,
+      "kbju": {
+        "calories": 162.2,
+        "protein": 5.3,
+        "fat": 12.2,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "НПО «Федотова, Ларионова и Овчинников»",
+        "country": "Россия",
+        "website": "https://markova.net",
+        "inn": "7933109730"
+      }
+    },
+    {
+      "product_id": "prd-1088",
+      "name": "Крутой Морковь",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 117.01,
+      "total_price": 117.01,
+      "kbju": {
+        "calories": 173.9,
+        "protein": 10.5,
+        "fat": 0.8,
+        "carbohydrates": 15.0
+      },
+      "manufacturer": {
+        "name": "ГК Автодилерство",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "4226193317"
+      }
+    }
+  ],
+  "total_amount": 852.19,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "наб. Локомотивная",
+    "house": "88",
+    "apartment": "65",
+    "postal_code": "920636"
+  },
+  "purchase_datetime": "2025-11-15T15:28:45.926726"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00094",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Милий",
+    "last_name": "Трофимова"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на пр. Леваневского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Охотск",
+      "street": "алл. Партизанская",
+      "house": "56",
+      "postal_code": "275931",
+      "coordinates": {
+        "latitude": -17.951078,
+        "longitude": 116.436511
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Изба Мука",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 249.44,
+      "total_price": 997.76,
+      "kbju": {
+        "calories": 187.2,
+        "protein": 19.5,
+        "fat": 0.8,
+        "carbohydrates": 39.2
+      },
+      "manufacturer": {
+        "name": "ООО «Михеева»",
+        "country": "Россия",
+        "website": "https://dzhti.edu",
+        "inn": "4634657861"
+      }
+    },
+    {
+      "product_id": "prd-1042",
+      "name": "Промолчать Сметана",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 85.09,
+      "total_price": 425.45,
+      "kbju": {
+        "calories": 267.5,
+        "protein": 16.1,
+        "fat": 4.5,
+        "carbohydrates": 31.3
+      },
+      "manufacturer": {
+        "name": "Русакова Лимитед",
+        "country": "Россия",
+        "website": "https://ozon.net",
+        "inn": "3322315077"
+      }
+    }
+  ],
+  "total_amount": 1423.21,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Белорецк",
+    "street": "пер. Просторный",
+    "house": "4",
+    "apartment": "33",
+    "postal_code": "918161"
+  },
+  "purchase_datetime": "2026-01-02T15:28:45.932381"
+}

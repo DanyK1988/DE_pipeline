@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00127",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Валерьян",
+    "last_name": "Жукова"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на бул. Краснодарский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Старый Оскол",
+      "street": "алл. Песчаная",
+      "house": "421",
+      "postal_code": "179761",
+      "coordinates": {
+        "latitude": -32.7424965,
+        "longitude": -18.150891
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "name": "Изображать Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 171.6,
+      "total_price": 343.2,
+      "kbju": {
+        "calories": 65.5,
+        "protein": 7.6,
+        "fat": 6.6,
+        "carbohydrates": 37.1
+      },
+      "manufacturer": {
+        "name": "ЗАО «Петухов, Мишина и Молчанов»",
+        "country": "Россия",
+        "website": "https://ao.com",
+        "inn": "0103696611"
+      }
+    },
+    {
+      "product_id": "prd-1033",
+      "name": "Картинка Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 32.85,
+      "total_price": 65.7,
+      "kbju": {
+        "calories": 69.7,
+        "protein": 7.4,
+        "fat": 9.3,
+        "carbohydrates": 2.2
+      },
+      "manufacturer": {
+        "name": "Колесников и партнеры",
+        "country": "Россия",
+        "website": "https://oao.info",
+        "inn": "2983542412"
+      }
+    }
+  ],
+  "total_amount": 408.9,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Терней",
+    "street": "пр. Слободской",
+    "house": "7/1",
+    "apartment": "11",
+    "postal_code": "705447"
+  },
+  "purchase_datetime": "2025-11-18T15:28:45.937072"
+}

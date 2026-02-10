@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1037",
+  "first_name": "Алина",
+  "last_name": "Денисов",
+  "email": "cheslav1976@example.com",
+  "phone": "8 (784) 024-61-88",
+  "birth_date": "1988-12-04",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.916743",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-6BF2B68D50",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Поронайск",
+    "street": "ул. Кольцевая",
+    "house": "2/1",
+    "postal_code": "079000",
+    "coordinates": {
+      "latitude": -26.5854945,
+      "longitude": 165.895906
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Поронайск",
+    "street": "наб. Октября",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "611917"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

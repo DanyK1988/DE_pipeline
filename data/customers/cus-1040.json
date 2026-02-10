@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1040",
+  "first_name": "Милий",
+  "last_name": "Трофимова",
+  "email": "dkozlova@example.com",
+  "phone": "+7 (369) 574-73-14",
+  "birth_date": "2005-08-05",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.917230",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-00B9A7E9E9",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Белорецк",
+    "street": "ул. Цветочная",
+    "house": "746",
+    "postal_code": "712719",
+    "coordinates": {
+      "latitude": 44.283196,
+      "longitude": 113.263151
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Белорецк",
+    "street": "пер. Просторный",
+    "house": "4",
+    "apartment": "33",
+    "postal_code": "918161"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

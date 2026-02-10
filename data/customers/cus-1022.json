@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1022",
+  "first_name": "Кузьма",
+  "last_name": "Белоусов",
+  "email": "isa43@example.net",
+  "phone": "+72836277798",
+  "birth_date": "1966-06-01",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.913980",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-70A2071FCA",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Стрежевой",
+    "street": "пер. Социалистический",
+    "house": "65",
+    "postal_code": "749036",
+    "coordinates": {
+      "latitude": -55.4023775,
+      "longitude": -39.425849
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Стрежевой",
+    "street": "пр. Заводской",
+    "house": "53",
+    "apartment": "44",
+    "postal_code": "138040"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

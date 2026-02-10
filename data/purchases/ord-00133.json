@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00133",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Бажен",
+    "last_name": "Носков"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на пр. Невского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Анива",
+      "street": "наб. Береговая",
+      "house": "394",
+      "postal_code": "482143",
+      "coordinates": {
+        "latitude": 68.744838,
+        "longitude": 141.288413
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Слишком Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 142.88,
+      "total_price": 571.52,
+      "kbju": {
+        "calories": 249.6,
+        "protein": 7.4,
+        "fat": 11.5,
+        "carbohydrates": 21.3
+      },
+      "manufacturer": {
+        "name": "ИП «Потапов-Федотов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "7477151966"
+      }
+    },
+    {
+      "product_id": "prd-1093",
+      "name": "Тысяча Зелень",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 157.0,
+      "total_price": 157.0,
+      "kbju": {
+        "calories": 264.6,
+        "protein": 1.7,
+        "fat": 6.9,
+        "carbohydrates": 20.6
+      },
+      "manufacturer": {
+        "name": "АО «Орехова-Устинов»",
+        "country": "Россия",
+        "website": "https://npo.info",
+        "inn": "6039619324"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "name": "Одиннадцать Хлеб",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 234.92,
+      "total_price": 939.68,
+      "kbju": {
+        "calories": 226.1,
+        "protein": 9.6,
+        "fat": 10.8,
+        "carbohydrates": 24.0
+      },
+      "manufacturer": {
+        "name": "ООО «Ефимова»",
+        "country": "Россия",
+        "website": "https://uralskie.info",
+        "inn": "3441988482"
+      }
+    }
+  ],
+  "total_amount": 1668.2,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Сыктывкар",
+    "street": "пр. Поселковый",
+    "house": "5",
+    "apartment": "73",
+    "postal_code": "362597"
+  },
+  "purchase_datetime": "2026-01-19T15:28:45.937894"
+}

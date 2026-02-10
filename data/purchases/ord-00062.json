@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00062",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Серафим",
+    "last_name": "Комаров"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на алл. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Железногорск(Курск.)",
+      "street": "ул. Лунная",
+      "house": "29",
+      "postal_code": "776011",
+      "coordinates": {
+        "latitude": -45.2971245,
+        "longitude": -23.423238
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1029",
+      "name": "Задрать Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 218.0,
+      "total_price": 654.0,
+      "kbju": {
+        "calories": 218.0,
+        "protein": 2.0,
+        "fat": 3.9,
+        "carbohydrates": 34.9
+      },
+      "manufacturer": {
+        "name": "ИП «Александрова»",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "3480513861"
+      }
+    },
+    {
+      "product_id": "prd-1091",
+      "name": "Славный Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 49.14,
+      "total_price": 49.14,
+      "kbju": {
+        "calories": 206.9,
+        "protein": 12.4,
+        "fat": 9.5,
+        "carbohydrates": 42.8
+      },
+      "manufacturer": {
+        "name": "ВО Машиноимпорт",
+        "country": "Россия",
+        "website": "https://kuznetsov.biz",
+        "inn": "0843865990"
+      }
+    }
+  ],
+  "total_amount": 703.14,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Зеленогорск (Ленин.)",
+    "street": "наб. Чехова",
+    "house": "395",
+    "apartment": "3",
+    "postal_code": "597759"
+  },
+  "purchase_datetime": "2026-01-10T15:28:45.927371"
+}

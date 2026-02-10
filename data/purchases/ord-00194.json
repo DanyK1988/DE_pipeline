@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00194",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Мстислав",
+    "last_name": "Селезнева"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на бул. Донской",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Борзя",
+      "street": "ш. Кубанское",
+      "house": "22",
+      "postal_code": "333791",
+      "coordinates": {
+        "latitude": 85.0822585,
+        "longitude": -43.999664
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1059",
+      "name": "Соответствие Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 136.77,
+      "total_price": 547.08,
+      "kbju": {
+        "calories": 109.6,
+        "protein": 7.2,
+        "fat": 9.9,
+        "carbohydrates": 3.6
+      },
+      "manufacturer": {
+        "name": "НПО «Вишнякова»",
+        "country": "Россия",
+        "website": "https://mms.biz",
+        "inn": "2169738679"
+      }
+    }
+  ],
+  "total_amount": 547.08,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Верхний Тагил",
+    "street": "бул. Парковый",
+    "house": "83",
+    "apartment": "30",
+    "postal_code": "503046"
+  },
+  "purchase_datetime": "2026-02-05T15:28:45.946290"
+}

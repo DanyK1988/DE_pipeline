@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1005",
+  "first_name": "Орест",
+  "last_name": "Трофимов",
+  "email": "kirill60@example.net",
+  "phone": "+7 (462) 802-5707",
+  "birth_date": "2001-06-17",
+  "gender": "female",
+  "registration_date": "2026-02-10T15:28:45.908286",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-557F8EDD19",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Томари",
+    "street": "пр. Декабристов",
+    "house": "60",
+    "postal_code": "643000",
+    "coordinates": {
+      "latitude": -71.2513415,
+      "longitude": -107.894506
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Томари",
+    "street": "алл. Клубная",
+    "house": "761",
+    "apartment": "35",
+    "postal_code": "063616"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

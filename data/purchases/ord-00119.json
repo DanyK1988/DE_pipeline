@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00119",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Остап",
+    "last_name": "Калинин"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на бул. Гагарина",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Рыльск",
+      "street": "пр. Тельмана",
+      "house": "45",
+      "postal_code": "867128",
+      "coordinates": {
+        "latitude": -66.088196,
+        "longitude": 6.284635
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1053",
+      "name": "Неожиданно Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 45.62,
+      "total_price": 228.1,
+      "kbju": {
+        "calories": 262.7,
+        "protein": 13.7,
+        "fat": 12.7,
+        "carbohydrates": 11.2
+      },
+      "manufacturer": {
+        "name": "Росатом",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "2219528239"
+      }
+    },
+    {
+      "product_id": "prd-1077",
+      "name": "Уточнить Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 170.46,
+      "total_price": 852.3,
+      "kbju": {
+        "calories": 128.6,
+        "protein": 15.6,
+        "fat": 14.7,
+        "carbohydrates": 49.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Белоусова-Казакова»",
+        "country": "Россия",
+        "website": "https://gerasimov.org",
+        "inn": "8914272504"
+      }
+    },
+    {
+      "product_id": "prd-1026",
+      "name": "Более Фарш",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 52.6,
+      "total_price": 105.2,
+      "kbju": {
+        "calories": 212.1,
+        "protein": 4.2,
+        "fat": 10.0,
+        "carbohydrates": 14.7
+      },
+      "manufacturer": {
+        "name": "РАО «Логинов»",
+        "country": "Россия",
+        "website": "https://sergeeva.org",
+        "inn": "8836849837"
+      }
+    }
+  ],
+  "total_amount": 1185.6,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Кабанск",
+    "street": "ул. Ростовская",
+    "house": "8/4",
+    "apartment": "21",
+    "postal_code": "372849"
+  },
+  "purchase_datetime": "2026-01-08T15:28:45.935973"
+}

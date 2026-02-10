@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00080",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Фадей",
+    "last_name": "Щукина"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на наб. 8-е Марта",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кашхатау",
+      "street": "алл. Угольная",
+      "house": "229",
+      "postal_code": "295928",
+      "coordinates": {
+        "latitude": -49.7627225,
+        "longitude": -158.561658
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1045",
+      "name": "Товар Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 123.6,
+      "total_price": 370.8,
+      "kbju": {
+        "calories": 89.7,
+        "protein": 19.6,
+        "fat": 7.9,
+        "carbohydrates": 14.2
+      },
+      "manufacturer": {
+        "name": "ИП «Анисимова-Третьякова»",
+        "country": "Россия",
+        "website": "https://ooo.net",
+        "inn": "8604334910"
+      }
+    },
+    {
+      "product_id": "prd-1021",
+      "name": "Прошептать Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 66.85,
+      "total_price": 200.55,
+      "kbju": {
+        "calories": 299.5,
+        "protein": 12.2,
+        "fat": 13.4,
+        "carbohydrates": 48.2
+      },
+      "manufacturer": {
+        "name": "ИП «Лукина Савельева»",
+        "country": "Россия",
+        "website": "https://ao.net",
+        "inn": "1847910799"
+      }
+    }
+  ],
+  "total_amount": 571.35,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Новомосковск",
+    "street": "пер. Чехова",
+    "house": "88",
+    "apartment": "2",
+    "postal_code": "157594"
+  },
+  "purchase_datetime": "2026-02-07T15:28:45.930050"
+}

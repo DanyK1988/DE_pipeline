@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00132",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Алина",
+    "last_name": "Денисов"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на алл. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Железногорск(Курск.)",
+      "street": "ул. Лунная",
+      "house": "29",
+      "postal_code": "776011",
+      "coordinates": {
+        "latitude": -45.2971245,
+        "longitude": -23.423238
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1066",
+      "name": "Командование Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 167.43,
+      "total_price": 502.29,
+      "kbju": {
+        "calories": 228.4,
+        "protein": 10.5,
+        "fat": 8.0,
+        "carbohydrates": 46.3
+      },
+      "manufacturer": {
+        "name": "ИП «Павлова»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "6127707120"
+      }
+    }
+  ],
+  "total_amount": 502.29,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Поронайск",
+    "street": "наб. Октября",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "611917"
+  },
+  "purchase_datetime": "2026-01-13T15:28:45.937774"
+}

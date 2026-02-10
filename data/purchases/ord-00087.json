@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00087",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Алина",
+    "last_name": "Денисов"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на ул. Средняя",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Сыктывкар",
+      "street": "бул. Слободской",
+      "house": "20",
+      "postal_code": "557838",
+      "coordinates": {
+        "latitude": -31.817479,
+        "longitude": 128.72487
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1085",
+      "name": "Ход Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 38.21,
+      "total_price": 152.84,
+      "kbju": {
+        "calories": 140.2,
+        "protein": 17.9,
+        "fat": 2.0,
+        "carbohydrates": 6.1
+      },
+      "manufacturer": {
+        "name": "НОВАТЭК",
+        "country": "Россия",
+        "website": "https://kompanija.org",
+        "inn": "1394114094"
+      }
+    },
+    {
+      "product_id": "prd-1098",
+      "name": "Социалистический Картошка",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 142.51,
+      "total_price": 712.55,
+      "kbju": {
+        "calories": 101.4,
+        "protein": 3.0,
+        "fat": 13.4,
+        "carbohydrates": 21.1
+      },
+      "manufacturer": {
+        "name": "АО «Дорофеева, Гущина и Марков»",
+        "country": "Россия",
+        "website": "https://npo.ru",
+        "inn": "3202837887"
+      }
+    }
+  ],
+  "total_amount": 865.39,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Поронайск",
+    "street": "наб. Октября",
+    "house": "8",
+    "apartment": "51",
+    "postal_code": "611917"
+  },
+  "purchase_datetime": "2026-01-31T15:28:45.931223"
+}

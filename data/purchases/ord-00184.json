@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00184",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Павел",
+    "last_name": "Лихачев"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на пр. Прудовой",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Выборг",
+      "street": "ш. Молодежное",
+      "house": "51",
+      "postal_code": "924675",
+      "coordinates": {
+        "latitude": 25.106245,
+        "longitude": -25.643673
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Слишком Печенье",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 142.88,
+      "total_price": 428.64,
+      "kbju": {
+        "calories": 249.6,
+        "protein": 7.4,
+        "fat": 11.5,
+        "carbohydrates": 21.3
+      },
+      "manufacturer": {
+        "name": "ИП «Потапов-Федотов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "7477151966"
+      }
+    },
+    {
+      "product_id": "prd-1076",
+      "name": "Иной Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 48.25,
+      "total_price": 241.25,
+      "kbju": {
+        "calories": 215.2,
+        "protein": 4.9,
+        "fat": 8.7,
+        "carbohydrates": 33.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Суворов»",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "4797725113"
+      }
+    }
+  ],
+  "total_amount": 669.89,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Борзя",
+    "street": "ул. Кузнечная",
+    "house": "731",
+    "apartment": "60",
+    "postal_code": "551308"
+  },
+  "purchase_datetime": "2025-11-14T15:28:45.945003"
+}

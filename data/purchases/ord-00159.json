@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00159",
+  "customer": {
+    "customer_id": "cus-1039",
+    "first_name": "Павел",
+    "last_name": "Лихачев"
+  },
+  "store": {
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на ш. Аэродромное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Магнитогорск",
+      "street": "наб. Кирова",
+      "house": "98",
+      "postal_code": "902867",
+      "coordinates": {
+        "latitude": -85.278158,
+        "longitude": -72.945029
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1030",
+      "name": "Конструкция Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 278.83,
+      "total_price": 836.49,
+      "kbju": {
+        "calories": 57.7,
+        "protein": 17.3,
+        "fat": 3.9,
+        "carbohydrates": 33.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Селиверстова Зайцева»",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "2512292562"
+      }
+    },
+    {
+      "product_id": "prd-1044",
+      "name": "Предоставить Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 208.15,
+      "total_price": 416.3,
+      "kbju": {
+        "calories": 70.1,
+        "protein": 0.5,
+        "fat": 11.7,
+        "carbohydrates": 29.3
+      },
+      "manufacturer": {
+        "name": "Группа ЭПМ",
+        "country": "Россия",
+        "website": "https://singenta.biz",
+        "inn": "7855550574"
+      }
+    },
+    {
+      "product_id": "prd-1056",
+      "name": "Спасть Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 116.84,
+      "total_price": 233.68,
+      "kbju": {
+        "calories": 269.3,
+        "protein": 12.8,
+        "fat": 1.7,
+        "carbohydrates": 38.2
+      },
+      "manufacturer": {
+        "name": "РАО «Веселов, Баранов и Устинов»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "2869539465"
+      }
+    }
+  ],
+  "total_amount": 1486.47,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Борзя",
+    "street": "ул. Кузнечная",
+    "house": "731",
+    "apartment": "60",
+    "postal_code": "551308"
+  },
+  "purchase_datetime": "2026-01-14T15:28:45.941346"
+}

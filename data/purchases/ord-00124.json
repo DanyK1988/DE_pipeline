@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00124",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Милий",
+    "last_name": "Трофимова"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на ш. Ворошилова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Октябрьский (Башк.)",
+      "street": "алл. Станционная",
+      "house": "289",
+      "postal_code": "039313",
+      "coordinates": {
+        "latitude": 72.73613,
+        "longitude": -176.074107
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1094",
+      "name": "Место Зелень",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 197.9,
+      "total_price": 395.8,
+      "kbju": {
+        "calories": 130.3,
+        "protein": 1.9,
+        "fat": 8.0,
+        "carbohydrates": 24.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Герасимова-Евдокимов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "5397390886"
+      }
+    }
+  ],
+  "total_amount": 395.8,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Белорецк",
+    "street": "пер. Просторный",
+    "house": "4",
+    "apartment": "33",
+    "postal_code": "918161"
+  },
+  "purchase_datetime": "2025-11-19T15:28:45.936689"
+}

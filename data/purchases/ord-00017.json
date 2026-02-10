@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00017",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Василий",
+    "last_name": "Максимова"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на пер. Юности",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Новомосковск",
+      "street": "ш. Омское",
+      "house": "348",
+      "postal_code": "224508",
+      "coordinates": {
+        "latitude": 86.0219265,
+        "longitude": 73.553193
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1092",
+      "name": "Посвятить Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 245.06,
+      "total_price": 980.24,
+      "kbju": {
+        "calories": 162.2,
+        "protein": 5.3,
+        "fat": 12.2,
+        "carbohydrates": 11.4
+      },
+      "manufacturer": {
+        "name": "НПО «Федотова, Ларионова и Овчинников»",
+        "country": "Россия",
+        "website": "https://markova.net",
+        "inn": "7933109730"
+      }
+    },
+    {
+      "product_id": "prd-1065",
+      "name": "Зато Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 275.09,
+      "total_price": 1375.45,
+      "kbju": {
+        "calories": 77.3,
+        "protein": 5.5,
+        "fat": 12.8,
+        "carbohydrates": 11.8
+      },
+      "manufacturer": {
+        "name": "Егорова Лтд",
+        "country": "Россия",
+        "website": "https://belov.edu",
+        "inn": "0910446572"
+      }
+    },
+    {
+      "product_id": "prd-1078",
+      "name": "Манера Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 79.43,
+      "total_price": 238.29,
+      "kbju": {
+        "calories": 280.7,
+        "protein": 16.2,
+        "fat": 0.6,
+        "carbohydrates": 9.6
+      },
+      "manufacturer": {
+        "name": "ООО «Пахомов Самсонов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "8879362114"
+      }
+    }
+  ],
+  "total_amount": 2593.98,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Магнитогорск",
+    "street": "алл. Раздольная",
+    "house": "50",
+    "apartment": "14",
+    "postal_code": "742215"
+  },
+  "purchase_datetime": "2026-01-22T15:28:45.920639"
+}

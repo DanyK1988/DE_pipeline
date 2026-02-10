@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00078",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Филарет",
+    "last_name": "Рябов"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на пер. Юности",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Новомосковск",
+      "street": "ш. Омское",
+      "house": "348",
+      "postal_code": "224508",
+      "coordinates": {
+        "latitude": 86.0219265,
+        "longitude": 73.553193
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1064",
+      "name": "Табак Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 134.89,
+      "total_price": 674.45,
+      "kbju": {
+        "calories": 58.2,
+        "protein": 11.9,
+        "fat": 2.5,
+        "carbohydrates": 21.6
+      },
+      "manufacturer": {
+        "name": "ОАО «Гордеева Матвеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2108038479"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Висеть Выпечка",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 167.36,
+      "total_price": 502.08,
+      "kbju": {
+        "calories": 62.4,
+        "protein": 9.2,
+        "fat": 10.3,
+        "carbohydrates": 9.8
+      },
+      "manufacturer": {
+        "name": "Леруа Мерлен Восток (Leroi Merlin)",
+        "country": "Россия",
+        "website": "https://tretjakova.biz",
+        "inn": "0162540356"
+      }
+    }
+  ],
+  "total_amount": 1176.53,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кропоткин (Краснод.)",
+    "street": "наб. Станционная",
+    "house": "40",
+    "apartment": "28",
+    "postal_code": "682461"
+  },
+  "purchase_datetime": "2025-12-19T15:28:45.929784"
+}

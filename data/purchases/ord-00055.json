@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00055",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Серафим",
+    "last_name": "Комаров"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на бул. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Ногинск (Моск.)",
+      "street": "ул. Дорожная",
+      "house": "49",
+      "postal_code": "794588",
+      "coordinates": {
+        "latitude": 11.4594385,
+        "longitude": -29.371717
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1084",
+      "name": "Потянуться Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 263.6,
+      "total_price": 527.2,
+      "kbju": {
+        "calories": 261.7,
+        "protein": 12.5,
+        "fat": 5.4,
+        "carbohydrates": 36.2
+      },
+      "manufacturer": {
+        "name": "НПО «Андреев Никонов»",
+        "country": "Россия",
+        "website": "https://oao.edu",
+        "inn": "3305240470"
+      }
+    }
+  ],
+  "total_amount": 527.2,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Зеленогорск (Ленин.)",
+    "street": "наб. Чехова",
+    "house": "395",
+    "apartment": "3",
+    "postal_code": "597759"
+  },
+  "purchase_datetime": "2026-01-12T15:28:45.926335"
+}

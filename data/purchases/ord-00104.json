@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00104",
+  "customer": {
+    "customer_id": "cus-1031",
+    "first_name": "Тихон",
+    "last_name": "Никитина"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на бул. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Ногинск (Моск.)",
+      "street": "ул. Дорожная",
+      "house": "49",
+      "postal_code": "794588",
+      "coordinates": {
+        "latitude": 11.4594385,
+        "longitude": -29.371717
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1067",
+      "name": "Мера Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 43.73,
+      "total_price": 131.19,
+      "kbju": {
+        "calories": 192.4,
+        "protein": 19.9,
+        "fat": 4.7,
+        "carbohydrates": 28.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Дементьева Павлова»",
+        "country": "Россия",
+        "website": "https://sisko.com",
+        "inn": "0571050213"
+      }
+    },
+    {
+      "product_id": "prd-1058",
+      "name": "Прелесть Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 217.01,
+      "total_price": 434.02,
+      "kbju": {
+        "calories": 262.1,
+        "protein": 8.7,
+        "fat": 7.9,
+        "carbohydrates": 0.6
+      },
+      "manufacturer": {
+        "name": "Боброва Лтд",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "9168142668"
+      }
+    }
+  ],
+  "total_amount": 565.21,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Теберда",
+    "street": "пер. Студенческий",
+    "house": "134",
+    "apartment": "80",
+    "postal_code": "551183"
+  },
+  "purchase_datetime": "2025-12-14T15:28:45.933849"
+}

@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00016",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Иннокентий",
+    "last_name": "Некрасова"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1097",
+      "name": "Скрытый Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 99.51,
+      "total_price": 298.53,
+      "kbju": {
+        "calories": 69.0,
+        "protein": 18.1,
+        "fat": 1.2,
+        "carbohydrates": 41.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Нестерова»",
+        "country": "Россия",
+        "website": "https://haritonova.org",
+        "inn": "1526904182"
+      }
+    },
+    {
+      "product_id": "prd-1096",
+      "name": "Интеллектуальный Лук",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 285.02,
+      "total_price": 855.06,
+      "kbju": {
+        "calories": 207.5,
+        "protein": 10.1,
+        "fat": 1.4,
+        "carbohydrates": 2.0
+      },
+      "manufacturer": {
+        "name": "ИП «Виноградова-Кулакова»",
+        "country": "Россия",
+        "website": "https://ferrero.org",
+        "inn": "6188976994"
+      }
+    },
+    {
+      "product_id": "prd-1035",
+      "name": "Нож Яйца",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 51.47,
+      "total_price": 154.41,
+      "kbju": {
+        "calories": 88.9,
+        "protein": 14.3,
+        "fat": 3.7,
+        "carbohydrates": 6.8
+      },
+      "manufacturer": {
+        "name": "Модум-транс",
+        "country": "Россия",
+        "website": "https://novorossiski.com",
+        "inn": "4453035912"
+      }
+    }
+  ],
+  "total_amount": 1308.0,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Тутончаны",
+    "street": "ш. Заводское",
+    "house": "873",
+    "apartment": "18",
+    "postal_code": "277463"
+  },
+  "purchase_datetime": "2025-11-28T15:28:45.920472"
+}

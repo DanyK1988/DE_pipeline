@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1038",
+  "first_name": "Бажен",
+  "last_name": "Носков",
+  "email": "frol_1971@example.org",
+  "phone": "8 589 579 8957",
+  "birth_date": "1958-11-03",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.916908",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-A1A7AD1883",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Сыктывкар",
+    "street": "бул. Слободской",
+    "house": "20",
+    "postal_code": "557838",
+    "coordinates": {
+      "latitude": -31.817479,
+      "longitude": 128.72487
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Сыктывкар",
+    "street": "пр. Поселковый",
+    "house": "5",
+    "apartment": "73",
+    "postal_code": "362597"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00065",
+  "customer": {
+    "customer_id": "cus-1026",
+    "first_name": "Пимен",
+    "last_name": "Максимова"
+  },
+  "store": {
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на пер. Бригадный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Урюпинск",
+      "street": "бул. Ангарский",
+      "house": "5",
+      "postal_code": "897312",
+      "coordinates": {
+        "latitude": 5.2243225,
+        "longitude": 112.588665
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1036",
+      "name": "Стакан Говядина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 244.61,
+      "total_price": 244.61,
+      "kbju": {
+        "calories": 108.5,
+        "protein": 13.4,
+        "fat": 1.9,
+        "carbohydrates": 34.8
+      },
+      "manufacturer": {
+        "name": "ЗАО «Павлова-Симонова»",
+        "country": "Россия",
+        "website": "https://oao.net",
+        "inn": "7021168801"
+      }
+    },
+    {
+      "product_id": "prd-1062",
+      "name": "Выражение Груша",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 55.41,
+      "total_price": 110.82,
+      "kbju": {
+        "calories": 70.7,
+        "protein": 15.0,
+        "fat": 3.6,
+        "carbohydrates": 34.0
+      },
+      "manufacturer": {
+        "name": "РАО «Евсеева Артемьев»",
+        "country": "Россия",
+        "website": "https://ustinov.biz",
+        "inn": "8429629724"
+      }
+    }
+  ],
+  "total_amount": 355.43,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Джубга",
+    "street": "ул. Привокзальная",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "924821"
+  },
+  "purchase_datetime": "2026-01-15T15:28:45.927743"
+}

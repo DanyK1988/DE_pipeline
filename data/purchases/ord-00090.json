@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00090",
+  "customer": {
+    "customer_id": "cus-1019",
+    "first_name": "Яков",
+    "last_name": "Журавлева"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на пер. Ольховый",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Билибино",
+      "street": "ул. Лазо",
+      "house": "7",
+      "postal_code": "231073",
+      "coordinates": {
+        "latitude": -72.174732,
+        "longitude": -135.643972
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Вскакивать Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 260.02,
+      "total_price": 1300.1,
+      "kbju": {
+        "calories": 86.6,
+        "protein": 11.7,
+        "fat": 11.7,
+        "carbohydrates": 20.9
+      },
+      "manufacturer": {
+        "name": "ОАО «Захарова-Гущин»",
+        "country": "Россия",
+        "website": "https://npo.org",
+        "inn": "5364875189"
+      }
+    },
+    {
+      "product_id": "prd-1069",
+      "name": "Точно Черника",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 90.42,
+      "total_price": 90.42,
+      "kbju": {
+        "calories": 142.2,
+        "protein": 18.4,
+        "fat": 8.2,
+        "carbohydrates": 49.2
+      },
+      "manufacturer": {
+        "name": "НПО «Тихонов, Фомичев и Жукова»",
+        "country": "Россия",
+        "website": "https://ao.info",
+        "inn": "5434688941"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Коллектив Батон",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 159.89,
+      "total_price": 159.89,
+      "kbju": {
+        "calories": 255.8,
+        "protein": 5.3,
+        "fat": 5.4,
+        "carbohydrates": 13.2
+      },
+      "manufacturer": {
+        "name": "НПО «Осипов»",
+        "country": "Россия",
+        "website": "https://zao.info",
+        "inn": "3832684930"
+      }
+    }
+  ],
+  "total_amount": 1550.41,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Анива",
+    "street": "ш. Курортное",
+    "house": "53",
+    "apartment": "58",
+    "postal_code": "150135"
+  },
+  "purchase_datetime": "2025-11-25T15:28:45.931734"
+}

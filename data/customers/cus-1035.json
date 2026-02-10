@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1035",
+  "first_name": "Аверьян",
+  "last_name": "Богданова",
+  "email": "spiridon56@example.net",
+  "phone": "8 (090) 148-94-35",
+  "birth_date": "1970-08-27",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.916404",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-4B93835348",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Кашхатау",
+    "street": "алл. Звездная",
+    "house": "4",
+    "postal_code": "852708",
+    "coordinates": {
+      "latitude": -6.894356,
+      "longitude": 26.825058
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Кашхатау",
+    "street": "бул. Леонова",
+    "house": "1",
+    "apartment": "11",
+    "postal_code": "698167"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

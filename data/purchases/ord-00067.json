@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00067",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Евфросиния",
+    "last_name": "Пестов"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1056",
+      "name": "Спасть Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 116.84,
+      "total_price": 350.52,
+      "kbju": {
+        "calories": 269.3,
+        "protein": 12.8,
+        "fat": 1.7,
+        "carbohydrates": 38.2
+      },
+      "manufacturer": {
+        "name": "РАО «Веселов, Баранов и Устинов»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "2869539465"
+      }
+    },
+    {
+      "product_id": "prd-1065",
+      "name": "Зато Бананы",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 275.09,
+      "total_price": 275.09,
+      "kbju": {
+        "calories": 77.3,
+        "protein": 5.5,
+        "fat": 12.8,
+        "carbohydrates": 11.8
+      },
+      "manufacturer": {
+        "name": "Егорова Лтд",
+        "country": "Россия",
+        "website": "https://belov.edu",
+        "inn": "0910446572"
+      }
+    }
+  ],
+  "total_amount": 625.61,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Тикси",
+    "street": "алл. Космонавтов",
+    "house": "4",
+    "apartment": "25",
+    "postal_code": "199247"
+  },
+  "purchase_datetime": "2025-12-21T15:28:45.928018"
+}

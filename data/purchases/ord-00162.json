@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00162",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Владимир",
+    "last_name": "Дроздов"
+  },
+  "store": {
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на бул. Подстанция",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Ногинск (Моск.)",
+      "street": "ул. Дорожная",
+      "house": "49",
+      "postal_code": "794588",
+      "coordinates": {
+        "latitude": 11.4594385,
+        "longitude": -29.371717
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1085",
+      "name": "Ход Чеснок",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 38.21,
+      "total_price": 191.05,
+      "kbju": {
+        "calories": 140.2,
+        "protein": 17.9,
+        "fat": 2.0,
+        "carbohydrates": 6.1
+      },
+      "manufacturer": {
+        "name": "НОВАТЭК",
+        "country": "Россия",
+        "website": "https://kompanija.org",
+        "inn": "1394114094"
+      }
+    },
+    {
+      "product_id": "prd-1046",
+      "name": "О Кефир",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 228.45,
+      "total_price": 685.35,
+      "kbju": {
+        "calories": 91.5,
+        "protein": 8.1,
+        "fat": 6.6,
+        "carbohydrates": 41.4
+      },
+      "manufacturer": {
+        "name": "АО «Белякова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "0136649404"
+      }
+    },
+    {
+      "product_id": "prd-1053",
+      "name": "Неожиданно Йогурт",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 45.62,
+      "total_price": 45.62,
+      "kbju": {
+        "calories": 262.7,
+        "protein": 13.7,
+        "fat": 12.7,
+        "carbohydrates": 11.2
+      },
+      "manufacturer": {
+        "name": "Росатом",
+        "country": "Россия",
+        "website": "https://ooo.com",
+        "inn": "2219528239"
+      }
+    }
+  ],
+  "total_amount": 922.02,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Яр-Сале",
+    "street": "наб. Лесхозная",
+    "house": "875",
+    "apartment": "78",
+    "postal_code": "508523"
+  },
+  "purchase_datetime": "2025-12-30T15:28:45.941741"
+}

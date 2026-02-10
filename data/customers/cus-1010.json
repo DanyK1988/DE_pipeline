@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1010",
+  "first_name": "Прохор",
+  "last_name": "Александрова",
+  "email": "seliverstovisidor@example.net",
+  "phone": "8 308 187 4031",
+  "birth_date": "1992-01-19",
+  "gender": "male",
+  "registration_date": "2026-02-10T15:28:45.910042",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-BE6AE77FE0",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Молодежное",
+    "house": "51",
+    "postal_code": "924675",
+    "coordinates": {
+      "latitude": 25.106245,
+      "longitude": -25.643673
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

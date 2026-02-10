@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00074",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Прохор",
+    "last_name": "Александрова"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Проезжий",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Яр-Сале",
+      "street": "наб. Заозерная",
+      "house": "9/5",
+      "postal_code": "413618",
+      "coordinates": {
+        "latitude": -30.6678425,
+        "longitude": -115.86945
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1023",
+      "name": "Порт Свинина",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 177.42,
+      "total_price": 887.1,
+      "kbju": {
+        "calories": 85.1,
+        "protein": 16.6,
+        "fat": 13.4,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "РАО «Суворова Григорьева»",
+        "country": "Россия",
+        "website": "https://vo.org",
+        "inn": "1852957457"
+      }
+    },
+    {
+      "product_id": "prd-1059",
+      "name": "Соответствие Сливки",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 136.77,
+      "total_price": 547.08,
+      "kbju": {
+        "calories": 109.6,
+        "protein": 7.2,
+        "fat": 9.9,
+        "carbohydrates": 3.6
+      },
+      "manufacturer": {
+        "name": "НПО «Вишнякова»",
+        "country": "Россия",
+        "website": "https://mms.biz",
+        "inn": "2169738679"
+      }
+    },
+    {
+      "product_id": "prd-1025",
+      "name": "Мелочь Курица",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 41.15,
+      "total_price": 82.3,
+      "kbju": {
+        "calories": 90.7,
+        "protein": 19.6,
+        "fat": 3.8,
+        "carbohydrates": 23.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Фомина Калинин»",
+        "country": "Россия",
+        "website": "https://zao.edu",
+        "inn": "9677042154"
+      }
+    }
+  ],
+  "total_amount": 1516.48,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Выборг",
+    "street": "ш. Горняцкое",
+    "house": "5",
+    "apartment": "64",
+    "postal_code": "394813"
+  },
+  "purchase_datetime": "2025-11-15T15:28:45.929092"
+}

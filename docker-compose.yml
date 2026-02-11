@@ -16,7 +16,7 @@ services:
       CLICKHOUSE_HOST: clickhouse
     volumes:
       - ./etl:/app/etl
-    restart: unless-stopped
+    restart: no
 
 
   zookeeper:

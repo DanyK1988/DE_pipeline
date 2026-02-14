@@ -4,9 +4,11 @@ import os
 from pymongo import MongoClient
 from kafka import KafkaProducer
 from bson import json_util
+import hashlib
+import re
 
 
-print("Waiting for Kafka to be ready...")
+print("Ждем пока Kafka запустится...")
 time.sleep(15)
 # Читаем адреса из переменных окружения (указаны в docker-compose)
 KAFKA_SERVER = os.getenv('KAFKA_BOOTSTRAP_SERVERS', 'kafka:9092')
@@ -45,6 +47,16 @@ def migrate_data():
 
         count = 0
         for doc in cursor:
+            if coll_name == 'customers':
+                doc['email'] = hashlib.md5(doc['email'].encode('utf-8')).hexdigest()
+                raw_phone = doc.get('phone', '')
+
+                phone_digits = re.sub(r"\D", "", str(raw_phone))
+                if phone_digits.startswith("8"):
+                    phone_digits = "7" + phone_digits[1:]
+                if len(phone_digits) == 10:
+                    phone_number = "7" + phone_digits
+                doc['phone'] = hashlib.md5(phone_digits.encode('utf-8')).hexdigest()
             # Отправляем документ в топик с таким же именем
             # Kafka создаст топик автоматически при первой отправке (если включено в конфиге)
             producer.send(topic=coll_name, value=doc)

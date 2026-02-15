@@ -1,4 +1,4 @@
-customer_id,bought_milk_last_30d,bought_fruits_last_14d,not_bought_veggies_14d,recurrent_buyer,lost_client,new_customer,delivery_user,organic_preference,bulk_buyer,low_cost_buyer,buys_bakery,loyal_customer,bought_meat_last_week,night_shopper,morning_shopper,prefers_cash,prefers_card,weekday_shopper,weekend_shopper,single_item_buyer,varied_shopper,store_loyal,switching_store,multicity_buyer,recent_high_spender,early_bird,no_purchases,fruit_lover,vegetarian_profile
+customer_id,bought_milk_last_30d,bought_fruits_last_14d,not_bought_veggies_14d,recurrent_buyer,lost_client,new_customer,delivery_user,organic_preference,bulk_buyer,low_cost_buyer,buys_bakery,loyal_customer,bought_meat_last_week,night_shopper,morning_shopper,prefers_cash,prefers_card,weekday_shopper,weekend_shopper,prefers_single_item,varied_shopper,store_loyal,switching_store,multicity_buyer,recent_high_spender,early_bird,no_purchases,fruit_lover,vegetarian_profile
 cus-1000,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,0,1
 cus-1001,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1
 cus-1002,0,0,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,1

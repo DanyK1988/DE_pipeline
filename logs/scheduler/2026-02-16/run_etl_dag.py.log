@@ -1543,3 +1543,45 @@
 [2026-02-16T05:22:41.611+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:22:41.611+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2026-02-16T05:22:41.656+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:22:41.656+0000] {dag.py:3954} INFO - Setting next_dagrun for docker_etl_job to 2026-02-16 00:00:00+00:00, run_after=2026-02-17 00:00:00+00:00
 [2026-02-16T05:22:41.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/run_etl_dag.py took 0.237 seconds
+[2026-02-16T05:23:12.034+0000] {processor.py:161} INFO - Started process (PID=975) to work on /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:23:12.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/run_etl_dag.py for tasks to queue
+[2026-02-16T05:23:12.038+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:23:12.038+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:23:12.055+0000] {processor.py:840} INFO - DAG(s) 'docker_etl_job' retrieved from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:23:12.085+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:23:12.085+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-16T05:23:12.114+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:23:12.114+0000] {dag.py:3954} INFO - Setting next_dagrun for docker_etl_job to 2026-02-16 00:00:00+00:00, run_after=2026-02-17 00:00:00+00:00
+[2026-02-16T05:23:12.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/run_etl_dag.py took 0.105 seconds
+[2026-02-16T05:23:42.410+0000] {processor.py:161} INFO - Started process (PID=983) to work on /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:23:42.412+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/run_etl_dag.py for tasks to queue
+[2026-02-16T05:23:42.414+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:23:42.414+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:23:42.435+0000] {processor.py:840} INFO - DAG(s) 'docker_etl_job' retrieved from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:23:42.459+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:23:42.459+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-16T05:23:42.475+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:23:42.475+0000] {dag.py:3954} INFO - Setting next_dagrun for docker_etl_job to 2026-02-16 00:00:00+00:00, run_after=2026-02-17 00:00:00+00:00
+[2026-02-16T05:23:42.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/run_etl_dag.py took 0.082 seconds
+[2026-02-16T05:24:12.729+0000] {processor.py:161} INFO - Started process (PID=991) to work on /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:24:12.731+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/run_etl_dag.py for tasks to queue
+[2026-02-16T05:24:12.738+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:24:12.737+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:24:12.774+0000] {processor.py:840} INFO - DAG(s) 'docker_etl_job' retrieved from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:24:12.825+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:24:12.825+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-16T05:24:12.856+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:24:12.856+0000] {dag.py:3954} INFO - Setting next_dagrun for docker_etl_job to 2026-02-16 00:00:00+00:00, run_after=2026-02-17 00:00:00+00:00
+[2026-02-16T05:24:12.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/run_etl_dag.py took 0.161 seconds
+[2026-02-16T05:24:43.368+0000] {processor.py:161} INFO - Started process (PID=999) to work on /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:24:43.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/run_etl_dag.py for tasks to queue
+[2026-02-16T05:24:43.374+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:24:43.374+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:24:43.408+0000] {processor.py:840} INFO - DAG(s) 'docker_etl_job' retrieved from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:24:43.447+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:24:43.447+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-16T05:24:43.471+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:24:43.471+0000] {dag.py:3954} INFO - Setting next_dagrun for docker_etl_job to 2026-02-16 00:00:00+00:00, run_after=2026-02-17 00:00:00+00:00
+[2026-02-16T05:24:43.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/run_etl_dag.py took 0.156 seconds
+[2026-02-16T05:25:14.236+0000] {processor.py:161} INFO - Started process (PID=1007) to work on /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:25:14.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/run_etl_dag.py for tasks to queue
+[2026-02-16T05:25:14.241+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:25:14.241+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:25:14.262+0000] {processor.py:840} INFO - DAG(s) 'docker_etl_job' retrieved from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:25:14.305+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:25:14.305+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-16T05:25:14.328+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:25:14.328+0000] {dag.py:3954} INFO - Setting next_dagrun for docker_etl_job to 2026-02-16 00:00:00+00:00, run_after=2026-02-17 00:00:00+00:00
+[2026-02-16T05:25:14.342+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/run_etl_dag.py took 0.122 seconds
+[2026-02-16T05:25:44.681+0000] {processor.py:161} INFO - Started process (PID=1015) to work on /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:25:44.683+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/run_etl_dag.py for tasks to queue
+[2026-02-16T05:25:44.686+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:25:44.686+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:25:44.704+0000] {processor.py:840} INFO - DAG(s) 'docker_etl_job' retrieved from /opt/airflow/dags/run_etl_dag.py
+[2026-02-16T05:25:44.732+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:25:44.732+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2026-02-16T05:25:44.762+0000] {logging_mixin.py:188} INFO - [2026-02-16T05:25:44.762+0000] {dag.py:3954} INFO - Setting next_dagrun for docker_etl_job to 2026-02-16 00:00:00+00:00, run_after=2026-02-17 00:00:00+00:00
+[2026-02-16T05:25:44.775+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/run_etl_dag.py took 0.118 seconds

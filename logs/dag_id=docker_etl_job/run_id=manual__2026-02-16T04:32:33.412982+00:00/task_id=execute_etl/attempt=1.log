@@ -1,0 +1,52 @@
+[2026-02-16T04:32:34.854+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-02-16T04:32:34.877+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: docker_etl_job.execute_etl manual__2026-02-16T04:32:33.412982+00:00 [queued]>
+[2026-02-16T04:32:34.892+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: docker_etl_job.execute_etl manual__2026-02-16T04:32:33.412982+00:00 [queued]>
+[2026-02-16T04:32:34.892+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-02-16T04:32:34.903+0000] {taskinstance.py:2330} INFO - Executing <Task(DockerOperator): execute_etl> on 2026-02-16 04:32:33.412982+00:00
+[2026-02-16T04:32:34.908+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=223) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-02-16T04:32:34.909+0000] {standard_task_runner.py:63} INFO - Started process 224 to run task
+[2026-02-16T04:32:34.910+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'docker_etl_job', 'execute_etl', 'manual__2026-02-16T04:32:33.412982+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/run_etl_dag.py', '--cfg-path', '/tmp/tmpvq7zdehg']
+[2026-02-16T04:32:34.910+0000] {standard_task_runner.py:91} INFO - Job 4: Subtask execute_etl
+[2026-02-16T04:32:34.942+0000] {task_command.py:426} INFO - Running <TaskInstance: docker_etl_job.execute_etl manual__2026-02-16T04:32:33.412982+00:00 [running]> on host 65b0face19aa
+[2026-02-16T04:32:34.982+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='docker_etl_job' AIRFLOW_CTX_TASK_ID='execute_etl' AIRFLOW_CTX_EXECUTION_DATE='2026-02-16T04:32:33.412982+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-16T04:32:33.412982+00:00'
+[2026-02-16T04:32:34.983+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-02-16T04:32:35.022+0000] {docker.py:493} INFO - Pulling docker image my_etl_image:latest
+[2026-02-16T04:32:36.100+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-02-16T04:32:36.100+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/docker/api/client.py", line 275, in _raise_for_status
+    response.raise_for_status()
+  File "/home/airflow/.local/lib/python3.12/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: http+docker://localhost/v1.51/images/create?tag=latest&fromImage=my_etl_image
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/docker/operators/docker.py", line 495, in execute
+    for output in self.cli.pull(self.image, stream=True, decode=True):
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/docker/api/image.py", line 429, in pull
+    self._raise_for_status(response)
+  File "/home/airflow/.local/lib/python3.12/site-packages/docker/api/client.py", line 277, in _raise_for_status
+    raise create_api_error_from_http_exception(e) from e
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/docker/errors.py", line 39, in create_api_error_from_http_exception
+    raise cls(e, response=response, explanation=explanation) from e
+docker.errors.ImageNotFound: 404 Client Error for http+docker://localhost/v1.51/images/create?tag=latest&fromImage=my_etl_image: Not Found ("pull access denied for my_etl_image, repository does not exist or may require 'docker login'")
+[2026-02-16T04:32:36.111+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=docker_etl_job, task_id=execute_etl, run_id=manual__2026-02-16T04:32:33.412982+00:00, execution_date=20260216T043233, start_date=20260216T043234, end_date=20260216T043236
+[2026-02-16T04:32:36.120+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 4 for task execute_etl (404 Client Error for http+docker://localhost/v1.51/images/create?tag=latest&fromImage=my_etl_image: Not Found ("pull access denied for my_etl_image, repository does not exist or may require 'docker login'"); 224)
+[2026-02-16T04:32:36.154+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2026-02-16T04:32:36.164+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-02-16T04:32:36.164+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -10,7 +10,7 @@ spark = SparkSession.builder \
 
 purchase_schema = 'purchase_id STRING, purchase_datetime TIMESTAMP, customer_id STRING, store_id STRING, product_id STRING, product_name STRING, product_category STRING, quantity DOUBLE, price_per_unit DOUBLE, total_item_price DOUBLE, total_amount DOUBLE, payment_method STRING, is_delivery INTEGER, load_datetime TIMESTAMP'
 # Параметры подключения
-# Используем localhost, так как стучимся с твоего компьютера на внешний порт
+# Используем localhost
 ch_options_purcases = {
     "url": "jdbc:clickhouse://localhost:9123/silver",
     "user": "user",            # твой логин из docker-compose

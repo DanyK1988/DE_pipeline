@@ -1,0 +1,23 @@
+[2026-03-05T00:00:00.741+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-03-05T00:00:00.753+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: docker_etl_job.execute_etl scheduled__2026-03-04T00:00:00+00:00 [queued]>
+[2026-03-05T00:00:00.756+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: docker_etl_job.execute_etl scheduled__2026-03-04T00:00:00+00:00 [queued]>
+[2026-03-05T00:00:00.756+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-03-05T00:00:00.760+0000] {taskinstance.py:2330} INFO - Executing <Task(DockerOperator): execute_etl> on 2026-03-04 00:00:00+00:00
+[2026-03-05T00:00:00.764+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=342) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-03-05T00:00:00.764+0000] {standard_task_runner.py:63} INFO - Started process 343 to run task
+[2026-03-05T00:00:00.764+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'docker_etl_job', 'execute_etl', 'scheduled__2026-03-04T00:00:00+00:00', '--job-id', '25', '--raw', '--subdir', 'DAGS_FOLDER/run_etl_dag.py', '--cfg-path', '/tmp/tmpmf90fxfi']
+[2026-03-05T00:00:00.765+0000] {standard_task_runner.py:91} INFO - Job 25: Subtask execute_etl
+[2026-03-05T00:00:00.783+0000] {task_command.py:426} INFO - Running <TaskInstance: docker_etl_job.execute_etl scheduled__2026-03-04T00:00:00+00:00 [running]> on host 65b0face19aa
+[2026-03-05T00:00:00.817+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='docker_etl_job' AIRFLOW_CTX_TASK_ID='execute_etl' AIRFLOW_CTX_EXECUTION_DATE='2026-03-04T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-03-04T00:00:00+00:00'
+[2026-03-05T00:00:00.818+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-03-05T00:00:00.849+0000] {docker.py:366} INFO - Starting docker container from image my_etl_image:latest
+[2026-03-05T00:00:00.854+0000] {docker.py:374} WARNING - Using remote engine or docker-in-docker and mounting temporary volume from host is not supported. Falling back to `mount_tmp_dir=False` mode. You can set `mount_tmp_dir` parameter to False to disable mounting and remove the warning
+[2026-03-05T00:00:01.316+0000] {docker.py:436} INFO - Ждем пока Kafka запустится...
+[2026-03-05T00:00:18.341+0000] {docker.py:436} INFO - ❌ Ошибка подключения: NoBrokersAvailable
+[2026-03-05T00:00:18.588+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-03-05T00:00:18.613+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=docker_etl_job, task_id=execute_etl, run_id=scheduled__2026-03-04T00:00:00+00:00, execution_date=20260304T000000, start_date=20260305T000000, end_date=20260305T000018
+[2026-03-05T00:00:18.672+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-03-05T00:00:18.685+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-03-05T00:00:18.686+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

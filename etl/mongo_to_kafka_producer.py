@@ -155,7 +155,7 @@ def migrate_data():
 # ==============================
 # ▶ Запуск
 # ==============================
-
+''''''
 if __name__ == "__main__":
     start_time = time.time()
 
@@ -163,3 +163,5 @@ if __name__ == "__main__":
 
     end_time = time.time()
     print(f"⏱ Время выполнения: {round(end_time - start_time, 2)} сек.")
+
+'''

@@ -1,0 +1,33 @@
+[2026-02-21T00:00:26.385+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-02-21T00:00:26.426+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: docker_etl_job.execute_etl scheduled__2026-02-20T00:00:00+00:00 [queued]>
+[2026-02-21T00:00:26.435+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: docker_etl_job.execute_etl scheduled__2026-02-20T00:00:00+00:00 [queued]>
+[2026-02-21T00:00:26.435+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2026-02-21T00:00:26.444+0000] {taskinstance.py:2330} INFO - Executing <Task(DockerOperator): execute_etl> on 2026-02-20 00:00:00+00:00
+[2026-02-21T00:00:26.449+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=41385) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-02-21T00:00:26.450+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'docker_etl_job', 'execute_etl', 'scheduled__2026-02-20T00:00:00+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/run_etl_dag.py', '--cfg-path', '/tmp/tmpcjewrs77']
+[2026-02-21T00:00:26.451+0000] {standard_task_runner.py:91} INFO - Job 21: Subtask execute_etl
+[2026-02-21T00:00:26.451+0000] {standard_task_runner.py:63} INFO - Started process 41386 to run task
+[2026-02-21T00:00:26.487+0000] {task_command.py:426} INFO - Running <TaskInstance: docker_etl_job.execute_etl scheduled__2026-02-20T00:00:00+00:00 [running]> on host 65b0face19aa
+[2026-02-21T00:00:26.567+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='docker_etl_job' AIRFLOW_CTX_TASK_ID='execute_etl' AIRFLOW_CTX_EXECUTION_DATE='2026-02-20T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-02-20T00:00:00+00:00'
+[2026-02-21T00:00:26.568+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-02-21T00:00:26.689+0000] {docker.py:366} INFO - Starting docker container from image my_etl_image:latest
+[2026-02-21T00:00:26.722+0000] {docker.py:374} WARNING - Using remote engine or docker-in-docker and mounting temporary volume from host is not supported. Falling back to `mount_tmp_dir=False` mode. You can set `mount_tmp_dir` parameter to False to disable mounting and remove the warning
+[2026-02-21T00:00:28.022+0000] {docker.py:436} INFO - Ждем пока Kafka запустится...
+[2026-02-21T00:00:43.197+0000] {docker.py:436} INFO - ✅ Подключение к Mongo и Kafka установлено
+[2026-02-21T00:00:43.209+0000] {docker.py:436} INFO - 🚀 Начинаю отправку коллекции: customers
+[2026-02-21T00:00:43.374+0000] {docker.py:436} INFO - --- Завершено: customers. Отправлено документов: 45
+🚀 Начинаю отправку коллекции: products
+[2026-02-21T00:00:43.439+0000] {docker.py:436} INFO - --- Завершено: products. Отправлено документов: 100
+🚀 Начинаю отправку коллекции: stores
+[2026-02-21T00:00:43.538+0000] {docker.py:436} INFO - --- Завершено: stores. Отправлено документов: 45
+🚀 Начинаю отправку коллекции: purchases
+[2026-02-21T00:00:43.687+0000] {docker.py:436} INFO - --- Завершено: purchases. Отправлено документов: 200
+
+🎯 Миграция окончена! Всего сообщений в Kafka: 390
+[2026-02-21T00:00:44.458+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-02-21T00:00:44.572+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=docker_etl_job, task_id=execute_etl, run_id=scheduled__2026-02-20T00:00:00+00:00, execution_date=20260220T000000, start_date=20260221T000026, end_date=20260221T000044
+[2026-02-21T00:00:44.628+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-02-21T00:00:44.659+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-02-21T00:00:44.661+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
